@@ -2314,6 +2314,173 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Hechizos:** 16 PP. Manipulación elemental adaptado a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
 
 ***
+# Cultos salvajes
+
+### Secta del cuarenta
+
+> cuarenta colores diferentes las telas ... cuarenta cubas de grandes dimensiones y otras cuarenta de dimensiones más pequeñas ... una bandeja con cuarenta pasteles ... cuarenta días, transcurridos entre fiestas y regocijos ... permaneció allí cuarenta días y cuarenta noches ... permaneció allí cuarenta días y cuarenta noches ... cuarenta gruesas piedras preciosas ... y así hasta más de 250 referencias en las 1001 Noches.
+
+El 40 es un número de suma importancia en las creencias de muchos los pueblos que habitan todo Oriente Medio. Pero para esta secta apocalíptica el 40 hace referencia a los 40 días que Noé paso en su arca. El objetivo de este degenerado culto es crear un gran cataclismo, como un diluvio, que limpie la Tierra para su amo y señor Yog-Sothoth en su forma de 'Umr-At-Tawil y que este pueda traer de vuelta al resto de primigenios.
+
+Cada célula de esta organización está formada por 40 personas, con un único jefe que dirige todas las actividades del grupo. Las decisiones importantes del grupo se votan democráticamente. El líder solo es una forma de que alguien tome decisiones rápidas para los temas del día a día.
+
+Cuando una célula es descubierta o destruida o incluso sus proyectos apocalípticos acaban mortalmente, los supervivientes se separan a la espera de una señal de 'Umr-At-Tawil. El que recibe la señal puede crear una nueva célula.
+
+#### Personas destacadas que forman parte del culto
+
+Como secta es muy poco personalista. Cada célula es semi-autónoma y puede tener su jefe, elegido entre todas las personas de la célula, pero la secta como tal no tiene un líder que la dirija con mano de hierro. Los líderes de las diferentes células se comunican entre ellos y están organizados para llevar a cabo sus planes de destrucción mundial.
+
+Lo curioso de las células es que cada una es muy diferente de las otras, una puede ser ricos comerciantes, otra de criminales y otra de gente del mar. Normalmente cada culto tiene un público objetivo de donde saca militantes, pero esta secta literalmente tiene sectarios de cualquier extracto y condición social. Podemos considerar que los 40 ladrones de Alí Babá eran una célula de la secta que se dedica a robar para sustentar las actividades de otras células.
+
+#### Lugares de culto y refugios
+
+Cada célula de la secta tiene su guarida secreta, que pueden ir desde algún tipo de almacén medio abandonado hasta alcázares abandonados en las montañas o antiguas ruinas babilónicas.
+
+*   Cerca de Bagdad, la secta tiene un antiguo alcázar abandonado en la cima de una montaña. Están estudiando tecnología perdida y rescatada del fondo del mar. Parte de la célula vive en el alcázar y otra en Bagdad, consiguiendo dinero, material y provisiones para la gente del alcázar.
+*   Otra célula se ha asentado en Petra. Están explorando sus cientos y cientos de pasadizos en busca de algún conocimiento prohibido u objeto mágico que les ayude en sus apocalípticos objetivos. Petra no es muy frecuentada, pero la célula está haciendo correr rumores de maldiciones y monstruos para que nadie se acerque. De todas formas no tienen problemas el sacar la jaiba y cortar los gaznates de los intrusos.
+
+#### Rituales
+
+La secta del 40 es una secta muy pragmática y no son de perder tiempo en rituales y ceremonias. La mayoría del tiempo trabajan en sus planes apocalípticos con mucha dedicación. Solo algo rompe la rutina laboral, la comunión con 'Umr-At-Tawil. En este rito es celebrado cuando en una votación de la célula sale un resultado de 20/20. Este resultado considera que la decisión debe hacerla 'Umr-At-Tawil y por eso se le invoca.
+
+Cada grupo de votantes se coloca en un lado de la estancia y empiezan a hacer los rezos y las zalemas invocatorias. El grupo que tiene razón recibe la visión del avatar de Yog-Sothoth y pierde la cordura ante su presencia. Gritan, chillan, gimen e incluso pierden la razón. Cuando todo vuelve a la normalidad se hace lo que había votado el grupo tocado por 'Umr-At-Tawil.
+
+#### Situación actual
+
+Una célula de los 40 encontró un antiguo asentamiento acuático de los janns en el Golfo Pérsico. Han ido sacando todo tipo de artilugios del fondo marino y los han ido repartiendo entre otras células para ver que pueden hacer con estos ingenios. Muchos están destrozados por el agua y el tiempo, pero algunos parece que pudieran funcionar y esos grupos empiezan a tener éxitos en sus proyectos.
+
+### La Mano Dorada de Suc'Naath
+
+> ... y tras alabar el innombrable nombre de su dios, Suc'Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas. Pero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror. Y sin previo aviso, uno a uno, los danzantes fue cayendo dejando grabado en mi alma la cara abotargada de la luz de mis mañanas y mis ocasos.
+
+La Mano Dorada de Suc'Naath reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Suc'Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
+
+La secta es pequeña, pero muy poderosa, sus agentes mágicos tiene grandes poderes, sus artistas tienen mucha fama y dinero y sus asesinos son mortales. Cada miembro del culto, tras una concienzuda selección y con el beneplácito de la suma sacerdotisa Ziba, puede elegir un discípulo al que enseña todos sus secretos y todo el credo de la secta.
+
+Los y las artistas suelen escoger a la gente más fanática de su arte. Si manejan las energías de la magia, buscan a las personas que portan la esencia de Suc'Naath, ya que su magia es poderosa y son proclives a la locura y el caos. Por último, los asesinos y asesinas de la secta suelen buscar pillastres que viven en la calle sin familia a los que infundir sus macabras creencias.
+
+#### Personas destacadas que forman parte del culto
+
+La Mano Dorada de Suc'Naath es un culto muy pequeño, pero muy poderoso, solo los mejores entran en ella y después de haber demostrado con creces su fidelidad y fanatismo hacia la Mano Dorada y a Suc'Naath.
+
+*   Ziba, poderosa maga y suma sacerdotisa de la Mano Dorada de Suc'Naath. Como única portadora de la esencia de Suc'Naath es la más adecuada para liderar el culto. Además, esa esencia hace que sus poderes mágicos sean muy superiores a otros magos de la secta.
+*   Alura, amazona, guardaespaldas de Ziba y asesina principal de la Mano Dorada de Suc'Naath. Es la mano ejecutora de Ziba, fanática de la Mano Dorada y adicta a Ziba.
+
+#### Lugares de culto y refugios
+
+Actualmente, no tiene ningún lugar de culto fijo. Toda la secta está muy activa desde que se predijo la llegada del cometa Aiin y no tienen tiempo para rituales. Todos andan buscado la estatua que guarda la tercera parte de la esencia Suc'Naath. Antes de estos hechos tampoco eran de mucha ceremonia y rito, quedaban en khans perdidos en la nada para hacer sus extraños ritos de baile lejos de miradas indiscretas.
+
+Tampoco han tenido nunca la necesidad de tener refugios, ya que gran parte de sus cultistas eran ricos y poderosos, con grandes mansiones donde hacer sus reuniones y con dinero suficiente para callar bocas indiscretas.
+
+#### Rituales
+
+Siguiendo el destino de su amo y compartiendo su maldición, el principal ritual de la secta es bailar frenéticamente al sol de flautas, como Suc'Naath alrededor de Azathoth. Bailan hasta la extenuación y caen inconscientes al suelo. Los danzantes puede tener una catarsis y Suc'Naath puede entregarles una visión de su futuro o de su pasado.
+
+Fuera de los bailes que les ponen en comunión con su dios, son más de reuniones donde compartir secretos mágicos, hablar del arte profano que tanto les gusta y comentar sus trucos de asesino.
+
+Los adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc'Naath.
+
+#### Situación actual
+
+Actualmente, la secta está muy activa, los astrónomos han predicho que el cometa llamado Aiin se acerca a la Tierra y no volverá hasta dentro de muchos años. Esto hace que la Mano Dorada es moviéndose frenéticamente para encontrar la estatua perdida de Suc'Naath y buscar una forma de poder acercarse al cometa. La esencia de Suc'Naath ya corre por las venas de Ziba, así que esa parte ya esta completada.
+
+### La progenie de la Luna Creciente
+
+> Sobre la losa de piedra que usaban de altar el sacerdote tenía una figura de una antigua diosa de la fertilidad, si lo que recordaba de los libros del pasillo prohibido de la Casa de Sabiduría era correcto. Pero la estatuilla tenía algo extraño, antinatural. El grano de la piedra parecía como si tuviera miles de ojos y las vetas dotaban a la efigie de un volumen que parecía que cientos de tentáculos cada centímetro de su superficie.
+
+La progenie de la Luna Creciente es una secta de adoradores de Shub-Niggurath y de siervos de los Al Mighos que habitan la desértica región de Balad Ruz, a 90 km al este de Bagdad.
+
+Desde hace siglos hay una colonia de Al Mighos en las desérticas planicies de Balad Ruz donde tienen una instalación minera que extrae tierras raras. Siguiendo el _modus operandi_ de los Al Mighos, fueron buscando gente débil de mente a la que embaucaron y convirtieron en adeptos primero y siervos fanáticos después. Estos siervos con el paso de los años y las décadas asumieron las ideas religiosas de sus amos Al Mighos y empezaron a adorar a los mismos dioses que ellos.
+
+Era inevitable que con todo esto su adoración se convirtiera en un culto de seguidores de Shub-Niggurath que se autodenominó la Progenie de la Luna Creciente. No adoran directamente a Shub-Niggurath, sino que le adoran a través de una versión primigenia y depravada de Astarte, la antigua deidad cananea del amor, el sexo y la fertilidad, pero también de la guerra. Los primeros cultistas eran incapaces de asumir todas las implicaciones que suponía Shub-Niggurath y le crearon un avatar más asumible a sus mentes con la figura de una diosa Astarte caótica que exigía ritos sanguinarios y sexuales.
+
+Esta secta sirve como agentes humanos a los Al Mighos evitando principalmente que el resto de la gente meta sus narices en los territorios donde los Al Mighos extraen sus metales extraños.
+
+Con los años se han radicalizado, convirtiendo el asesinato su principal forma de interactuar con los problemas y los posibles intrusos.
+
+La secta está también muy militarizada y ha conseguido meter agentes en el ejército del Califa de Bagdad, incluso en sus altas esferas. De hecho, el sumo sacerdote del culto es uno de los generales más condecorados del Califa de Bagdad.
+
+#### Personas destacadas que forman parte del culto
+
+La mayoría de los miembros de la secta son gente de campo de Balad Ruz y forajidos y monadas que viven fuera de la sociedad es sus duras llanuras.
+
+*   Ibrahim Ibn Jibril, general del califa de Bagdad y sumo sacerdote de la Progenie
+
+#### Lugares de culto y refugios
+
+A lo largo de todo Balad Ruz, la secta tiene diferentes lugares de culto, normalmente cuevas secretas donde reunirse lejos de miradas indiscretas con sus señores Al Mighos y donde invocar a su diosa Astarte. Además, esas cuevas secretas son perfectas para entrar en contacto con los Vástagos de Astarte.
+
+*   Carnicería del zoco de alimentación del arrabal de Karkh (Bagdad). Los rituales y sacrificios se realizan en su sótano. La carnicería es una tapadera para sus sangrientas actividades.
+
+#### Rituales
+
+Los rituales de la secta se basan en los antiguos rituales de Astarte que los pueblos mesopotámicos y sumerios realizaban, pero añadiéndoles elementos de adoración a los Al Mighos y con muchos detalles malignos y macabros por su conexión con infame deidad de la fertilidad.
+
+Los rituales empiezan con libaciones y lustraciones con vino y agua, y continúan con el consumo de infusiones de flor de loto como psico-activo para conseguir sueños intensos, vividos y a veces proféticos. También es frecuente el uso de opio, extraído de la adormidera, a fin de excitar el deseo sexual. Podían acabar en orgías en las que zánganos de Al Mighos podrían tomar parte de una forma más o menos activa.
+
+No son raras las apariciones de los vástagos de Astarte al invocar a su madre en sus rituales. Normalmente, estas criaturas se descontrolan, con lo que los rituales suelen hacerse en lugares desérticos (como las llanuras de Balad Ruz) donde no pueden ser descubiertos y causar daños y perdidas humanas.
+
+Con la política del Califa de Bagdad de poblar estas llanuras, se está planteando usar estas criaturas para hacer huir a los nuevos colonos. Pero esto es una medida temporal, ya que solo terminará atrayendo el interés del Califa y su visir, que terminarán mandando a sus tropas, lo cual podría poner en peligro a la secta y al asentamiento Al Migho.
+
+#### Situación actual
+
+Dentro de los planes de mejoras públicas del califato está crear nuevas rutas comerciales. Una de esas rutas pasa por el territorio de los Al Mighos y va a suponer más tráfico de personas y mercancías por su zona. Eso supone más gente husmeando en el territorio, soldados protegiendo los caminos contra los bandidos y seguramente terminarán construyéndose khans.
+
+Estas noticias no agradan a los amos Al Mighos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.
+
+### Seguidores del Fuego y de la Luz
+
+> “Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.
+> 
+> **Referencia:** Historia de Zobeida, la mayor de las jóvenes (n. 16)
+
+Los seguidores del Fuego y la Luz son una secta depravada del zoroastrismo, que adoran a una versión de Ahura (la principal divinidad del zoroastrismo) a la que denominan Nardún. Nardún es en realidad el primigenio Cthugha, la llama viva.
+
+El fuego, como símbolo de Nardún, es el centro de este culto y está presente en todos sus aspectos, desde rituales a hechizos o simbología. Todo esto atrae a gran cantidad de pirómanos y personas desequilibradas con tendencias destructivas.
+
+Los miembros de esta secta son bastante anárquicos y solitarios y solo les une una serie de creencias, algunos rituales y ciertas celebraciones, pero por lo demás son bastante independientes. De normal, cada uno sigue su camino, pero cuando alguno consigue algo importante para el culto suele montar una celebración donde toman decisiones sobre que nuevos pasos deben dar como grupo. Aun así, pasan meses incluso años sin reunirse y tomar decisiones sobre los caminos que debe tomar el culto. Todo esto lo convierte en un culto en general poco peligroso, pero como consigan dar con objetos como la esfera celeste de Al-Schamardal, su capacidad de sembrar el caos y la destrucción en nombre de Nardún podría no tener límite.
+
+#### Personas destacadas que forman parte del culto
+
+El culto es pequeño y disperso y solo hay una figura de poder al que se pueda llamar líder.
+
+*   Bahram el Gauro, Adorador del Fuego, alquimista de oficio y líder de la secta del Fuego y de la Luz
+*   Aunque no sea fanático del culto, el famoso cantante Ishak Al-Dadim, ha tonteado con los miembros de la secta. Fácilmente, podría acabar fanatizado y pasaría a ser un cultista más con la ventaja de tener acceso al Califa Harún Al-Raschid.
+
+#### Lugares de culto y refugios
+
+No suelen tener sitios fijos de culto, pero cuando se reúnen suelen hacerlo en algún volcán a poder ser activo.
+
+*   Damavand (5.610 m). Montes Elburz, cordillera del Cáucaso. Es una zona conocida por ser zona de anidación de Rokhs.
+*   Kuh-i-Taftán (3.941 m). Es un volcán solitario y casi apagado al sureste del actual Irán.
+*   Erta Ale (613 m). Se encuentra al noroeste de la actual Etiopía, cerca del Mar rojo. Es una montaña solitaria en mitad de un erial al que los locales no se acercan por temer a los espíritus que lo habitan. Tiene dos lagos de lava que a veces desbordan por la ladera.
+
+Aparte de los volcanes al sur de Bagdad, a un día de camino, Bahram el Gauro tiene una guarida secreta. Tiene una llama eterna sobre un altar de sacrificios parecido a una parrilla donde asa a sus víctimas en sacrificios a Nardún. Además, esta equipada con todo tipo de objetos y componentes mágicos y provisiones para varios días.
+
+Por último, un importante números de seguidores y seguidoras del Fuego y de la Luz se han establecido en el lago Karún, cerca del El Cario. Allí vigilan si alguien, siguiendo las leyendas, consigue las carpas mágicas que te dirán donde está el tesoro de Al-Schamardal, donde la secta cree que se guarda un objeto mágico de gran poder que contiene parte de la esencia de su divino Nardún.
+
+#### Rituales
+
+Como no podía ser de otra manera, todos los ritos de este culto sectario están relacionados con el fuego. Los principales rituales se dan en los solsticios y equinocios en los que cuando el sol está en lo más alto se hacen todo tipo de ceremonias, pero principalmente sacrificios animales y humanos. Semanalmente, cada célula de esta secta lleva a cabo rituales menores. Diariamente, se hacen sacrificios al fuego como quemar comida o incienso.
+
+Sus miembros se automutilan quemándose partes de cuerpo para obtener cicatrices o se marcan a fuego símbolos de su deidad en el cuerpo con hierros de marcar.
+
+Los miembros más importantes suele tener una llama eterna que proviene del fuego que destruyo Sodoma y Gomorra. Ese fuego fue provocado, según sus creencias, por el propio Nardún y sería como, por ejemplo, para un cristiano tener una reliquia de la Santa Cruz.
+
+Los rituales normales conllevan saltar hogueras o andar sobre brasas. En las ocasiones especiales, se hacen sacrificios animales y humanos a Nardún, normalmente quemándoos vivos.
+
+Una ley fundamental de los ritos es que el fuego no se apaga de ninguna manera. Las celebraciones duran hasta que se apagan solos los últimos rescoldos del fuego. Si a algún cultista se le prenden la ropa no puede quitársela o apagarla, debe aguantar el fuego y aceptar el designio de Nardún. En combate seguirán peleando mientras se consumen entre llamas, sabiendo que Nardún les abrirá las puertas del paraíso al presentarse ante él envuelto en llamas.
+
+Dentro de sus rituales suele haber invocaciones voluntarias o involuntarias de fuegos de la Yahannam que son siervos de Nardún. Sea como sea son bienvenidas y aceptadas.
+
+#### Situación actual
+
+La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes recursos, pero el fanatismo de sus miembros y el poder de [Bahram el Gauro](#anchorbahramgauro) compensan todo eso. Bahram se ha convertido en el hombre del saco de toda la zona. Su nombre no se pronuncia sin santiguarse y se usa para asustar a los niños y niñas.
+
+Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
+
+
+***
 
 Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Widener%204#page/418/mode/2up
 
