@@ -920,12 +920,6 @@ Todos estos seres están ocultos a los habitantes del Caribe y solo unos pocos s
 
 Hemos excluido de este bestiario a primigenios y seres de igual poder. Principalmente debido a que son más elementos que hacen avanzar la historia que enemigos a combatir. La aventura es evitar que Cthulhu se levante, si se levanta tu misión ha fracasado. No trates de combatirlo, solo conseguirás una horrible muerte entre ventosas, babas y pseudópodos. Además, muchos de ellos están presos o dormidos en alguna extraña dimensión o a miles de años luz en el espacio profundo. Sin embargo, si puedes contactar, hacer tratos o combatir contra sus avatares. Las encarnaciones terrenales de los Primigenios puedes encontrarlos en la sección de "Quién es quién en el Caribe".
 
-Avatares de primigenios:
-
-* Barón Samedí (Nyarlathotep)
-* Totep (Nyarlathotep)
-* La llorona (Shub-Niggurath)
-
 ## Descomposición de los cuerpos
 
 Una cosa importante que debes tener en cuenta con todos estos seres (y que es muy típico de los relatos de Lovecraft) es que sus cadáveres se degradan rápidamente y desaparecen casi sin dejar rastro más que terribles hedores y líquidos viscosos. Muchas veces no podrás probar todas las cosas extrañas y terroríficas que te han pasado porque no quedará nada que enseñar. Puedes jugar con ello, haciendo que muchas veces la gente y en concreto las autoridades no crean a tu mesa y sin pruebas tomen sus historias de monstruos y dioses antiguos como chaladuras de locos.
@@ -937,8 +931,6 @@ Si son ingeniosos, pueden tratar de conservar los cuerpos usando todo tipo de tr
 Según Alhazred, los Janns fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
-
-[![An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.](https://1001ghules.gwannon.com/assests/images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.") 
 
 Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los Janns no son usables de forma normal por humanos y habría que adaptarlos.
 
@@ -973,8 +965,7 @@ Son seres voladores de apariencia insectoide con grandes alas membranosas y pies
   * **Volar:** Paso volando 12. En Tierra, a pesar de no moverse a la velocidad de la luz, son tremendamente rápidos.
 * **TPC:** 1d6 (manada)
 
-## Color que cayo del cielo
-
+## Color que vino del espacio
 El color es un extraño que no es de la tierra sino que viene de las estrellas. Las personas que han podido estudiar un color no se ponen de acuerdo sobre que son, pero lo describen como un color que se va extendiendo y que impregna todo, rocas, plantas y hasta animales y personas.
 
 Es una criatura muy básica que vive para sobrevivir y procrear. Cuando cae del cielo en algún tipo de meteorito, se "planta" cerca de donde cae, en algún lugar oscuro y cubierto y empieza a extraer la esencia vital de los seres vivos cercanos que se vuelven grises y quebradizos. Según consigue esencia vital va creciendo en tamaño.
@@ -1020,7 +1011,7 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e 
 
 ### Dhol (comodín)
 
-Los falak son inmensas serpientes/gusanos. Según la mitología árabe/islámica, un inmenso falak sostienen el mundo entero. De los que hablamos aquí son versiones más pequeñas, aunque no dejan de rondar los 400 metros de largo. No se sabe su forma exacta, ya que no salen a la luz del día y pocos sobreviven a su presencia.
+Los dhols son inmensas serpientes/gusanos. Según la mitología árabe/islámica, un inmenso falak sostienen el mundo entero. De los que hablamos aquí son versiones más pequeñas, aunque no dejan de rondar los 400 metros de largo. No se sabe su forma exacta, ya que no salen a la luz del día y pocos sobreviven a su presencia.
 
 Se dice que son albinos y están cubiertos de una baba que excreta su piel. No queda clara la forma de su boca. Hay versiones que dicen que es como un pico de tres partes y otras personas que está llena de dientes afiladísimos.
 
@@ -1533,6 +1524,10 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo Arcano (Hechicería primigenia). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
 * **Hechizos:** 16 PP. Manipulación elemental adaptado a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
+
+***
+
+Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Widener%204#page/418/mode/2up
 
 
 ***
