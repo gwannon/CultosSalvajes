@@ -1,0 +1,1 @@
+var indice = [{"title":"Portada","page":1},{"title":"Campa\u00f1a para Savage WorldsEdici\u00f3n Aventura","page":1},{"title":"","page":1},{"title":"Licencia de uso","page":3},{"title":"Horror y cordura","page":5},{"title":"Modificaciones de las TPC","page":7},{"title":"Cultos Salvajes","page":8},{"title":"Contraportada","page":8}]
