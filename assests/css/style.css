@@ -9,13 +9,13 @@
 }
 
 @font-face {
-  font-family: 'SpecialElite';
+  font-family: 'GlassAntiqua';
   font-weight: normal;
   font-style: normal;
-  src: url('../fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
+  src: url('../fonts/Glass_Antiqua/GlassAntiqua-Regular.ttf') format('truetype');
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Zeyada';
   font-weight: normal;
   font-style: normal;
@@ -27,10 +27,10 @@
   font-weight: normal;
   font-style: normal;
   src: url('../fonts/Reenie_Beanie/ReenieBeanie-Regular.ttf') format('truetype');
-}
+}*/
 
 p, li {
-  font-family: "SpecialElite", system-ui;
+  font-family: "GlassAntiqua", cursive;
   font-weight: 400;
   font-style: normal;
   color: #000000;
@@ -57,7 +57,7 @@ section > * {
 }
 
 h1, h2, h3, h4 {
-  font-family: "SpecialElite", system-ui;
+  font-family: "GlassAntiqua", cursive;
   font-weight: 700;
   position: relative;
 }
@@ -128,34 +128,11 @@ section:not(section:first-of-type, section:last-of-type) h1 {
 
 h2 {
   font-size: 1.7em;
-  display: inline-block;
-  overflow: hidden;
-  padding-bottom: 15px;
   clear: both;
-}
-
-h2:after,
-h2:before {
-  content: "---------------------------------------------";
-  display: block;
-  position: absolute;
-  bottom: -8px;
-  left: var(--padding);
-  width: calc(100% - 75px);
-  overflow: hidden;
-  height: 25px;
-}
-
-h2:before { 
-  bottom: -14px;
 }
 
 h3 {
   font-size: 1.5em;
-  display: inline-block;
-  overflow: hidden;
-  padding-bottom: 15px;
-  margin-bottom: 5px;
   clear: both;
 }
 
@@ -192,27 +169,12 @@ section > ul > li > ul > li:before {
   left: 0px;
 }
 
-h3:after {
-  content: "----------------------------------------------";
-  display: block;
-  position: absolute;
-  bottom: -5px;
-  left: var(--padding);
-  width: calc(100% - 75px);
-  overflow: hidden;
-  height: 25px;
-}
-
 section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   max-width: 100%;
   width: 100%;
   border: 15px solid #fff;
   rotate: 1deg;
   box-shadow: -12px 17px 22px -8px #000;
-}
-
-section p:nth-of-type(even) img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
-  rotate: -1deg;
 }
 
 a:has(img) {
@@ -223,7 +185,6 @@ a:has(img) {
 
 /* Tablas */
 table {
-  /*border-collapse: collapse;*/
   box-sizing: border-box;
   margin-bottom: 20px;
 }
@@ -233,9 +194,8 @@ div:has(table){
 }
 table tr td,
 table tr th {
-  font-family: "SpecialElite", system-ui;
+  font-family: "GlassAntiqua", cursive;
   padding: 10px;
-  /*border: 2px solid #000;*/
 }
 
 table tr, table td, table th {
@@ -291,8 +251,6 @@ table tr th:last-of-type:after {
   text-shadow: 0 0 20px black;
 }*/
 
-
-
 /* Portada */
 section:first-of-type {
   max-height: 3507px;
@@ -313,13 +271,10 @@ section:first-of-type > div {
 
 section:first-of-type > div > h1 {
   font-size: 2em;
-  color: #000;
+  color: #ffbf00;
   padding: 48px 30px 30px 30px;
-  background-color: #f5f5f5;
-  border-radius: 23px;
   max-width: 445px;
-  rotate: 2deg;
-  position:º relative;
+  text-shadow: 0 0 16px black;
 }
 
 @media (min-width: 600px) {
@@ -334,6 +289,8 @@ section:first-of-type h3 {
   line-height: 110%;
   color: #000;
   max-width: 503px;
+  color: #ffbf00;
+  text-shadow: 0 0 16px black;f
 }
 
 /* Indice */
@@ -349,7 +306,7 @@ section:first-of-type h3 {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  font-family: "SpecialElite", system-ui;
+  font-family: "GlassAntiqua", cursive;
 }
 
 .likeH1 {

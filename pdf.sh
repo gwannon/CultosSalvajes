@@ -6,4 +6,4 @@ pdftk 'CultosSalvajes.pdf' update_info_utf8 'metas.txt' output 'temp.pdf'
 rm metas.txt
 ./tools/pagination.sh temp.pdf CultosSalvajes.pdf
 rm temp.pdf
-rm temp.html
+#rm temp.html

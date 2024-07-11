@@ -184,32 +184,6 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 * Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
-## Equipo
-
-xxx
-
-#### Arma lanzarrayos yithania
-
-Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla. Al dispararse los rayos de eléctricos generan un gran zumbido del mismo nivel que disparando un arma de pólvora, es por ello que no son armas de infiltración si no de guerra.
-
-El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público podría suponer ser acusado de brujería.
-
-| Distancia | Daño | PA  | CDF | Munición | FUE Min. | Peso | Coste |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 50/100/150 | 2d8 | 2   | 1   | 35  | -- | 2   | -- |
-
-**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, forma que un 35 minutos tendrías el arma plenamente cargada.
-
-#### Cañón lanzarrayos yithanio
-
-Los laboratorios de RCPC han podido aprender mucho de la tecnología yith y, como no, lo han usado para crear armas más destructivas. Han desarrollado un arma lanzarrayos de gran tamaño, un cañón lanzarrayos de gran poder destructivo muy precisos y con a larga distancia. A diferencia de sus predecesores, los lanzarrayos yithanios, estos cañones están pensados para ser usados por humanos.
-
-| Distancia | Daño | PA  | CDF | Munición | Coste |
-| --- | --- | --- | --- | --- | --- |
-| 150/300/600 | 4d10 | 3   | 1   | 35  | -- |
-
-**Notas:** Necesita una dotación de 1 persona al no tener que recargar. Puede hacer que se sobrecaliente y termine explotando. Haría un daño de 3d10 en una plantilla mediana. Recarga 1 de munición por cada media hora, forma que en menos de 1 día tendrías el cañón plenamente cargado.
-
 ## Horror y cordura
 
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
@@ -337,6 +311,142 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 * Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
 * Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
+
+## Nuevos poderes de las 1001 Noches
+
+En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWADE.
+
+### Abrir puertas
+
+*   **Rango:** Novato
+*   **Puntos de poder:** 2 PP
+*   **Distancia:** Astucia
+*   **Duración:** Instantáneo
+
+Este poder hace que las puertas se abran lo suficiente para que la persona que uso el poder pueda entrar. Las puertas se desatrancarán, los rastrillos se subirán, las cerraduras se abrirán, etc. El efecto es instantáneo y la puerta se puede volver a cerrar, las trancas volver a colocar y bajar los rastrillos en el siguiente turno.
+
+El hechizo abre los elementos normales de una puerta, pero no afecta a elementos especiales. El pestillo y la cadena de la puerta se quitarán solas, pero si han puesto un armario para evitar que se abra la puerta, el armario y, por tanto, la puerta no se moverá ni un centímetro.
+
+#### Modificadores
+
+**Saltar las cerraduras (+2):** Gastando 2 PP extras las cerraduras y las trancas saltarán por los aires y los rastrillos se saldrán de sus carriles. Esto obligará al defensor a gastar 2 acciones completas para poder cerrar la puerta.
+
+**¡Sésamo, ciérrate! (+2):** Se puede usar el poder a la inversa para cerrar la puerta. El rastrillo se bajará solo, la tranca se pondrá en su sitio sola y los candados se pondrán solos aunque hayan saltado por los aires. Para poder usar este modificador debemos estar al otro lado de la puerta en el lugar del defensor. Habrá que pasar una tirada enfrentada en caso de querer cerrar una puerta abierta con este poder.
+
+### Buscar el camino
+
+*   **Rango:** Novato
+*   **Puntos de poder:** 2
+*   **Distancia:** --
+*   **Duración:** Hasta llegar al objetivo
+
+Según el ornamento, aparecerá delante de la persona que use el poder una guía que marcará el camino hasta el lugar que se busca.
+
+Debemos conocer el nombre del lugar que buscar y debe haber una forma física de llegar a ella. Si buscamos un lugar en las tierras de Sueños sin saber como llegar a mundo onírico, el hechizo fallará.
+
+La guía es visible para todo el mundo, con lo que, por ejemplo, un fuego fatuo que marca el camino podría ser visto por los guardias que protegen la muralla.
+
+A medida que se acerque al destino será cada vez más impreciso. Por ejemplo, nos puede llevar hasta el palacio del Califa, pero no específicamente a las habitaciones del Califa. Los lugares tendrán que tener nombre y cosas como "donde está el Califa" no funcionan.
+
+La guía siempre marca el camino más rápido posible que sea factible. Por ejemplo, evitará ríos y buscará puentes, pero no se preocupará si hay enemigos en la zona o si se quiere moverse sin ser detectado.
+
+Si nos alejamos demasiado de la guía, esta se disipa (a discreción de Scheherazade) y en caso de ser sitios ocultos con magia deberá hacerse una tirada enfrentada con el hechizo de ocultación que se usó. Una vez lanzado este hechizo se mantiene solo y no afecta al lanzamiento de otros hechizos.
+
+#### Modificadores
+
+**Preciso (+2):** Nos permite establecer un lugar mucho más concreto.
+
+**Oculto (+1):** Solo la persona que lo lanzo ve la guía que marca el camino.
+
+### Caminar sobre las aguas
+
+*   **Rango:** Experimentado
+*   **Puntos de poder:** 2
+*   **Distancia:** Astucia
+*   **Duración:** 2 horas
+
+Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr. No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se considerará terreno difícil.
+
+#### Modificadores
+
+**Objetivos adicionales (+1):** Es posible afectar a más de un objetivo, incrementando el coste en 1 PP por blanco adicional.
+
+### Invocar montura
+
+*   **Rango:** Novato
+*   **Puntos de poder:** 4
+*   **Distancia:** --
+*   **Duración:** Una semana
+
+Con este poder se invoca una montura (mula, caballo o camello) que tiene la capacidad de moverse a gran velocidad recorriendo en 1 día, lo que haría en 2 semanas. Además, no se ve afectado por los terrenos difíciles. Con un avance en la tirada se duplica la velocidad avanzando en 1 día lo que se recorrería en 1 mes.
+
+El poder incluye que los testigos que vean la montura y su jinete no se percaten de la gran velocidad que lleva.
+
+No se puede usar en combate más que como forma de huida. Durante el turno de subirte a la montura podrían atacarte. En cuanto te subes a la montura se mueve tan deprisa que quedas fuera de su alcance. Esto hace que nadie tenga capacidad de atacarte por métodos mundanos mientras huyes.
+
+#### Modificadores
+
+**Un mes en un día (x2):** La montura va tan rápido que en un día hace lo de un mes y con avance harían en un día lo que en un año.
+
+**Mayor carga (+2):** Se dobla la capacidad de carga de la montura. Si de normal sería una mula, en este caso podría ser un camello.
+
+**Pasajero adicional (+2):** Esta modificación permite llevar a solo un pasajero adicional y como en el modificador anterior pasaríamos de invocar una mula a invocar monturas más grandes como camellos o caballos.
+
+### Transmutación
+
+*   **Rango:** Especial
+*   **Puntos de poder:** 3PP x nivel de dificultad
+*   **Distancia:** Toque
+*   **Duración:** 1 hora
+
+La transmutación es el poder de convertir una materia en otra. Puede ser cosas tan clásicas como el plomo en oro o el agua en vino o más complejas como la carne en piedra.
+
+A la hora de calcular la dificultad y los PP que debes gastar para lanzar una transmutación, debes tener en cuenta estas variables y calcular el nivel de dificultad:
+
+*   **Estado de la material:** Transformar una materia en otra materia que esté en el mismo estado no supone ningún nivel. Transformar un sólido a líquido o un líquido a un gas exige 1 nivel. De sólido a gaseoso serían 2 niveles.
+*   **Complejidad de la materia:** No es lo mismo transformar una barra de plomo que un cuerpo humano. Por cada, elemento principal adicional que contenga la materia a transmutar o trasmutada sería un nivel. Un barrote de hierro no necesitaría ningún nivel extra, mientras que un objeto complejo como un ataúd serían 2 niveles extra, 0 por la madera de la caja y 2 niveles por el metal de las bisagras y los clavos y tela del interior.
+*   **Rareza:**Las materias pueden ser más o menos raras, transformar algo común como la madera en algo común como piedra es más sencillo que convertir cantos rodados (comunes) en diamantes (extremadamente raro). Hay 4 niveles de rareza, común, poco común, raro o muy raro. Pasar de un nivel a otro supone un nivel de dificultad. Convertir cantos rodados (común) en esmeraldas (muy raro) serían 3 niveles de dificultad.
+*   **Cantidad de materia a transmutar:** Cada metro cúbico de materia a transmutar supone 1 nivel, con un mínimo de 1. Un cuerpo humano sería medio metro cúbico, un gran portón de madera reforzada podría ser 3.
+
+La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste. Para que la transmutación se produzca debe pasarse una tirada de Saber de Suleimán contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
+
+Según el nivel del lanzador, puede intentar transmutaciones más difíciles.
+
+|     |     |
+| --- | --- |
+| Novato | 1 nivel |
+| Experimentado | 2 niveles |
+| Veterano | 4 niveles |
+| Heroico | 8 niveles |
+| Legendario | sin límite |
+
+La transmutación no sirve para crear otra cosa que la propia transformación de la materia. No puedes conseguir ventajas adicionales que puedan darte otros poderes.
+
+*   Si quieres tener Armadura convirtiendo tu piel en piedra no podrás conseguirlo con este hechizo, sino con un hechizo basado en el poder Armadura.
+*   No podrás volar convirtiéndote en gas, deberás tener el poder Vuelo para ello.
+*   Si deseas inmovilizar a un enemigo en pleno combate o mientras intenta huir tendrás que usar Captura.
+*   Quizás puedas convertir a tus enemigos en piedra después del combate como castigo o para poder llevarlos ante la justicia, pero nunca para emular otros poderes y sobre todo en situaciones de estrés.
+
+#### Ejemplos de transmutación
+
+**Carne en piedra (5 niveles, 15 PP, dificultad Vigor + 5 del objetivo):** Sería 0 niveles por convertir un sólido en un sólido (aunque la sangre sea líquida se considera en conjunto un sólido) + 3 niveles por el cuerpo humano (carne, huesos, piel y sangre) + 0 niveles por la piedra. + 1 por la cantidad + 1 por la rareza, de algo no común a algo común.
+
+**Plomo en oro (3 niveles, 9 PP, dificultad 7):** Sería 0 niveles por convertir un sólido en un sólido + 0 niveles por el plomo + 0 niveles por el oro + 1 por la cantidad + 2 niveles por convertir algo no común en algo muy raro.
+
+**Una jarra de agua en vino (1 nivel, 3 PP, dificultad 5):** Sería 0 niveles por convertir un líquido en un líquido + 0 niveles por el agua + 0 niveles por el vino + 1 por la cantidad + 0 por la rareza (algo común en algo común).
+
+#### Modificadores
+
+**A medías:** Normalmente transformas todo el objeto, si solo quieres transformar una parte el coste de PP se multiplica por 1,5.
+
+### Modificadores de poder
+
+#### Horror (gasto de poder/2):
+
+Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Adivinación puede hacerse tan horripilante (sombras aterradoras que rodean al o la vidente, voces graves y terroríficas, ...) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6. Incluso poderes de sanación puede ser horripilantes con esta modificación.
+
+Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmente los malos que realmente para tus schahriars y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
+
 
 ### Poderes permitidos
 
@@ -870,8 +980,6 @@ La nave puede tirarse días y semanas en las Tierras de los Sueños, pero cuando
 El ánfora se quedará en la Tierra de los sueños, para volver a aparecer años mas tarde en el mundo de la Vigilia.  
 Si algún tripulante se despierta mientras están en la Tierra de los Sueños, el barco y su tripulación se quedarán allí atrapados hasta que encuentren la forma de volver.
 
-**Arma lanzarrayos de la gran raza de Yith:** Esta arma de rayos parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Ver características en la sección de Equipo. Hay un 50% de posibilidades de que venga con un cargador extra.
-
 **Carta náutica de los profundos:** Estos mapas hechos por los profundos en piel curtida de tiburones y grandes cetáceos son muy detallados en temas de corrientes, costas, arrecifes, etc. y otorgan +2 a las tiradas de Navegar dentro de la zona representada por el mapa.
 
 **Cilindro cerebral de los Mi-Go:** Dentro de estos cilindros de metal verdusco hay un cerebro humano vivo. Los Mi-Go se dedican a meter cerebros de humano sobresalientes en estos cilindros para llevárselos a su planeta y poder estudiarlos y aprender de ellos. Estos cilindros tiene un sensor que le permite al cerebro escuchar que pasa a su alrededor y otro dispositivo que le permite comunicarse con una voz metálica.  
@@ -915,9 +1023,15 @@ Contienen los restos del Faraón Negro, un avatar de Nyarlathotep, y son tan pod
 Para activar el cristal de Leng el personaje debe estar en contacto con el cristal y este con la superficie y gastar la mitad de los puntos de armadura del material de la superficie. El efecto durará mientras el cristal esté en contacto con el hechicero y la superficie. El personaje puede mover el cristal a través de la superficie mientras no cambie el material. Por ejemplo, si quiere verse a través de una pared de piedra (armadura 10) deberá gastar 5 puntos de poder.  
 El cristal tiende a distorsionar de alguna manera lo que se ve y hacerlo más perturbado y caótico. Por ello, si se tiene que hacer una TPC por algo visto a través del cristal, la TPC tiene un nivel más.
 
+**Arma lanzarrayos yithania:** Esta arma de rayos, parecida a una cámara de fotos de gran tamaño, posee un gran poder destructivo. Tiene dos grandes asas y al pulsarse los gatillos que hay en cada asa lanza unos rayos que calcinan a su objetivo. Es por ello que se necesitan dos manos para poder usarla. Al dispararse los rayos de eléctricos generan un gran zumbido del mismo nivel que disparando un arma de pólvora, es por ello que no son armas de infiltración si no de guerra.
 
+El rayo de energía que lanza es plenamente visible, mucho más de noche, y usarla en público podría suponer ser acusado de brujería.
 
+| Distancia | Daño | PA  | CDF | Munición | FUE Min. | Peso | Coste |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 50/100/150 | 2d8 | 2   | 1   | 35  | -- | 2   | -- |
 
+**Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, forma que un 35 minutos tendrías el arma plenamente cargada.
 
 ## Tesoros míticos
 
@@ -1003,8 +1117,6 @@ El caballo de ébano es una figura de madera de ébano de un caballo trotando a 
 
 Este caballo fue creado por un loco artesano y alquimista persa (aunque otros dicen que de origen hindú), que vacío la figura y la relleno de un suero basado en el líquido que usan los Al Mighos en sus tubos cerebrales. En este líquido están flotando ciertos órganos extraídos de un ave de Rokh (Shantak) que le confieren al caballo algunas de las sus maravillosas propiedades que tiene el caballo.
 
-[![The Journey of Prince Firouz Schah - Houghton, Arthur Boyd](https://1001ghules.gwannon.com/assests/images/journey-firouz.jpg)](https://www.oldbookillustrations.com/illustrations/journey-firouz/ "The Journey of Prince Firouz Schah - Houghton, Arthur Boyd") 
-
 El caballo de ébano volando por toda la Tierra.
 
 Al presionar y mover las ruedas, tornillos y palancas que hay escondidas en su cabeza y debajo de la silla, el caballo se estimula diferentes partes de los órganos de ave de Rokh de su interior. Esto le permite elevarse y volar. Se mueve muy rápidamente si se desea, pudiendo recorrer en un día lo que un caballo recorrería en un año.
@@ -1070,8 +1182,6 @@ El gorro tiene su maldición, está hecho de piel de Ghūl y si eres herido llev
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
-[![Flautista Tolima, Colombia. Gold statuette 1200 B.C. ](https://1001ghules.gwannon.com/assests/images/flautista.png)](https://www.pinterest.es/pin/713257659705408985/ "Flautista Tolima, Colombia. Gold statuette 1200 B.C. ") 
-
 En el mismo estilo de la estatua del guerrero a caballo que corona la cúpula verde del palacio de las Maravillas de Bagdad, esta monstruosa figura de oro de unos 60 cm de altura hace que las milicias atacantes de la puerta donde se halle, caigan muertas de miedo y huyan despavoridas. De hecho, ningún miembro del ejército querrá acercarse a la ciudad, ya que de hacerlo empezará a recordar el terrible sonido de su aberrante flauta.
 
 La figura de este flautista amorfo no tiene ningún tipo de bisagra, ni articulación, ni engranaje. Cuando se mueve el metal y las gemas del que está hecho se animan como si fueran carne.
@@ -1089,8 +1199,6 @@ La figura solo puede defender una puerta (entiéndase puerta como un lado de la 
 > Cuando estés en esta terraza, ¡oh Aladino! ten cuidado, porque enfrente de ti verás una especie de hornacina al aire libre; y en esta hornacina, sobre un pedestal de bronce, encontrarás una lamparita de cobre. Y estará encendida esta lámpara. ¡Ahora, fíjate bien, Aladino! ¡cogerás esta lámpara, la apagarás, verterás en el suelo el aceite y te la esconderás en el pecho enseguida! Y no temas mancharte el traje, porque el aceite que viertas no será aceite, sino otro líquido que no deja huella alguna en las ropas. ¡Y volverás a mí por el mismo camino que hayas seguido!
 > 
 > **Referencia:** Historia de Aladino y de la lámpara mágica (n. 731-774)
-
-[![Aladin Lámpara Milagrosa por Karinamannott](https://1001ghules.gwannon.com/assests/images/lampara.jpg)](https://pixabay.com/es/photos/aladin-l%C3%A1mpara-milagrosa-magia-2368384/ "Aladin Lámpara Milagrosa por Karinamannott") 
 
 La lámpara mágica es quizás el objeto más poderoso y a la vez el más peligroso de todos los que podrás encontrarte en este mundo. Poderoso porque el yinn que en ella habita es un avatar de Nyarlathotep que puede cumplir todas tus órdenes. Peligroso porque malinterpretará a propósito tus órdenes para corromperte y cuando lo haya hecho para acabar con tu vida.
 
