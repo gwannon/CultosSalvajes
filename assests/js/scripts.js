@@ -3,7 +3,7 @@ $(document).ready(function () {
   let step = 62;
   var currentDiv = 1;
 
-  $("body>section h1, body>section h2")
+  $("body>section h1, body>section h2, body>section h3")
   .not(".noindex, section:last-of-type *")
   .each(function () {
     counter++;    
