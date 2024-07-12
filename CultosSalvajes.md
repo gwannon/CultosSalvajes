@@ -2484,6 +2484,8 @@ Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conse
 
 Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Widener%204#page/418/mode/2up
 
+Fondo interior https://www.deviantart.com/emaggz/art/Textures-Old-Paper-270228570
+
 
 ***
 
