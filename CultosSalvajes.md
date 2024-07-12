@@ -11,15 +11,9 @@ Hay una serie de reglas en esta ambientación que modifican las normas generales
 * La desventaja Analfabeto pasa a ser mayor. Aunque la mayoría de la gente no sabe ni leer ni escribir, para una persona que va a estar rodeado de libros y que los necesita para enfrentarse a seres muy poderosos, ser analfabeto es un problema serio.
 
 ## Nuevas habilidades
-
-En Cultos Salvajes puedes hacer uso de todas las habilidades básicas de SWEA a excepción de habilidades temporalmente ilógicas como Conducir, Electrónica y Ordenadores, ya que no hay vehículos autopropulsados, equipos eléctricos u ordenadores.
-
-Como ya hemos explicado en la creación de personajes. Ocultismo también desaparece como habilidad integrándose dentro de Conocimientos generales.
-
-Por otro lado, hay una serie de nuevas habilidades:
+En Cultos Salvajes puedes hacer uso de todas las habilidades básicas de SWEA. Por otro lado, hay una serie de nuevas habilidades:
 
 ### Mitos de Cthulhu
-
 Mitos de Cthulhu representa los conocimientos que tiene tu personaje sobre los Mitos de Cthulhu, los monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.
 
 Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros prohibidos y enfrentándote a los horrores de los mitos podrás subir esta habilidad. Reglas especiales:
@@ -30,15 +24,9 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 * No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
 
 ### Idioma cthulhunés (Astucia)
-
 El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
 La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como mglw'naph o fhtagn.
-
-_ph'nglui mglw'nafh Cthulhu  
-R'lyeh wgah'nagl fhtagn_  
-_En la Ciudad de R'lyeh, el difunto  
-Cthulhu, espera soñando_
 
 Durante la creación de personaje no puedes ponerle puntos a Idioma Cthulhunés a no ser que tengas la ventaja Experiencia con los Mitos.
 
@@ -47,61 +35,51 @@ El Cthulhunés puede ser entendido y leído (si está escrito en caracteres lati
 El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es por ello que afecta a la cordura del hablante. Así pues, cada vez que se suba este idioma, deberá hacerse una TPC (tirada de perdida de cordura) igual al nivel que se quiere conseguir.
 
 ### Idioma Naacal (Astucia)
-
 El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años. Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
 
 ## Nuevas desventajas
-
 La mayoría de las desventajas que hay en esta ambientación están relacionadas con la locura y el horror. Pueden ser bastante limitantes, así que ve con cuidado a la hora de escogerlas y trata consensuarlas con tu director de juego. Con una sola persona sentada a la mesa con "La llamada de Cthulhu" es más que suficiente.
 
 ### Débil de mente (mayor)
-
 Hay personas que no están preparadas para enfrentarse al horror y esta desventaja lo refleja. No estás preparado para todas las terribles visiones que vas a presenciar y las horribles situaciones que vas a experimentar. Pero por todo eso, enfrentarte al horror como vas a hacerlo es una señal de tu valor.
 
 Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para alguien con una mente débil. Este nivel extra se aplica al final, después de hacer todas las cuentas. Si sale que no hay tirar TPC, en realidad, tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
 
 ### Más cerca de la locura (mayor)
-
 Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea, tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.
 
 Empiezas con 3 puntos de cordura en vez de 4 como es normalmente. Nunca podrás tener más de 3 puntos de cordura, aunque termines una campaña con éxito y el DJ diga que recuperáis todos los puntos de cordura.
 
 ### La llamada de Cthulhu (menor)
-
 Tu mente artística e imaginativa es muy susceptible a las ondas mentales del Gran Cthulhu, teniendo terribles pesadillas sobre Cthulhu y su tumba acuática de R'lyeh.
 
 Siempre que te duermas sin tener benis, tendrás unas horribles pesadillas que no te dejarán dormir y tendrás un nivel de fatiga al día siguiente hasta que descanses una noche entera teniendo un beni y, por tanto, sin pesadillas. Durante las pesadillas podrás hacer uso de tu habilidad de Mitos de Cthulhu para tratar de sacar información, sobre Cthulhu, R'lyeh, sus adoradores y sus planes.
 
 ### Trastornos mentales
-
 Todo el sistema de horror/cordura típica de los juegos basados en la obra de Lovecraft se basa en trastornos mentales que vayan lastrando a tu personaje hasta acabar locos en un callejón del puerto de Tortuga gritando a los viandantes sobre que su fin está cerca cuando el gran Cthulhu despierte de su tumba acuática.
 
 Todos estos trastornos mentales debemos tratarlos como desventajas y se les aplican todas las reglas de las desventajas.
 
 Además, de las desventajas listadas a continuación puedes usar como trastornos mentales Avaricioso, Arrogante, Envidioso, Exceso de Confianza, Delirio, Fobia, Hábito, Manía y Sanguinario.
 
-### Amnesia y flashbacks (menor/mayor)
-
+#### Amnesia y flashbacks (menor/mayor)
 El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su familia, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, ...
 
 En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
 
-### Depresión (mayor/menor)
-
+#### Depresión (mayor/menor)
 Tu PJ sufre depresión y todo se le hace cuesta arriba, tiene siempre un bajo estado de ánimo y sentimientos de tristeza.
 
 Si es menor al principio de cada sesión deberá tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.
 
-### Trastorno de ansiedad generalizada (mayor/menor)
-
+#### Trastorno de ansiedad generalizada (mayor/menor)
 Este complejo trastorno mental consiste en una ansiedad general y continua por todos los aspectos de la vida. Se siente una ansiedad tremenda por asuntos que no son tan importantes, se siente ansiedad por tomar decisiones y elegir la peor, se sienten situaciones normales como más amenazantes de lo que son e incluso se siente ansiedad por tener ansiedad.
 
 En juego, el personaje con este trastorno recibe un -2 a todas las tiradas que necesite para tomar decisiones. Por ejemplo, hará una tirada de Tácticas con -2 para decidir que puerta es mejor para atacar la cárcel local y liberar a tus compañeros.
 
 Como mayor directamente no podrá hacer la tirada, la ansiedad le atenazará dejándole en blanco.
 
-### Ataques de pánico (mayor/menor)
-
+#### Ataques de pánico (mayor/menor)
 Están muy asociados con el trastorno anterior. Tu personaje sufre un miedo terrible de repente y sin sentido ante una situación o evento normal (normal para el personaje).
 
 Como desventaja menor, una vez por sesión el DJ podrá obligar a tu PJ a hacer una tirada de Espíritu o sufrirá un terrible ataque de pánico que le imposibilitará llevar a cabo la acción que quería hacer.
@@ -110,32 +88,27 @@ En caso de que sea mayor, no hará falta tirada, el DJ podrá hacer que el miedo
 
 Como DJ te aconsejo que uses sabiamente esta desventaja, sobre todo en mayor. Puede ser muy frustrante para cualquier persona no tener control de su personaje. Mi consejo es que lo uses como una forma de encauzar a quien se salgan de madre.
 
-### TOC - Trastorno obsesivo-compulsivo (mayor)
-
+#### TOC - Trastorno obsesivo-compulsivo (mayor)
 El trastorno obsesivo-compulsivo (TOC) se caracteriza por un miedo no deseado (obsesiones) que provocan comportamientos repetitivos (compulsiones). Por ejemplo, un miedo a las enfermedades puede llevar a un paciente de TOC a lavarse compulsívamente las manos.
 
 Deberás elegir una fobia menor y un hábito menor relacionado para formar el TOC de tu personaje.
 
-### Paranoia (mayor/menor)
-
+#### Paranoia (mayor/menor)
 Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
 
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.
 
 Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
 
-### Megalomanía (mayor/menor)
-
+#### Megalomanía (mayor/menor)
 La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir, manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.
 
 A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, ...), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
 
 ## Nuevas ventajas
-
 Como en el caso anterior de nuevas desventajas, todas las nuevas ventajas de Cultos Salvajes están muy relacionadas con el horror y la cordura y como en el caso anterior, pueden tener mucha influencia en el juego, así que trata de consensuar la elección de estas desventajas con tu DJ y el resto de la mesa.
 
 ### Acostumbrado al horror (tipo de monstruo)
-
 _Prerrequisitos: Novato_
 
 A base de enfrentarte a un horror específico te has acostumbrado y tu cordura no sufre al estar en su presencia.
@@ -143,7 +116,6 @@ A base de enfrentarte a un horror específico te has acostumbrado y tu cordura n
 A efectos de juego baja 4 niveles el TPC de un monstruo. Si el TPC modificado baja por debajo de d4 no necesitas hacer tirada de TPC. Por ejemplo, si estás "acostumbrado a los profundos" al ver un profundo (TPC d4) no tendrás que tirar, pero si ves una horda de 1000 profundos (TCP d12+1) solo tendrás que enfrentarse a un TPC (d6, 4 niveles menos).
 
 ### Experiencia con los Mitos
-
 _Prerrequisitos: Novato_
 
 Has tenido experiencias con los Mitos, quizás en tu niñez o adolescencia. Puede ser que vengas de un linaje de adoradores de Primigenios o que la sangre de profundo corra por sus venas. Puede ser que te enfrentaras a un monstruo de los Mitos y consiguieras sobrevivir o que tu abuela te transmitiera parte de los conocimientos prohibidos de su akelarre de brujas.
@@ -151,7 +123,6 @@ Has tenido experiencias con los Mitos, quizás en tu niñez o adolescencia. Pued
 A nivel de juego, podrás empezar con las ventajas "Nuevos poderes" y "Puntos de poder". Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad idioma Cthulhunés.
 
 ### Imán de lo extraño
-
 _Prerrequisitos: Novato_
 
 Todo lo extraño se siente atraído hacia ti para bien y para mal. Abres y lees el libro maldito, te pierdes en el bosque y acabas encontrando la casa de la bruja o se te cae una probeta del laboratorio del científico loco.
@@ -161,7 +132,6 @@ Todas las tiradas de botín en las que te veas involucrado podrás repetirlas ga
 En caso de que haya varias personas con esta ventaja, cada uno tendrá que gastarse un beni y añadirá una tirada extra. En caso de maldición, todos los jugadores con la ventaja serán maldecidos.
 
 ### Sensibilidad celta
-
 _Prerrequisitos: Novato_
 
 Tienes una sensibilidad especial a las energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia y en general todo lo relacionado con los Mitos. Como la desventaja "Llamada de Cthulhu" está muy relacionado con la sensibilidad y la creatividad.
@@ -169,7 +139,6 @@ Tienes una sensibilidad especial a las energías extrañas que nos rodean, desde
 TU PJ obtiene un +2 a todas las tiradas de Mitos de Cthulhu, pero también un -1 a todas las tiradas de TPC.
 
 ### Ritualista
-
 _Prerrequisitos: Novato_
 
 No has llegado a desarrollar tus dotes de hechicería, pero si controlas una serie de rituales que son de uso común en tu comunidad o en tu familia.
@@ -177,7 +146,6 @@ No has llegado a desarrollar tus dotes de hechicería, pero si controlas una ser
 Empiezas con 4 rituales, puedes elegirlos tú mismo, pero debe tener cierta coherencia con tu historia. Si tienes "Brindar al mar" porque vienes de un pueblo de pescadores, no tiene mucho sentido que sepas "Protección de la cosecha" que sería más de campesinos de interior. Además, tienes un +2 a las tiradas de Conocimientos generales relacionados con magia y hechicería.
 
 ## Benis
-
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
 * Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder. Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos de poder de los que tienes.
@@ -185,7 +153,6 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
 ## Horror y cordura
-
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
 
 Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
@@ -198,10 +165,10 @@ Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Pa
 
 Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, sino que recuperas un punto de cordura.
 
-| Tabla de Trastornos |     |     |     |     |
-| --- | --- | --- | --- | --- |
+**Tabla de Trastornos**
+
 |     | ♥   | ♣   | ♠   | ♦   |
-| --- | --- | --- | --- | --- |
+|--|--|--|--|--|
 | 2-3 | Paranoia (menor) | Delirio (menor) | Fobia (menor) | Manía (menor) |
 | 4-5 | Envidioso (menor) | Hábito (menor) | Fobia (menor) | Trastorno de ansiedad generalizada (menor) |
 | 6-7 | Fobia (menor) | Manía (menor) | Delirio (menor) | Fobia (menor) |
@@ -212,10 +179,10 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 | K   | Trastorno obsesivo-compulsivo (mayor) | Amnesia y flashbacks (mayor) | Ataques de pánico (mayor) | Delirio (mayor) |
 | A   | Fobia (mayor) | Paranoia (Mayor) | Hábito (mayor) | Depresión (mayor) |
 
-| Tabla de Duración del trastorno |     |     |     |     |
-| --- | --- | --- | --- | --- |
+**Tabla de Duración del trastorno**
+
 |     | ♥   | ♣   | ♠   | ♦   |
-| --- | --- | --- | --- | --- |
+|--|--|--|--|--|
 | 2 - 10 | 8 turnos | 8 minutos | 8 horas | 8 días |
 | J   | 10 turnos | 10 minutos | 10 horas | 10 días |
 | Q   | 12 turnos | 12 minutos | 12 horas | 12 días |
@@ -228,15 +195,22 @@ La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tira
 
 Las TPCs pueden ser modificadas en determinadas situaciones.
 
-* **Grandes grupos:** Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
-* **Acostumbrarse:** Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
-* **Pásame la jarra de ron:** Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
-* **Frenesí del combate:** Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
+#### Grandes grupos
+Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
 
-| Tabla de Modificación del TPC por grandes grupos |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
+#### Acostumbrarse
+Cada vez que pasas la tirada enfrentada de Astucia contra TPC te vas acostumbrando a ese horror en específico. Deberás apuntar las veces que ha pasado el TPC de determinado monstruo y hasta obtener 4 marcas, con lo que estará acostumbrado a ese horror y obtendrá la ventaja Acostumbrado al horror. Si falla la TPC y pierde puntos de cordura o adquiere un trastorno mental permanente o temporal, perderá una marca.
+
+#### Pásame la petaca de whisky
+Si el personaje puede prepararse para el horror al que se va a enfrentar, por ejemplo, trincándose un buen lingotazo de ron de su petaca antes de abrir la puerta del laboratorio donde los Mi-Go experimentan con humanos, obtendrá un +1 a su tirada de TPC y durará toda la escena. Para poder prepararse, deberá ser consciente de alguna manera de que va a enfrentarse al horror (por ejemplo, sabiendo que hay algo raro al otro lado de la puerta), no tendrá que estar en una situación de estrés, por ejemplo, un combate, persecución, … y deberá poder pasar unas 3 rondas preparándose para el horror que se le viene encima.
+
+#### Frenesí del combate
+Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. La adrenalina se encargará de todo, pero tampoco se acostumbrarán al horror. Aunque si puede pasar que el monstruo aparezca por sorpresa, les deje aturdidos y los ataque a continuación.
+
+**Tabla de Modificación del TPC por grandes grupos**
+
 | Tamaño de la manada | d4  | d6  | d8  | d10 | d12 |
-| --- | --- | --- | --- | --- | --- |
+|--|--|--|--|--|--|
 | hasta tamaño del grupo (0) | d4  | d6  | d8  | d10 | d12 |
 | hasta tamaño del grupo x 2 (+1) | d6  | d8  | d10 | d12 | d12+1 |
 | hasta tamaño del grupo x 5 (+2) | d8  | d10 | d12 | d12+1 | d12+2 |
@@ -318,10 +292,10 @@ En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontr
 
 ### Abrir puertas
 
-*   **Rango:** Novato
-*   **Puntos de poder:** 2 PP
-*   **Distancia:** Astucia
-*   **Duración:** Instantáneo
+* **Rango:** Novato
+* **Puntos de poder:** 2 PP
+* **Distancia:** Astucia
+* **Duración:** Instantáneo
 
 Este poder hace que las puertas se abran lo suficiente para que la persona que uso el poder pueda entrar. Las puertas se desatrancarán, los rastrillos se subirán, las cerraduras se abrirán, etc. El efecto es instantáneo y la puerta se puede volver a cerrar, las trancas volver a colocar y bajar los rastrillos en el siguiente turno.
 
@@ -335,10 +309,10 @@ El hechizo abre los elementos normales de una puerta, pero no afecta a elementos
 
 ### Buscar el camino
 
-*   **Rango:** Novato
-*   **Puntos de poder:** 2
-*   **Distancia:** --
-*   **Duración:** Hasta llegar al objetivo
+* **Rango:** Novato
+* **Puntos de poder:** 2
+* **Distancia:** --
+* **Duración:** Hasta llegar al objetivo
 
 Según el ornamento, aparecerá delante de la persona que use el poder una guía que marcará el camino hasta el lugar que se busca.
 
@@ -360,10 +334,10 @@ Si nos alejamos demasiado de la guía, esta se disipa (a discreción de Schehera
 
 ### Caminar sobre las aguas
 
-*   **Rango:** Experimentado
-*   **Puntos de poder:** 2
-*   **Distancia:** Astucia
-*   **Duración:** 2 horas
+* **Rango:** Experimentado
+* **Puntos de poder:** 2
+* **Distancia:** Astucia
+* **Duración:** 2 horas
 
 Caminar sobre las aguas permite al objetivo caminar por superficies líquidas como el mar como si fueran sólidas. El éxito le permite desplazarse a su Paso normal, con aumento, podrá correr. No podrá sumergirse en el agua, pero podrá tumbarse. Si hay oleaje, se considerará terreno difícil.
 
@@ -373,10 +347,10 @@ Caminar sobre las aguas permite al objetivo caminar por superficies líquidas co
 
 ### Invocar montura
 
-*   **Rango:** Novato
-*   **Puntos de poder:** 4
-*   **Distancia:** --
-*   **Duración:** Una semana
+* **Rango:** Novato
+* **Puntos de poder:** 4
+* **Distancia:** --
+* **Duración:** Una semana
 
 Con este poder se invoca una montura (mula, caballo o camello) que tiene la capacidad de moverse a gran velocidad recorriendo en 1 día, lo que haría en 2 semanas. Además, no se ve afectado por los terrenos difíciles. Con un avance en la tirada se duplica la velocidad avanzando en 1 día lo que se recorrería en 1 mes.
 
@@ -394,19 +368,19 @@ No se puede usar en combate más que como forma de huida. Durante el turno de su
 
 ### Transmutación
 
-*   **Rango:** Especial
-*   **Puntos de poder:** 3PP x nivel de dificultad
-*   **Distancia:** Toque
-*   **Duración:** 1 hora
+* **Rango:** Especial
+* **Puntos de poder:** 3PP x nivel de dificultad
+* **Distancia:** Toque
+* **Duración:** 1 hora
 
 La transmutación es el poder de convertir una materia en otra. Puede ser cosas tan clásicas como el plomo en oro o el agua en vino o más complejas como la carne en piedra.
 
 A la hora de calcular la dificultad y los PP que debes gastar para lanzar una transmutación, debes tener en cuenta estas variables y calcular el nivel de dificultad:
 
-*   **Estado de la material:** Transformar una materia en otra materia que esté en el mismo estado no supone ningún nivel. Transformar un sólido a líquido o un líquido a un gas exige 1 nivel. De sólido a gaseoso serían 2 niveles.
-*   **Complejidad de la materia:** No es lo mismo transformar una barra de plomo que un cuerpo humano. Por cada, elemento principal adicional que contenga la materia a transmutar o trasmutada sería un nivel. Un barrote de hierro no necesitaría ningún nivel extra, mientras que un objeto complejo como un ataúd serían 2 niveles extra, 0 por la madera de la caja y 2 niveles por el metal de las bisagras y los clavos y tela del interior.
-*   **Rareza:**Las materias pueden ser más o menos raras, transformar algo común como la madera en algo común como piedra es más sencillo que convertir cantos rodados (comunes) en diamantes (extremadamente raro). Hay 4 niveles de rareza, común, poco común, raro o muy raro. Pasar de un nivel a otro supone un nivel de dificultad. Convertir cantos rodados (común) en esmeraldas (muy raro) serían 3 niveles de dificultad.
-*   **Cantidad de materia a transmutar:** Cada metro cúbico de materia a transmutar supone 1 nivel, con un mínimo de 1. Un cuerpo humano sería medio metro cúbico, un gran portón de madera reforzada podría ser 3.
+* **Estado de la material:** Transformar una materia en otra materia que esté en el mismo estado no supone ningún nivel. Transformar un sólido a líquido o un líquido a un gas exige 1 nivel. De sólido a gaseoso serían 2 niveles.
+* **Complejidad de la materia:** No es lo mismo transformar una barra de plomo que un cuerpo humano. Por cada, elemento principal adicional que contenga la materia a transmutar o trasmutada sería un nivel. Un barrote de hierro no necesitaría ningún nivel extra, mientras que un objeto complejo como un ataúd serían 2 niveles extra, 0 por la madera de la caja y 2 niveles por el metal de las bisagras y los clavos y tela del interior.
+* **Rareza:**Las materias pueden ser más o menos raras, transformar algo común como la madera en algo común como piedra es más sencillo que convertir cantos rodados (comunes) en diamantes (extremadamente raro). Hay 4 niveles de rareza, común, poco común, raro o muy raro. Pasar de un nivel a otro supone un nivel de dificultad. Convertir cantos rodados (común) en esmeraldas (muy raro) serían 3 niveles de dificultad.
+* **Cantidad de materia a transmutar:** Cada metro cúbico de materia a transmutar supone 1 nivel, con un mínimo de 1. Un cuerpo humano sería medio metro cúbico, un gran portón de madera reforzada podría ser 3.
 
 La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste. Para que la transmutación se produzca debe pasarse una tirada de Saber de Suleimán contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
 
@@ -1922,7 +1896,7 @@ Aun así, son tremendamente poderosos y sus mentes llevan poco a la locura a los
 Los lloigors son seres de energía invisibles en forma de vórtice. En este estado suelen coger a individuos marginales y de mente débiles y convertirlos en sus siervos que se encargan de hacer las tareas que ellos no pueden.
 
 * **Atributos:** Agilidad --, Astucia d12+1, Espíritu d12+3, Fuerza --, Vigor --
-* **Habilidades:** Mitos d12, Notar d10, Sigilo d8
+* **Habilidades:** Mitos de Cthulhu d12, Notar d10, Sigilo d8
 * **Paso:** 6; **Parada:** --; **Dureza:** --
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
@@ -1936,7 +1910,7 @@ Los lloigors son seres de energía invisibles en forma de vórtice. En este esta
 El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y patilargo de gran tamaño. Se les considera como una de las posibles explicaciones a las historias de los dragones.
 
 * **Atributos:** Agilidad d8, Astucia d12+1, Espíritu d12+1, Fuerza d12+3, Vigor d12
-* **Habilidades:** Mitos d12, Notar d10, Pelear d10, Sigilo d8
+* **Habilidades:** Mitos de Cthulhu d12, Notar d10, Pelear d10, Sigilo d8
 * **Paso:** 6; **Parada:** 7; **Dureza:** 19(15)
 * **Ventajas:** Puntos de poder, Nuevo poder x2
 * **Capacidades especiales:**
@@ -1975,7 +1949,7 @@ Durante milenios dominaron la Tierra antes de la aparición de los humanos, pero
 Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas de las decisiones que toman parecen no tener sentido.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d12+6, Vigor d12+2
-* **Habilidades:** Mitos d8, Notar d8, Pelear d12
+* **Habilidades:** Mitos de Cthulhu d8, Notar d8, Pelear d12
 * **Paso:** 4; **Parada:** 8; **Dureza:** 16 (14)
 * **Capacidades especiales:**
   * **Armadura +2:** Su gruesa piel les confieren una buena armadura.
@@ -2084,7 +2058,7 @@ Los perros de Tíndalos representan todo lo que es impuro y odian todo lo que es
 Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y la forma más segura de protegerse sería en una habitación sin ángulos, por ejemplo, una habitación donde las juntas entre paredes, techo y suelo hayan sido rellenadas de cemento, de forma que haya ángulos rectos.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d10, Fuerza d12, Vigor d12+2
-* **Habilidades:** Mitos d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
+* **Habilidades:** Mitos de Cthulhu d8, Notar d12, Pelear d12, Sigilo d12, Supervivencia d10
 * **Paso:** 10; **Parada:** 8; **Dureza:** 11(9)
 * **Capacidades especiales:**
   * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
@@ -2251,11 +2225,10 @@ Los Yuggothianos son una raza que se dedica a moverse por el espacio e ir conqui
 Los yuggothianos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. Esta tecnología les permite a los Mi-Go llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
 
 ### Yuggothiano colono (secuaz)
-
 Los colonos son la mano de obra y la fuerza de combate de los yuggothianos. Trabajan en las minas extrayendo extraños minerales y defienden sus asentamientos secretos. Son fuertes, ágiles y resistentes.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8 Vigor d8
-* **Habilidades:** Ciencias d6, Disparar d8, Medicina d4, Mitos d6, Notar d8, Pelear d8
+* **Habilidades:** Ciencias d6, Disparar d8, Medicina d4, Mitos de Cthulhu d6, Notar d8, Pelear d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 8 (2)
 * **Ventajas:** Frenesí Mejorado.
 * **Capacidades especiales:**
@@ -2266,11 +2239,10 @@ Los colonos son la mano de obra y la fuerza de combate de los yuggothianos. Trab
 * **TPC:** 1d6
 
 ### Yuggothiano científico (secuaz)
-
 Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes y resistentes como los colonos, pero son más inteligentes.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d4, Vigor d6
-* **Habilidades:** Ciencias d10, Medicina d10, Mitos d6, Notar d6, Pelear d4
+* **Habilidades:** Ciencias d10, Medicina d10, Mitos de Cthulhu d6, Notar d6, Pelear d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Capacidades especiales:**
   * **Armadura +2:** Caparazón de crustáceo
@@ -2282,8 +2254,7 @@ Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes
 
 Con el material adecuado, un Mi-go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
 
-## Secuaces y criaturas
-
+## Secuaces
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas, tus mercados de extraños vendedores, tus mares de barcos sin bandera con oscuras velas y tus junglas de animales de grandes dientes y afiladas garras acechando entre la vegetación. Aquí tienes todo lo necesario para que rellenes todos esos huecos en tus historias.
 
 En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
@@ -2297,7 +2268,7 @@ xxx
 Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo sucio de la secta. Serían los guardias, los matones, los ayudantes de laboratorio, etc. No tiene ningún tipo de poder, solo obedecen órdenes a la espera de ascender en la estructura del culto.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Idioma materno d6, Idioma criollo d4, Mitos d4, Notar d6, Pelear d6, Reparar d6
+* **Habilidades:** Atletismo d6, Idioma materno d6, Idioma criollo d4, Mitos de Cthulhu d4, Notar d6, Pelear d6, Reparar d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Elige 1 o más: Alerta, Callejear, Responsable, Ritualista
@@ -2307,7 +2278,7 @@ Estamos hablando de cultistas de nivel bajo que se dedican a hacer el trabajo su
 Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pie de campo según las órdenes de los círculos superiores del culto. Tienen acceso a los recursos económicos y mágicos.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Humanidades d8, Idioma materno d8, Idioma criollo d6, Idioma extranjero d6, Mitos d8, Notar d6, Pelear d6
+* **Habilidades:** Atletismo d4, Humanidades d8, Idioma materno d8, Idioma criollo d6, Idioma extranjero d6, Mitos de Cthulhu d8, Notar d6, Pelear d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Elige 1 o más: Arrogante, Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Leal (Menor)
 * **Ventajas:** Nuevos Poderes x2, Puntos de poder, Trasfondo Arcano (Hechicería primigenia). Elige 1 o más: Alcurnia, Alerta, Callejear, Responsable, Rico, Ritualista
@@ -2485,6 +2456,8 @@ Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conse
 Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Widener%204#page/418/mode/2up
 
 Fondo interior https://www.deviantart.com/emaggz/art/Textures-Old-Paper-270228570
+
+Fondo Oro https://pixahive.com/photo/golden-texture-background-3/
 
 
 ***
