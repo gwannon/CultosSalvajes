@@ -2,10 +2,6 @@
   display: none;
 }
 
-li.saltopagina {
-  display: list-item;
-}
-
 body {
   background: #fff url(../images/bg.jpg) repeat-y top center;
   background-size: contain;
@@ -15,7 +11,6 @@ body {
 }
 
 @media print {
-
   @page {
     size: A4;
     margin: 0;
@@ -38,13 +33,4 @@ body {
   .likeH3 span {
     display: block;
   }
-  
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Dibujo]):before,
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Plano]):before,
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Imagen]):before,
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Retrato]):before {
-    rotate: -85deg;
-    top: 32px;
-  }
-
 }
