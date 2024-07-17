@@ -1533,6 +1533,8 @@ Una cosa importante que debes tener en cuenta con todos estos seres (y que es mu
 Si son ingeniosos, pueden tratar de conservar los cuerpos usando todo tipo de trucos. Desde conservarlos en salazón o ahumarlos hasta introducirlos en barriles llenos de alcohol o formol. De hecho, entre el botín que pueden conseguir en sus aventuras hay varios dispositivos que les ayudarán en esas tareas de conservación de cadáveres.
 
 ## Antiguos
+[![An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.](./assests/images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.")
+
 Según Alhazred, los Antiguos fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
@@ -1768,6 +1770,8 @@ Los noctivagos son unos seres con unas grandes alas de murciélago y colas con p
 * **TPC:** 1d6 (manada)
 
 ## Pólipos volantes (secuaz)
+[![Flying Polyp by Dagonweb (Khannea SunTzu)](./assests/images/polipo.jpg)](https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg "Flying Polyp by Dagonweb (Khannea SunTzu)")
+
 Los pólipos volantes son una raza extraterrestre que como bien dice su nombre tienen forma de pólipos, un gran tronco con gran cantidad de pseudópodos en uno de los extremos. No tienen sentidos como los humanos, de hecho, son ciegos, pero usan sus otros sentidos para poder moverse por la oscuridad sin problemas o sentir a través de las paredes.
 
 Son semi materiales, no son del todo materiales, pero tampoco totalmente incorpóreos. Son lo suficientemente materiales para interactuar con los objetos y los suficientemente incorpóreos para que los vientos los sostengan y para que puedan hacerse invisibles.
@@ -1794,6 +1798,8 @@ Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas
 Los pólipos ya son de por sí enemigos temibles, pero pueden ponerles hechizos si quieres aumentar su dificultad. Ten en cuenta que deberían ser hechizos ofensivos como Proyectil o Confusión que tenga un ornamento basado en el aire.
 
 ## Profundos
+[![Fishy Alien creature by RAPHTOR](./assests/images/profundo.webp)](https://www.deviantart.com/raphtor/art/Fishy-Alien-creature-315217052 "Fishy Alien creature by RAPHTOR")
+
 Los Profundos son unas criaturas humanoides acuáticas mezcla de pez y rana. Tienen cabezas de pez con unos grandes ojos sin párpados y agallas en el cuello. Pies y manos palmeadas que acaban en zarpas. Su piel resbaladiza de sapo, que se llena de escamas en la zona de la espina dorsal, es de color gris verdoso, aunque su vientre es blanquecino.
 
 Solo mueren de forma violenta. Según las leyendas viven eternamente en el fondo del mar en asentamientos submarinos, sirviendo a Dagón e Hydra y esperando el momento adecuado para alzarse de las profundidades y acabar con la raza humana.
@@ -1955,6 +1961,8 @@ Sirven a los Dioses Exteriores, en especial al gran Azathoth y en menor medida a
 * **TPC:** d8
 
 ## Shoggoth (comodín)
+[![Shoggoth por Nottsuo](./assests/images/shoggoth.webp)](https://www.deviantart.com/nottsuo/art/Shoggoth-594261203 "Shoggoth por Nottsuo")
+
 Los shoggoths son masas informes y burbujeantes de protoplasma. Tiene un tamaño de unos 6 metros de diámetro y unos 3 de altura. Pueden generar ojos y tentáculos en cualquier parte de su estructura. Fueron creados por Los Antiguos como mulas de carga en la construcción de sus ciudades acuáticas. No quedan muchos, pero aún se pueden encontrar en oscuras fosas marinas sirviendo a los profundos.
 
 A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumentando su inteligencia hasta tener una inteligencia humana, aunque tampoco es que sean muy inteligentes. Se conocen casos en los que han desarrollado la capacidad de habla.
@@ -1995,6 +2003,8 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 * **TPC:** 1d4 (manada)
 
 ## Yithianos
+[![Grate race of YITH by Nottsuo](./assests/images/yith.webp)](https://www.deviantart.com/nottsuo/art/Grate-race-of-YITH-retouch2-875186832 "Grate race of YITH by Nottsuo")
+
 Los yithianos es una raza extraterrestre que no tiene forma corpórea. Vinieron a la Tierra para escapar de la destrucción de su mundo y se vieron obligados a tomar los cuerpos actuales, una raza de moluscos cónicos mucho más grandes que un humano con 4 pseudópodos en la parte superior, dos acaban en pinzas, otro en unos ojos y otro en una especie de boca.
 
 Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un yithiano debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro con todas las implicaciones que tiene eso.
@@ -2032,6 +2042,8 @@ Los yithianos combatieron y derrotaron a un gran enemigo, los pólipos volantes,
 Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más un recurso narrativo que una habilidad para usar en el juego. Puede que a tus jugadores se les ocurra usar a un yithiano para se intercambie con sus yoes del pasado y poder hablar con ellos para advertirles de un peligro. Si quieren hacerlo y se lo curran al convencer al yithiano el viaje en el tiempo funciona sin necesitar ningún tipo de tirada.
 
 ## Yuggothianos
+[![Mi-Go by Khannea](./assests/images/migo.jpg)](https://en.wikipedia.org/wiki/Mi-Go#/media/File:Migo.jpg "Mi-Go by Khannea")
+
 Los yuggothianos, hongos de Yuggoth o Mi-Go tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas.
 
 Los Yuggothianos son una raza que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
