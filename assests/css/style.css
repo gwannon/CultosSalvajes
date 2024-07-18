@@ -76,7 +76,7 @@ blockquote > p {
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   line-height: 120%;
   margin: 0;
   padding: 0;
@@ -93,7 +93,7 @@ pre {
 
 pre code {
   color: #002b59;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-family: "OldStandardTT", serif;
   display: block;
   background-color: #fffcfa;
@@ -163,11 +163,12 @@ section > ul > li > ul > li:before {
 }
 
 section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
-  max-width: 100%;
-  width: 100%;
+  max-width: 50%;
+  width: 50%;
   border: 15px solid #fff;
-  rotate: 1deg;
   box-shadow: -12px 17px 22px -8px #000;
+  float: right;
+  margin: 0px 0px 10px 20px;
 }
 
 a:has(img) {
@@ -251,7 +252,7 @@ section:first-of-type img {
   cursor: pointer;
   margin: 0 0 3px 0;
   text-decoration: none;
-  font-size: .8em;
+  font-size: 1.1em;
   max-height: 17px;
   overflow: hidden;
   white-space: nowrap;
@@ -280,7 +281,7 @@ section:first-of-type img {
 #anchorindice {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: var(--padding);
   gap: 10px;
 }

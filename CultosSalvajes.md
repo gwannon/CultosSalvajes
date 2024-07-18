@@ -23,6 +23,8 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 * Para poder subir esta habilidad, tu personaje ha debido enfrentarse a, al menos, una TPC o haber leído un libro prohibido durante las sesiones de juego de ese rango.
 * No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
 
+\saltopagina
+
 ### Idioma cthulhunés (Astucia)
 El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
@@ -48,6 +50,8 @@ Hay personas que no están preparadas para enfrentarse al horror y esta desventa
 
 Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para alguien con una mente débil. Este nivel extra se aplica al final, después de hacer todas las cuentas. Si sale que no hay tirar TPC, en realidad, tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
 
+\saltopagina
+
 ### Más cerca de la locura (mayor)
 Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea, tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.
 
@@ -72,6 +76,8 @@ En juego, supone que una vez por sesión en momentos de estrés puede sufrir eso
 
 ### Depresión (mayor/menor)
 Tu PJ sufre depresión y todo se le hace cuesta arriba, tiene siempre un bajo estado de ánimo y sentimientos de tristeza.
+
+\saltopagina
 
 Si es menor al principio de cada sesión deberá tirar un d6. Si consigue un éxito, sobrelleva la depresión hasta la próxima sesión. Si falla, pierde uno de sus benis hasta la próxima sesión. Si es mayor directamente cuenta con un beni menos.
 
@@ -99,6 +105,8 @@ Deberás elegir una fobia menor y un hábito menor relacionado para formar el TO
 ### Paranoia (mayor/menor)
 Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
 
+\saltopagina
+
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.
 
 Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
@@ -124,6 +132,8 @@ _Prerrequisitos: Novato_
 Has tenido experiencias con los Mitos, quizás en tu niñez o adolescencia. Puede ser que vengas de un linaje de adoradores de Primigenios o que la sangre de profundo corra por sus venas. Puede ser que te enfrentaras a un monstruo de los Mitos y consiguieras sobrevivir o que tu abuela te transmitiera parte de los conocimientos prohibidos de su akelarre de brujas.
 
 A nivel de juego, podrás empezar con las ventajas "Nuevos poderes" y "Puntos de poder". Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad idioma Cthulhunés.
+
+\saltopagina
 
 ### Imán de lo extraño
 _Prerrequisitos: Novato_
@@ -151,6 +161,8 @@ Empiezas con 4 rituales, puedes elegirlos tú mismo, pero debe tener cierta cohe
 ## Benis
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
+\saltopagina
+
 * Puedes gastar todos tus benis (mínimo 1) para lanzar un hechizo sin necesidad de gastar puntos de poder. Esto supone que se pueden lanzar hechizos sin tener puntos de poder o lanzar hechizos que piden más puntos de poder de los que tienes.
 * Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
@@ -167,6 +179,8 @@ Puede evitarse la pérdida de puntos de cordura, adquiriendo un trastorno mental
 Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Para decidir el trastorno deberá sacar una carta y revisar la tabla de Trastornos. Si es temporal deberá consultar la tabla de Duración del trastorno. Los trastornos permanentes repetidos pueden apilarse si son menores, convirtiéndose en un trastorno mayor. Si no tendrá que volver a coger una carta nueva. Los temporales simplemente ampliarán el tiempo.
 
 Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, sino que recuperas un punto de cordura.
+
+\saltopagina
 
 **Tabla de Trastornos**
 
@@ -194,6 +208,8 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 
 La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tirada con cada tipo de monstruo, aunque la cantidad sí puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos y una docena de gules. Cada jugador deberá hacer una tirada enfrentada contra los profundos y otra contra los gules.
 
+\saltopagina
+
 ### Modificaciones de las TPC
 Las TPCs pueden ser modificadas en determinadas situaciones.
 
@@ -219,6 +235,8 @@ Una vez empezado el combate, los jugadores no tendrán necesidad de hacer TPC. L
 | hasta tamaño del grupo x 10 (+3) | d10 | d12 | d12+1 | d12+2 | d12+3 |
 | hasta tamaño del grupo x 20 (+5) | d12 | d12+1 | 12+2 | d12+3 | d12+4 |
 | hasta tamaño del grupo x 50 (+6) | d12+1 | d12+2 | d12+3 | d12+4 | d12+5 |
+
+\saltopagina
 
 ### Recuperar cordura
 
@@ -264,6 +282,8 @@ La ventaja Puntos de poder otorga tantos puntos de poder nuevos como el Espírit
 ### Nuevos poderes
 La ventaja de Nuevos poderes solo podrá adquirirse tras leer un libro de los mitos. Los libros a veces dejan que el jugador elija los hechizos para su personaje, pero a veces forzaran uno o dos hechizos específicos y leer ese libro solo permitirá aprender esos hechizos.
 
+\saltopagina
+
 ### Recuperación rápida
 Recuperación rápida supondrá que necesitará la mitad de tiempo de descanso para recuperar todos sus puntos de poder. Como ejemplo:
 
@@ -285,9 +305,9 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
 * Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
 
-## Nuevos poderes de las 1001 Noches
+## Nuevos poderes
 
-En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWADE.
+En Cultos Salvajes hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWADE.
 
 ### Abrir puertas
 
@@ -295,6 +315,8 @@ En 1001 Ghūles hay nuevos poderes disponibles, aparte de los que puedas encontr
 * **Puntos de poder:** 2 PP
 * **Distancia:** Astucia
 * **Duración:** Instantáneo
+
+\saltopagina
 
 Este poder hace que las puertas se abran lo suficiente para que la persona que uso el poder pueda entrar. Las puertas se desatrancarán, los rastrillos se subirán, las cerraduras se abrirán, etc. El efecto es instantáneo y la puerta se puede volver a cerrar, las trancas volver a colocar y bajar los rastrillos en el siguiente turno.
 
@@ -331,6 +353,8 @@ Si nos alejamos demasiado de la guía, esta se disipa (a discreción de Schehera
 
 **Oculto (+1):** Solo la persona que lo lanzo ve la guía que marca el camino.
 
+\saltopagina
+
 ### Caminar sobre las aguas
 
 * **Rango:** Experimentado
@@ -365,6 +389,8 @@ No se puede usar en combate más que como forma de huida. Durante el turno de su
 
 **Pasajero adicional (+2):** Esta modificación permite llevar a solo un pasajero adicional y como en el modificador anterior pasaríamos de invocar una mula a invocar monturas más grandes como camellos o caballos.
 
+\saltopagina
+
 ### Transmutación
 
 * **Rango:** Especial
@@ -392,6 +418,8 @@ Según el nivel del lanzador, puede intentar transmutaciones más difíciles.
 | Veterano | 4 niveles |
 | Heroico | 8 niveles |
 | Legendario | sin límite |
+
+\saltopagina
 
 La transmutación no sirve para crear otra cosa que la propia transformación de la materia. No puedes conseguir ventajas adicionales que puedan darte otros poderes.
 
@@ -425,6 +453,8 @@ Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmen
 
 No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un listado de los poderes y sus versiones en hechizos que son posibles en Cultos Salvajes.
 
+\saltopagina
+
 **Tabla de Poderes y Hechizos**
 
 | Poder | d100 | Hechizo | Ornamento |
@@ -443,6 +473,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Cambio de forma | No permitido |     |     |
 | Captura | 11  | Aferrar | El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra. |
 | Captura | 12  | Invocar avatar de Atlach-Nacha | El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña. |
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Castigo | 13  | Bendecir arma | El brujo toca el arma y la bendice en nombre de una divinidad tomando un brillo especial. |
 | Castigo | 14  | Emponzoñar arma | El hechicero escupe sobre el arma emponzoñándola y esta se cubre de óxido, moho y suciedad. |
 | Cavar | No permitido |    |    |
@@ -457,6 +496,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Curación | 22 | Canto de Babalú Ayé | El brujo yoruba entona la canción de Babalú Aye, orisha de la salud y las enfermedades, para acelerar la curación del herido. |
 | Curación | 23 | Poder de Imhotep, Imposición de manos de Imhotep | Haciendo una imposición de manos al herido, el sanador invoca a Imhotep, el dios egipcio de la medicina. |
 | Destierro | 24 | Expulsar ente | El practicante de magia invoca el auténtico nombre de la criatura de más allá del tiempo y el espacio para expulsarla de este mundo. |
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Destierro | 25 | Exorcizar | Invocando el poder de una entidad poderosa de los Mitos, el exorcista puede devolver al demonio/fantasma/entidad a su dimensión de origen. |
 | Desvío | 26 | Vibración dimensional | El hechicero empieza a mover rápidamente manos y cabeza y empieza a vibrar entre dimensiones. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la dimensión del atacante. |
 | Desvío | 27 | Vibración temporal | El hechicero se queda totalmente inmóvil y empieza a vibrar atrás y adelante en el tiempo. Esto hace más difícil que sea golpeado al no estar total o parcialmente en la misma corriente temporal del atacante. |
@@ -470,6 +518,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Disipación | 35 | Anti magia | El mago usa su poder para negar la magia de su objetivo, repitiendo los pases y las palabras mágicas al revés. |
 | Drenaje de puntos de poder | 36 | Rayo vampírico, Rayo nigromántico | El hechicero lanza un rayo escarlata que drena la esencia vital del objetivo. |
 | Drenaje de puntos de poder | 37 | Invocar vampiro estelar | El hechicero invoca este ser extradimensional que drena la vida al objetivo y se lo entrega a su amo invocador. |
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Empatía | No permitido |    |    |
 | Empujón | No permitido |    |    |
 | Explosión | No permitido |    |    |
@@ -485,6 +542,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Invocación de aliados | 45 | Doppelgänger | En vez de invocar un monstruo, el mago se divide en dos y crea un clon de aspecto horrible de sí mismo con la apariencia del monstruo. Puede hacer un clon suyo con aspecto de profundo, serpigente o un shoggoth con tu cara entre su limo. |
 | Lectura de mentes | 46 | Percepción extrasensorial | El telépata cierra los ojos y se concentra en su objetivo. Mediante una mezcla de lectura de alma, percepción extrasensorial e intuición, puede averiguar cosas de su objetivo. |
 | Lectura de mentes | 47 | Espejo de Alétheia | Reflejando en un espejo a su objetivo, el taumaturgo obtendrá la respuesta verdadera en el reflejo. |
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Lectura de objetos | 48 | Hablar con las cosas | Al tocar un objeto, el mago puede hablar con él y este pueden contarle cosas que han pasado. |
 | Lectura de objetos | 49 | Lectura de aura | Tocando y concentrándose en el objeto, este revela el aura psíquica que ha ido acumulando a lo largo de su historia. |
 | Lenguas | No permitido |    |    |
@@ -501,6 +567,15 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Manipulación elemental | 59 | Dominio del aire, Eolomancia | El invocador usa algún tipo de artilugio para soplar aire como un abanico o un fuelle. |
 | Manipulación elemental | 60 | Dominio de la madera, Xilomancia | El invocador golpea el suelo con algún tipo de bastón, cayado o báculo de madera. |
 | Marioneta | 61 | Hipnosis, Mirada hipnótica | Los ojos del hechicero empiezan a brillar mientras mira fijamente a su víctima y le da órdenes con una voz grave. |
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Marioneta | 62 | Muñeca vudú | El hechicero crea una muñeca vudú que representa el objetivo que quiere controlar. |
 | Mejora/Reducción de rasgo | No permitido |    |    |
 | Miedo | No permitido |    |    |
@@ -514,6 +589,16 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Proyectil | 70 | Impacto sónico | El grito desgarrador del mago toma forma sólida golpeando brutalmente a su objetivo. |
 | Proyectil | 71 | Maldición de escarabajos | De los pies del invocador sale una informe masa de escarabajos (alados si es necesario) de grandes pinzas que atacan a su objetivo. |
 | Proyectil | 72 | Incineración de Cthugha | Una bola de fuego, parte de Cthugha la llama viviente, cae sobre el objetivo incinerándolo. |
+
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Resurrección | 73 | Líquido restaurador del ciclo de la vida | Mediante una serie de destilados de plantas y elementos químicos se crea un líquido que devuelve un cuerpo muerto a la vida si se sumerge en él. |
 | Resurrección | 74 | Convocar al Barón Samedí | Se hace una ritual de invocación para llamar el barón Samedí, el loa de la muerte, y se le ofrece un sacrificio animal. Si le parece un pago justo, el barón Samedí sacará el alma del difunto del Guinee (inframundo haitiano) y este volverá a la vida. |
 | Silencio Sonido | 75 | Campanilla muda | El hechicero agita una pequeña campanilla de plata sin badajo y todo el sonido es absorbido por la campanilla. |
@@ -527,6 +612,16 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Teleportación | 83 | Viaje angular | El hechicero usa los ángulos y las líneas rectas en los objetos y estancias para conectar con la estructura interna del espacio y poder así teleportarse. |
 | Teleportación | 84 | Geometría no-euclideana | Dibujando en el aire una figura que no cumple las leyes matemáticas de Euclides y atravesándola, el mago puede teleportarse. |
 | Trepamuros | 85 | Garras reptilianas | Las uñas de manos y pies crecen, de forma que posibilitan andar por las paredes como un reptil. |
+
+
+
+
+\saltopagina
+
+
+
+| Poder | d100 | Hechizo | Ornamento |
+| --- | --- | --- | --- |
 | Trepamuros | 86 | Ventosas pulpoides | Las manos se llenan de ventosas que secretan una sustancia pegajosa que permiten pegarse a las paredes. |
 | Ventaja de combate | No permitido |    |    |
 | Vínculo mental | 87 | Red neural Mi-go | El hechicero entrega a los integrantes de la red neural unos colgantes con símbolos extraños (lengua Mi-go) para poder crear la red telepática. |
@@ -541,6 +636,8 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Zombi | 96 | Danza de los muertos | El hechicero vudú baila de forma descontrolada haciendo que los muertos se levanten para seguir su danza. |
 | Zombi | 97 | Ritmo macabro | El taumaturgo empieza a tocar un ritmo con algún instrumento musical percusivo tipo tambor, pandereta, baquetas, etc. que hace que los muertos se levanten y lo sigan. |
 | Ritual menor | 98-100 | Tira en la tabla de rituales menores | En vez de un hechizo hay 2 rituales menores. Elígelos al azar tirando en la tabla Rituales menores |
+
+\saltopagina
 
 Por cada poder tenemos varias opciones de hechizos y rituales que no son más que ornamentos para ese poder. La idea es que el jugador tenga diferentes opciones al adquirir un nuevo poder, todos ellos con tintes cthulhulianos. Al leer un libro no encontrará como tal poderes, sino hechizos con ornamentos prefijados. Es decir, leyendo el "Extraño relato de Elizabeth en la isla de Jamaica" no encontrará el poder Protección, sino la Bendición de Yig que le dará protección contra el daño, haciendo que su piel se vuelva escamosa y dura.
 
@@ -559,6 +656,8 @@ Esta modificación permite hacer permanente cierto hechizo. En principio no debe
 Hacer un hechizo permanente exige el sacrificio del 20% del coste de lanzar el hechizo en PMs permanentes redondeando hacia arriba (mínimo 1 PP). Si lanzar un ocultación arcana, nos cuesta 8 puntos de magia, para hacerlo permanente deberá sacrificar 2 PMs (20% de 8 es 1,6 redondeando hacia arriba 2 PMs). Además, el tiempo de preparación y de realización del hechizo, de forma que se necesita un día por PP que se vaya a gastar. No se podrán sacrificar más puntos de PP que tu Espíritu.
 
 **Deshacer hechizos permanentes:** El taumaturgo que lanzo el hechizo de forma permanente podrá siempre que quiera deshacer el hechizo permanente con las siguientes reglas. Debe estar en contacto con el objeto o en el lugar si es una área; deberá gastar en deshacerlo un minuto por PP sacrificado; deberá gastar la mitad de los PMs que gasto al lanzarlo. El hechizo permanente desaparecerá y la persona que lanzo de hechizo recuperará un PP sacrificado por semana.
+
+\saltopagina
 
 **Disipar hechizos permanentes:** Para disipar un hechizo permanente primero deberá pasarse una tirada de Mitos para identificar exactamente el hechizo exacto usado. Una vez pasada la tirada debemos estar en contacto con el objeto hechizado o en el área sobre la que se lanzó; deberá pasarse una hora por PP sacrificado para hacerlo permanente; y gastar tantos PP como sacrificó el lanzador del hechizo permanente. Si no puede gastar tantos puntos, recuerda que pueden usarse benis para lanzar hechizos sin tener PP los necesarios. No hace falta ninguna tirada, se consigue directamente. Pueden hacer tiradas de Mitos para acortar el tiempo necesitando una hora menos por cada avance. Si se falla se perderá el tiempo y los PP. El lanzador del hechizo recuperará sus PMs sacrificados normalmente, un PP a la semana.
 
@@ -580,32 +679,9 @@ Los monstruos invocados generan una TPC igual a la del monstruo menos dos nivele
 ### Rituales menores
 Los rituales menores son hechizos muy sencillos de magia que son de conocimiento común. Son sencillos conjuros basados en supersticiones y supercherías, pero que si el ejecutor de tales rituales tiene el suficiente poder, se pueden hacer realidad. Estos rituales pasan de generación en generación como canciones, cuentos y fábulas. Es magia muy débil y enfocada y muchas veces falla, pero eso no impide que sus practicantes no dejen de intentarlo. Muchas veces son casi tradiciones como sacrificar incienso para pedir amor o buenas cosechas.
 
+\saltopagina
+
 Los rituales menores normalmente se enseñan oralmente y no suelen estar escritos. No se necesita gastar avances, simplemente cuando se escuchan de viva voz por otro practicante se aprenden para siempre. También pueden estudiarse en algún tipo de publicación, desde notas de sesudos antropólogos hasta de piedras talladas. Para ejecutarlos hay que seguir los pasos del ritual y al final gastar 1 PP y tirar Espíritu. Si se consigue un avance, el ritual funciona y su efecto se produce. No siempre es inmediato, pero acaba ocurriendo y es por eso por lo que muchas veces no se creen que sea magia, sino simple casualidad.
-
-**Tabla de Rituales menores**
-
-| 1dx | Nombre |
-| --- | --- |
-| 1   | Atraer a los peces |
-| 2   | Bendecir un arma |
-| 3   | Bendecir la cosecha |
-| 4   | Brindar por el mar |
-| 5   | Cegar al mascarón del barco |
-| 6   | Ritual de buena suerte |
-| 7   | Silbar al viento |
-| 8   | Protección del hogar |
-| 9   | Clavo en la calavera |
-| 10  | Cornucopia |
-| 11  | Soltar al gallo |
-| 12  | Consagrar persona |
-| 13  | Canción pirata |
-| 14  | Máscaras de Caracol de Yúcahu |
-| 15  | Adivinación con mandiocas |
-| 16  | Máscaras de Caracol de Opiyelguobirán |
-| 17  | Trigonolito de Atabey |
-| 18  | Astillas en la planta de los pies |
-| 19  | Queimada |
-| 20  | Sanación Obeah |
 
 **Adivinación con mandiocas:** Antes de acostarse debemos meter en un saco 3 mandiocas (también conocidas como yucas), una pelada, una medio pelada y otra con piel. A la mañana siguiente debemos pensar una pregunta de sí o no y meter la mano en el saco y coger la primera yuca que se toque. Si sacamos la pelada es sí, si se saca la yuca sin pelar será no y si se saca la medio pelada es un "quizás". La pregunta debe ser bastante genérica y sobre cosas del futuro como si tendré buena pesca o cosecha o si llegaré a mi destino.  
 Si se falla la tirada del ritual siempre saldrá la yuca medio pelada. Si se pasa la tirada, el DJ deberá responderle a la pregunta lo más acertadamente posible. El DJ debería hacer lo posible porque se cumpla la profecía, por ejemplo, falseando la tirada de encuentros en el Mar. Has de tener en cuenta que si le dices que sí tendrá una buena cosecha y no planta las semillas, pues terminará siendo un no por mucho que la mandioca pelada diga que sí.  
@@ -624,6 +700,8 @@ Según la comunidad en que te encuentres, la mandioca puede ser otras frutas y h
 **Canción pirata:** El jugador con mayor carisma del barco puede empezar a cantar, a poder ser, una canción contra el patrón, la Iglesia o la Corona con toques obscenos y picantes. Si tiene suerte, poco a poco toda la tripulación terminará cantándola a viva voz. La canción les recordará a todos porque luchan y esto infundirá valor en los corazones de los tripulantes, obteniendo +1 en las tiradas de TPC en la siguiente escena.
 
 **Cegar al mascarón del barco:** Cuando hay tormenta, se colocaba una venda a la cabeza del mascarón de proa, de forma que no podía ver la tormenta y temerla. A nivel de juego, eso supone que todas las penalizaciones que impongan la tormenta a la maniobrabilidad o el combate de la nave se reducen en 1.
+
+\saltopagina
 
 **Clavo en la calavera:** Para realizar este ritual debemos clavar un clavo de plata en una calavera humana o animal. Si no se rompe el cráneo y el clavo queda sujeto, allá donde se entierre la calavera ni entrarán no-muertos ni se levantarán.
 
@@ -645,7 +723,10 @@ El aguardiente puede ser cualquier alcohol destilado, por ejemplo el ron.
 **Ritual de buena suerte:** Hay montones de rituales de buena, desde meter un trébol de cuatro hojas en tu zapato hasta dejar una copa de bebida para los espíritus, pasando por llevar ropa de color rojo o comer uvas con las campanadas. Cuando se aprende el ritual se debe especificar el ritual que se va a seguir.  
 Una vez por sesión solo una persona de tu mesa podrá intentar este ritual de buena suerte y si se consigue se crea un beni comunitario que podrá ser usado por los jugadores como quieran, incluso en tiradas de PNJs. El beni dura hasta el final de la sesión.
 
+\saltopagina
+
 **Sanación Obeah:** El obeah es toda una mezcla de religiones de África Occidental que se caracteriza por tener muchos y variados rituales de sanación, desde cuidados de las parturientas hasta tratamiento de heridas graves y epidemias. El practicante de esta fe sabe realizar una serie de prácticas que pueden parecer mágicas, pero en la mayoría de los casos son buenas prácticas médicas como limpiar y desinfectar heridas o bebedizos de plantas para provocar abortos.  
+
 Este ritual puede cogerse varias veces tratando diferentes tipos de prácticas médicas (traumatismos, epidemias, obstetricia, neumología, ...) Pasando la tirada de Espíritu podrás otorgar un +1 extra a las tiradas de recuperación de tu paciente si sufre alguna dolencia relacionada con tus conocimientos de sanación Obeah.
 
 **Silbar al viento:** En momentos de calma chica en el mar, el más joven del barco debe silbar (cosa prohibida en los barcos) para atraer el viento. Otra opción es que toda la tripulación, incluso capitanes y oficiales, cuelguen su ropa interior en las velas. Con este ritual podemos cambiar una "Calma chicha" por un "Tiempo perfecto".
@@ -667,8 +748,12 @@ También hay que tener en cuenta que muchas veces puede que sean únicos y no ha
 
 En cuanto a su valor monetario, los personajes no deberían poder venderlos fácilmente porque los no-iniciados en el mundo de los Mitos no los encontrarán interesantes y con los iniciados es más interesante usarlos como moneda de cambio para conseguir otros libros u objetos extraños. En caso de que necesitarán urgentemente dinero para situaciones extremas, como pagar un rescate o sacar a un compañero de la cárcel, hazles unas tiradas de botín usando el TPC del libro, pero solo pudiendo tirar luego en la tabla de riquezas.
 
+\saltopagina
+
 #### Leer libros
 Para poder leer un libro de los Mitos lo primero es que el personaje sea capaz de leer ese idioma. Si no sabe el idioma deberá pedir una traducción, lo que llevará tanto tiempo como leerla.
+
+\saltopagina
 
 Los libros de normal necesitan 1 semana en leerse. Realmente no tienen que ser 7 días exactos, sino que representa una unidad de tiempo un poco larga que puede ser de 3 a 10 días. Una semana puede ser:
 
@@ -695,6 +780,8 @@ De normal, un libro permite aprender dos hechizos (los que se pueden aprender co
 #### Bibliotecas de libros
 Los personajes irán acumulando libros a lo largo de sus aventuras. Estas pequeñas bibliotecas pueden ayudar a sus tiradas de Mitos siempre que las tengan cerca y puedan dedicarles un día de estudio. Cada 5 libros darán un +1 a la tirada de Mitos.
 
+\saltopagina
+
 #### Generación de libros
 Cada libro tiene una serie de características que se definen haciendo tiradas en un sistema de tablas:
 
@@ -717,6 +804,8 @@ Cuando generamos un libro, si saca el mismo número en dos tablas seguidas ... �
 | 5   | Está traducido a varios idiomas. El libro está en varios idiomas (vuelve a tirar en la tabla de idiomas para establecer el segundo idioma). Si lo llevas a un buen encuadernador podría sacar dos libros, uno en cada idioma. |
 | 6   | La historia tiene un buen final y se narra de una forma tan reconfortante que el lector recupera 1 punto de cordura. |
 
+\saltopagina
+
 **Tabla de Idioma para libros**
 
 | 1d20 | Idioma |
@@ -728,6 +817,7 @@ Cuando generamos un libro, si saca el mismo número en dos tablas seguidas ... �
 | 18  | Holandés |
 | 19  | Latín |
 | 20  | Cthulhunés en caracteres latinos |
+
 
 **Tabla de TPC para libros**
 
@@ -750,6 +840,8 @@ Cuando generamos un libro, si saca el mismo número en dos tablas seguidas ... �
 | 4-8 | **Libro.** Un libro de tamaño normal escrito a mano o impreso. |
 | 9   | **Tomo de gran tamaño con diagramas y/o grabados.** Sus grabados y/o diagramas son tan precisos y descriptivos que suben un nivel al TPC. |
 | 10  | **Varios tomos.** Exige 2 semanas para estudiarlo en vez de 1. |
+
+\saltopagina
 
 **Tabla de Estado de conservación para libros**
 
@@ -775,6 +867,8 @@ Parece muy simple, pero puede dar mucho juego, por ejemplo, si quieren hacer mis
 Lo importante es que la paranoia se extienda entre la gente, temiendo que lo de las campanas solo es una señal del mal que vendrá después. Los marineros murmurarán quién puede ser el gafe que hace que no suene la campana del barco, los campesinos sacarán sus horcas y antorchas buscando al culpable de que sus campanas y su protector sonido no suenen y los clérigos hablarán de como esto es una señal de que el demonio anda entre ellos.  
 Si alguien consigue averiguar quién es el maldito, seguramente se formará una gran turba para lincharle.
 
+\saltopagina
+
 **Castigo de Nodens:** El propio Nodens corta la conexión entre el maldito y sus puntos de poder. El sujeto maldecido no podrá hacer uso de sus puntos de poder de ninguna manera.
 
 **Decrepitud:** La vida se le escapa rápidamente de su cuerpo y envejece un montón de años en unos minutos. La piel se llena de arrugas y se vuelve flácida, el pelo se vuelve ralo y blanco y empieza a caerse, te mueves más lento y tus reflejos ya no son como eran. El cuerpo en general pierde fuerza y resistencia, AGI, FUE y VIG y las habilidades asociadas caen un rango con un máximo de d8.
@@ -799,6 +893,8 @@ Si alguien consigue averiguar quién es el maldito, seguramente se formará una 
 
 Puede ser que en algún momento los héroes sean absorbidos por un agujero dimensional, sean desterrados a otros planos por un hechicero, abducidos por alguna raza extraterrestre o simplemente al usar una llave de plata la puerta se abra a un nuevo plano. Con esta tabla podrás elegir donde acaba tu mesa. Cada opción viene con ideas de aventuras y de cómo volver.
 
+\saltopagina
+
 **Tabla de Perdidos en el tiempo y el espacio**
 
 | 1d12 | Nombre | Descripción |
@@ -813,6 +909,15 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 | 8   | Hiperbórea | No voy a decir más: conoce a Conan y combate a su lado. |
 | 9   | Corona Mundi | Corona Mundi es una inmensa ciudad abandonada en la Antártida creada por los Antiguos. Ya solo está habitada por pingüinos gigantes y los sirvientes de los Antiguos, los shoggoth. Esta ciudad se ha conservado perfectamente gracias al hielo a las montañas que lo rodean y lo protegen. Está lleno de edificios que son maravillas de la arquitectura, llenos de bajorrelieves y estatuas contando la historia de los Antiguos. |
 | 10  | Pnakotus | Pnakotus fue construida hace millones de años por la Gran Raza de Yith en el Gran Desierto de Australia. Es conocida por su gran biblioteca, donde está recopilado todo lo que ha pasado y mucho de lo que pasará. Recordemos su capacidad para lanzar sus mentes atrás y adelante en el tiempo. Igual necesitan visitar su biblioteca para conseguir algún dato importante para sus misiones. El viaje de regreso al Caribe desde Australia puede ser una aventura en sí misma. |
+
+
+
+\saltopagina
+
+
+
+| 1d12 | Nombre | Descripción |
+| --- | --- | --- |
 | 11  | R'lyeh | Ya hemos hablado de R'lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar. |
 | 12  | El vacío | Este gran espacio vació, es la nada, el fin del tiempo y el espacio sin origen y sin final. Igual es el centro de un agujero negro o lo que queda de una dimensión devorada por dholes. Pero desde luego mejor no tener que entrar nunca. |
 
@@ -828,6 +933,8 @@ Las maldiciones son hechizos que deben ser aprendidos como el resto de hechizos,
 Las maldiciones son terribles hechizos que solo se pueden aprender de grimorios especiales, grimorios que estén malditos. Maldito es una característica que pueden tener algunos grimorios.
 
 > Conviene recalcar que las maldiciones deberían ser hechizos que solo deberían tener le gente malvada de tus relatos que usarán para atormentar a tus schahriars. No es un conocimiento que deberían tener los propios schahriars para usarlos indiscriminadamente, como mucho deberían usarlo para quitar esa maldición o en casos de extrema necesidad.
+
+\saltopagina
 
 ### Lanzar maldiciones
 El lanzamiento de una maldición empieza con el lanzamiento del hechizo de un normal, siguiendo las instrucciones del poder del manual básico, pero con los siguientes cambios.
@@ -850,6 +957,8 @@ La opción de deshacer una maldición cumpliendo una condición queda a discreci
 #### Modificadores
 **Seguidores y súbditos (+2):** Las maldiciones pueden afectar a los seguidores y súbditos de la víctima no comodines. Es decir, que una maldición de sueño puede afectar al Califa y a todos sus súbditos, sumiendo a Bagdad en un sueño eterno. Los seguidores y súbditos caen víctimas de la maldición automáticamente, a no ser que estén en situaciones estresantes como combates en cuyo caso tienen derecho a tirada opuesta.
 
+\saltopagina
+
 ### Maldiciones más conocidas
 En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toque de locura. Esperamos que sean dignas del autor de Providence y sus relatos.
 
@@ -862,6 +971,8 @@ En este listado tendrás una mezcla de maldiciones de las 1001 Noches con un toq
 > **Referencia:** Historia del ciego que se hacía abofetear en el puente (n. 876)
 
 La víctima quedará completamente ciega hasta que se retire la maldición. Obtendrá la desventaja ciego (Mayor). Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento para los ojos o algún tipo de objeto con poderes curativos.
+
+\saltopagina
 
 #### Encerrar en una botella
 * **Resistencia:** ESP
@@ -879,6 +990,8 @@ La condición normalmente es tan sencilla como quitar el tapón de la botella, l
 
 Algún schahriar inteligente podría meter a una persona con una enfermedad terminal en una botella esperando encontrar un remedio y sacarla cuando pueda curarla. Como Scheherazade está en tu mano permitirlo o no.
 
+\saltopagina
+
 #### Enfermedad
 * **Resistencia:** VIG
 * **Puntos de poder:** 6
@@ -894,6 +1007,8 @@ Hablamos de enfermedades no-mortales, pero visibles y estigmatizadas y que crean
 
 Normalmente la condición para retirar la maldición debería ser algún tipo de ungüento o elixir mágico o algún tipo de objeto con poderes curativos. También puede ser que se deshaga de todos sus bienes o que alguien limpie y cure sus llagas desinteresadamente sin que es se lo pida.
 
+\saltopagina
+
 #### Hambre no-humana
 * **Resistencia:** ESP
 * **Puntos de poder:** 6
@@ -908,6 +1023,8 @@ Esta maldición no está ligada a ningún poder, ya que no funciona exactamente 
 No hay gasto de PP ni temporales ni permanente, pero hay una tirada enfrentada de ESP para que la maldición surta efecto y ambos tienen que pasar una TPC d8.
 
 Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consumir carne humana o sangre cada 24 horas. La condición puede ser hacer alguna peregrinación a algún lugar sagrado perdido o o conseguir algún tipo de compuesto mágico.
+
+\saltopagina
 
 #### Petrificar
 * **Resistencia:** VIG
@@ -928,6 +1045,8 @@ Mientras la víctima esté petrificada no necesita, ni comer, ni beber, ni respi
 
 La petrificación puede tener otras versiones, más bíblicas, como estatuas de sal, o más ciencia ficción, como congelar a la víctima en el tiempo.
 
+\saltopagina
+
 #### Sueño eterno
 * **Resistencia:** ESP
 * **Puntos de poder:** 10
@@ -947,6 +1066,8 @@ Como condiciones podemos hacer que tenga que tomar algún fruto mágico o elixir
 
 _Olvídate de la chorrada del beso de amor verdadero, la gente dormida no da su consentimiento._
 
+\saltopagina
+
 #### Transformar en animal
 * **Resistencia:** VIG
 * **Puntos de poder:** 8
@@ -965,6 +1086,8 @@ La trasformación sigue las reglas del poder "Cambio de forma" y puede elegir si
 
 Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de granja puede quitarse la maldición si rastrilla las tierras del emir en un día o si consigue que crezca hierba en el desierto y aves podría darles algún fruto mágico o bañarse en aguas de algún lago o cascada mágica.
 
+\saltopagina
+
 ## Grimorios y libros de hechizos
 > Y sacó del bolsillo un libro antiguo, en el cual había trazados al revés caracteres desconocidos, semejantes a patas de hormigas, y se puso a leer en voz alta ante la montaña, moviendo la cabeza, unos versículos en lengua incomprensible. Y al punto, girando sobre sí misma por ambos lados a la vez, se separó en dos partes la montaña, dejando junto al suelo un espacio lo bastante ancho para permitir pasar a un solo hombre.
 > 
@@ -980,8 +1103,12 @@ Todos los grimorios tiene un nivel de poder que representa el conocimiento que s
 
 Además de nivel de poder, todos los libros de magia tienen un idioma que se debe dominar mínimamente (d6 o más) para poder leerlo.
 
+
+
 ### Leer un grimorio
 Leer un libro de hechizos exige mínimo de una semana ininterrumpida dedicándole por lo menos 8 horas diarias. Es decir, que puedes dormir 8 horas, estudiar 8 horas y dedicarte a tus quehaceres durante 8 horas. Por ejemplo, podrías estudiar mientras viajas de pasajero en un barco, pero no si trabajas de aguador en el zoco. 8 h dormir + 8 h de trabajar + 4 horas de comer, hacer recados, etc. no deja tiempo a estudiar.
+
+\saltopagina
 
 Se puede dedicar 4 horas diarias, pero entonces tendrá que ser 2 semanas sin interrupción. Si se interrumpe el estudio se exigen el doble de semanas de las normales.
 
@@ -1007,6 +1134,8 @@ Hay cosas que pueden modificar el nivel de poder del grimorio:
 * **Dañado:** Tiene daños por agua, fuego, tiempo, etc. lo que supone que tiene la mitad del nivel de poder de su versión normal (redondeando hacia abajo).
 * **Muy dañado:** Tiene graves daños por agua, fuego, tiempo, etc. lo que supone que tiene solo un tercio del nivel de poder de su versión normal (redondeando hacia abajo).
 * **Maldito:** Pueden aprenderse maldiciones, no solo hechizos normales.
+
+\saltopagina
 
 ### Listado de libros y grimorios malditos
 Crear un grimorio mágico es bastante fácil, solo necesitas, un título atractivo, una descripción interesante, un nivel de poder y el idioma en que fue escrito. Es interesante que le metas alguna regla que lo haga especial, como que puede encontrarse en varios tomos o que solo puede ofrecer hechizos con ornamentos de fuego.
@@ -1047,6 +1176,8 @@ Contiene mucha información acerca de estos yinns, así como de otras muchas mat
 
 El libro de los secretos es un texto mágico presuntamente entregado a Noé por el ángel Raziel, y transmitido a lo largo de la historia bíblica a al gran Rey Suleimán, para quien fue una gran fuente de su sabiduría, y supuestos poderes mágicos.
 
+\saltopagina
+
 El libro está dividido en siete secciones más un prefacio. Cada una de las secciones corresponde a un cielo, y contiene una lista de ángeles, e instrucciones para realizar uno o más ritos mágicos.
 
 Puede encontrarse en un único tomo con NP 8 o en tomos separados con NP 1 por sección que contenga.
@@ -1078,6 +1209,8 @@ Dentro de los grimorios mágicos puede ser el más popular y fácil de encontrar
 **Idioma:** Hebreo, árabe
 
 Está escrita por el Patriarca Adán, al dictado del arcángel Raziel, de ahí su nombre. Esto lo haría la obra más antigua de la Humanidad, que no de la Tierra, ya que tenemos libros más antiguos escritos por yinns anteriores a los hombres.
+
+\saltopagina
 
 El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham explicando las leyes de la Creación. Se divide en cinco libros que tratan sobre la angelología, los Nombres divinos, la gematría, la astronomía y la construcción.
 
@@ -1124,11 +1257,7 @@ Desde cualquier parte de la ciudad se ve en una colina en el centro de la ciudad
 
 Mientras exploran las grandes avenidas y las extrañas plazas de R'lyeh, puede suceder alguno de estos sucesos. Y recuerda:
 
-> - Veis un palacio de planta cuadrada con 5 torreones, un solo torreón en cada esquina.  
-> - Pero eso no puede ser.  
-> - Anda, es verdad, tira cordura.  
-> 
-> _Viejo chiste de la Llamada de Cthulhu_
+\saltopagina
 
 **Tabla de Geometría no-euclideana**
 
@@ -1178,6 +1307,8 @@ Al saltar hace daño con una FUE 1d12 + 3 y corta directamente por la mitad a cu
 
 **Gran recipiente lleno de formol:** Este recipiente de metal y cristal de gran tamaño está lleno de formol. Seguramente perteneció a algún naturalista que lo usaba para conservar grandes mamíferos. Permite conservar un cadáver de un animal o monstruo de hasta tamaño 3 indefinidamente y con mínima degradación. El monstruo tiene que tener forma física y desde luego debe quedar un cadáver, por ejemplo, no se podría conservar un vampiro de fuego, ya que realmente al morir no queda nada.
 
+\saltopagina
+
 **Jaula reforzada desmontable:** Esta jaula que permite transportar a un ser del tamaño de oso (tamaño 2) es muy ligera (40 kilos) pero terriblemente resistente (consistencia 12). Se puede desmontar y montar en unos minutos. Si fuera necesario se puede montar en 6 turnos (1 turno por cada lado) si se pasa una tirada de Reparar.
 
 **Lanzaplatos:** Este objeto del tamaño de un barril, consiste en una maquinaria de relojería con una catapulta que va lanzando platos normales aleatoriamente para que un tirador prueba su destreza con una arma de fuego. El lanzaplatos tiene un soporte donde se cargan los platos, se le da cuerda y empieza a lanzar platos. Puedes entrenar con él tus habilidades con armas de fuego. Por unos 500 dolares en platos y munición y una semana de entrenamiento intensivo, mejorará el valor de Disparo del personaje en un nivel de dado cuando combata con el tipo de arma con el que ha estado entrenando. Su valor de habilidad no sufre cambios, por ejemplo, al gastar avance. Puede entrenarse varias veces para diferentes tipos de armas, pistolas, mosquetes y trabucos.
@@ -1198,6 +1329,8 @@ Estos cilindros están pensados para transportar cerebros y por eso los mantiene
 A nivel de juego, cada cerebro permite a su propietario hacer una tirada de d10 (sin dado salvaje) de Conocimientos Generales, Ciencias, Humanidades, Medicina o Tácticas. El DJ puede decidir la habilidad al azar o escoger una según el contexto donde se encontró.  
 Si alguna persona abre el cilindro o se rompe y deja ver su contenido, todos los presentes tendrán que hacer una TPC de d6.
 
+\saltopagina
+
 **Espora de Ubbo-Sathla:** Ubbo-Sathla es un dios primigenio que vino nuestro planeta desde el espacio. Se cree que es el origen de la vida en la tierra. Es una masa informe con un color y textura parecida al légamo sin cabeza ni extremidades reconocibles. Lo que tienes entre las manos es una de sus esporas. Si se planta en la tierra, a mañana siguiente en el lugar donde se plantó saldrán todo tipo de plantas cubriendo toda la zona de vegetación (un círculo de 100 metros de radio).  
 Las plantas no son naturales de la zona, sino que son versiones prehistóricas de las plantas que había en esa zona. Puede, por ejemplo, usarse para volver a esconder en la jungla unas ruinas perdidas u obstaculizar el paso del enemigo. Si se tira al mar puede crear grandes zonas de sargazos que dificulte el paso de las embarcaciones. Podría usarse, por ejemplo, en un puerto para dificultar y retrasar la salida de barcos de un puerto durante unos días.  
 Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles no va a provocar horror, pero desde luego las insinuaciones, rumores y acusaciones de brujería se dispararán en las comunidades cercanas.
@@ -1212,6 +1345,8 @@ Pero estas gafas van mucho más allá y funcionan también en el otro sentido, l
 **Llave de plata:** Esta llave de gran tamaño, de un material desconocido parecido a la plata y con extraños jeroglíficos, abre cualquier cerradura automáticamente, incluso aquellas cerradas mágicamente. Cada vez que la usen saca una carta de acción. Si sale el comodín, tira en la tabla de Encuentros con lugares más allá del tiempo y el espacio. La puerta se habrá abierto al lugar que diga la tabla en vez de al otro lado de la puerta.
 
 **Objeto perdido en el tiempo:** El objeto que han encontrado es algo venido del futuro por alguna extraña razón. Puede ser cualquier cosa, desde una bandeja de plástico con dibujos de bicicletas hasta una botella de refresco de cola o un reproductor MP3. Descríbelo de la forma más críptica que puedas. Todas las tiradas de Mitos para identificarlo fallarán siempre y nadie podrá decirles qué es. Puedes usarlo como gancho para alguna loca aventura o haz que alguien descubra por casualidad su función. Igual algún genio loco se lo compra para patentar la idea.
+
+\saltopagina
 
 **Polvo de Ibn-Ghazi:** El polvo tiene la capacidad de volver visible por un momento a criaturas invisibles e inmateriales cuando este se dispersa soplándolo hacia ellos. 1D6 usos.
 
@@ -1234,6 +1369,8 @@ El rayo de energía que lanza es plenamente visible, mucho más de noche, y usar
 
 **Notas:** Exige usar las dos manos para disparar. Cauterizante (+2 a sus tiradas de Vigor para evitar el desangramiento). Recarga 1 de munición por minuto, forma que un 35 minutos tendrías el arma plenamente cargada.
 
+\saltopagina
+
 ## Tesoros míticos
 
 Esta ambientación está llena de objetos maravillosos de inmenso poder y muchas veces malditos. Objetos que pueden traerte grandes dones o convertir tu mundo en un infierno en la Tierra. Estos objetos van más allá de alfombras voladoras y lámparas mágicas, estamos hablando de juguetes que te permiten viajar por el espacio (o quizás acabar pedido en la inmensidad del espacio) o armas dignas de dioses que pueden que terminen matando a tus seres queridos.
@@ -1254,6 +1391,8 @@ Al presionar y mover las ruedas, tornillos y palancas que hay escondidas en su c
 Como el shantak del que saca sus increíbles capacidades, puedes salir al espacio exterior y viajar a otros planetas sin sufrir ningún daño. Deberás llevar suficientes provisiones y agua para sobrevivir durante lo que dure el viaje.
 
 Es importante saber llegar a ese lugar. No puedes ir a sitios de los que no conoces la ruta de viaje.
+
+\saltopagina
 
 A nivel de juego, una persona con Afinidad mágica puede gastar un PP y tras pasar una tirada de Pilotar te llevará en un día máximo a cualquier parte del mundo conocido. Para distancias más cortas puede ser casi instantáneo, por ejemplo, si te mueves entre zonas de una ciudad y horas si te mueves entre ciudades del mismo país o región. Ir de Bagdad a Basora podría llevar una hora de viaje.
 
@@ -1277,6 +1416,8 @@ Las espuelas, la silla y las riendas no son necesarias para el funcionamiento de
 > 
 > **Referencia:** Historia mágica del caballo de ébano (n. 414)
 
+\saltopagina
+
 Esta figura-reloj es el reloj más preciso que existe en el mundo actual y su tecnología está muy avanzada a su tiempo. Aun así, no deja de ser un objeto decorativo muy caro que el califa sacará cuando ponga a tus schahriars una fecha límite para cumplir una tarea.
 
 Está diseñado para contar horas y también los meses, ya que el reloj marca la luna nueva y calendario árabe es lunar. Es por eso que permite dar desde periodos cortos como horas hasta largos como "hasta la próxima luna llena" o "dentro de dos lunas".
@@ -1298,7 +1439,10 @@ Una tirada de Mitos de Cthulhu, dejará claro que la figura representa a un flau
 
 El propio Nyarlathotep secuestró y entregó a uno de estos seres como parte del pacto que hizo con el alquimista que creo este objeto. Al romper la figura y hacer un hechizo de destierro adecuado, la esencia del flautista volvería a la Corte de Azathoth donde tomaría carne de nuevo y volvería a tocar para este caótico dios.
 
+\saltopagina
+
 La figura puede detectar fuerzas enemigas a más de 5 kilómetros de distancia y sacará su flauta avisando a los defensores de que se acercan enemigos. Cuando las fuerzas enemigas sean visibles hará sonar su flauta y el comandante del ejército enemigo deberá hacer una tirada opuesta de Espíritu contra d12+4 de la figura.  
+
 En caso de fallar, el ejército atacante huirá para no volver en mucho tiempo (a discreción de Scheherazade). En caso de pasar la tirada tendrán un +2 a todas las tiradas de moral en el combate de masa. Los schahriars pueden tirar, si quieren, independientemente de la del comandante del ejército.  
 La figura solo puede defender una puerta (entiéndase puerta como un lado de la muralla de la ciudad), pero eso no quiere decir que no pueda ponerse en otras puertas de la ciudad.
 
@@ -1311,6 +1455,8 @@ Se dice que se creó en Aram-de-las-columnas por la mítica tribu de los Aads. S
 Si se llena de aceite y se enciende, la luz que arroja proyectará imágenes sobre las paredes, el techo, el suelo y los objetos de alrededor. El observador se percatará de extraños paisajes alienígenas que posiblemente sean lugares o dimensiones de los Mitos.
 
 Encender solo pide a los afines a la magia 1 PP, pero las visiones y las TPC serán para todos los presentes. Las visiones quedan a discreción de Scheherazade y puedes reducir la cordura de quien las estudie, sobre todo si se presencian criaturas o deidades de los Mitos. El TPC de las visiones es aleatorio, así que tira un dado de d12, 1-2 el TPC será d4, 3-4 d6, 5-6 d8, 7-8 d10, 9-10 d12, 11 d12+1 y 12 d12+2. La lámpara exige un sacrificio en cordura, si nadie falla la TPC, no ofrecerá visiones hasta la próxima luna nueva.
+
+\saltopagina
 
 ### Saco de arena maldita
 
@@ -1330,18 +1476,7 @@ Los objetos que aparecen aquí no son tan poderosos y únicos como los anteriore
 
 Mientras que los tesoros míticos suponen campañas conseguirlos, todos estos tesoros pueden ser conseguidos con algo de suerte en tiradas de botín. Si consideras que alguno es más poderoso de lo normal o puede entrometerse de forma negativa en tu campaña, puedes quitarlo o rebajar su poder como tú veas.
 
-### Agujas mágicas
-
-> Y he aquí que, apenas quedó clavado el último alfiler, la joven desposada se metamorfoseó repentinamente en tórtola con un pequeño moño en la cabeza. Y salió volando muy de prisa por la ventana del palacio. Porque los alfileres que sus hermanas le habían clavado en los cabellos eran alfileres mágicos,...  
-> Y la tórtola se echó a temblar entre sus manos y empezó a dar sacudidas, sin dejar de arrullar tristemente. Y él se puso a acariciarla con delicadeza, alisándole las plumas y rascándole la cabeza. Y he aquí que, al rascarle la cabeza, sintió bajo sus dedos unos pequeños objetos duros como cabezas de alfiler. Y los extrajo del moño delicadamente, uno tras otro. Y cuando él le hubo sacado el último alfiler, la tórtola dio una sacudida y de nuevo se tornó en joven.
-> 
-> **Referencia:** La pulsera de tobillo (n. 883)
-
-Estas agujas del pelo están malditas, convirtiendo a la persona que se pone todas las agujas del juego de 6 en una tórtola. La tórtola tienen un pequeño moñito del que se pueden sacar las agujas. Si se sacan todas las agujas, la tórtola vuelve a convertirse en persona. Hay que recordar que puedes ponerte todas las agujas sin ayuda, pero no puedes quitártelas, deben quitártelas.
-
-Se cree que existen otros juegos de agujas con más o menos agujas que convierten en otros animales, algunos más fuertes y peligrosos que una tórtola.
-
-Este objeto maldito solo puede ser usado contra afines a la magia y para evitar ser transformado en tórtola puede hacer una tirada enfrentada de Espíritu contra d12. La maldición dura hasta que se deshaga el moñito y se extraigan las 6 agujas.
+\saltopagina
 
 ### Manta de sanación de la serpigente
 Tras dormir una noche envuelto en esta manta, todas las enfermedades normales son curadas sin dejar ningún tipo de secuela. Los eruditos y eruditas de la taumaturgia que han podido estudiarla han llegado a la misma conclusión, está hecho a partir de la muda del antiguo dios egipcio Set, un avatar del primigenio Yig.
@@ -1358,6 +1493,8 @@ No puedes ahogarte. Puedes andar por el fondo marino a tu paso normal. Puedes co
 ### Azufre rojo
 El azufre rojo, kimia, oricalco, etc. es una sustancia alquímica muy buscada que permite grandes prodigios de transmutación. Cada dosis de azufre rojo que uses en un hechizo de transmutación baja el nivel de dificultad en 10 niveles, con un mínimo de 1 nivel.
 
+\saltopagina
+
 ### Batería de Bagdad
 > Y vertió toda una tinaja de agua regia que el mismo había filtrado en el alambique de su taller en un recipiente de barro, donde introdujo un cilindro del más puro cobre y una barra de hierro frío. El agua regia empezó a generar un humo rojizo que invadió toda la estancia. En unos segundos, yinns que deberían estar ahí se hicieron visibles para el sabio alquimista y pudo percatarse como le percibían ahora y le atravesaban con sys miradas ... los cheitans no dejaron de acosarlo con sus miradas, sus ensalmos y sus gritos, hasta que consumido por la locura salió corriendo de su casa para morir atropellado por un carro.
 
@@ -1368,6 +1505,8 @@ Pero sus capacidades van más allá de generar electricidad, en realidad es una 
 Para que estimule la glándula pineal hay que llenarla de agua regía (descubierta por el alquimista Ŷabir ibn Hayyan) que combinando con sus capacidades eléctricas crea ondas electromagnéticas que afectan a las glándulas pineales de las personas que estén su alrededor.
 
 La batería de Bagdad no tiene un poder especifico. Es un objeto que tú, como Scheherazade, puedes usarlo como quieras. El efecto que la batería tiene sobre la glándula pineal de tus schahriars puede ser cualquier cosa. Desde ver seres de otros planos de existencia o fantasmas, hasta poco a poco pasar a otra dimensión, por ejemplo, una totalmente opuesta a la nuestra en plan Mirror Universe de Star Trek.
+
+\saltopagina
 
 ### Cetros de faraón
 > Para los antiguos egipcios estos cetros simbolizaban la fuerza y el poder y por eso solo faraón podía portarlos. El disco que representa al sol y el ankh que representa al divino río Nilo dotan de poder al portador. Mi pregunta es ¿quién les dotó a ellos de poder? ¿cómo los imbuyo con los fantásticos poderes que acabáis de observar? y por último, ¿qué fantástico material uso? ¿quizás era oricalco?
@@ -1382,6 +1521,8 @@ Todo esto exige que la persona que porta los cetros no pueda hacer nada más ese
 
 > Allí, en una fila ordenada, había más de una docena de cilindros de un metal que ningún creyente ni infiel hubiera visto nunca: cilindros que llegaban a un codo de alto y algo menos de ancho, con tres curiosas cavidades colocadas en un triángulo isósceles sobre la superficie frontal convexa de cada uno. Uno de ellos contaba con 2 cornetas, una grande y abierta y otra más pequeña y estrecha de la que salia un zumbido constante. No necesité que me explicaran su significado
 
+\saltopagina
+
 Dentro de estos cilindros de metal verdusco hay un cerebro humano vivo. Los Mi-Go se dedican a meter cerebros de humano sobresalientes en estos cilindros para llevárselos a su planeta y poder estudiarlos y aprender de ellos. Estos cilindros tiene un sensor que le permite al cerebro escuchar que pasa a su alrededor y otro dispositivo que le permite comunicarse con una voz metálica.
 
 Estos cilindros están pensados para transportar cerebros y por eso los mantienen medio desactivados. El cerebro puede contestar preguntas y elaborar teorías a partir de sus conocimientos, pero sus funciones sociales/sentimentales están desactivadas, ni se aburre, ni se emociona, ni siente miedo, ... Tampoco tiene muy claro qué es ahora, quién fue o cómo acabo en un cilindro.
@@ -1394,6 +1535,8 @@ A nivel de juego, cada cerebro permite a su schahriar hacer una tirada de d10 (s
 > Pues que el hijo del tañedor de clarinete, que sólo esperaba aquel momento, entró al palacio y subió al aposento de la princesa, diciendo: "Yo haré que le desaparezcan los tentáculos". Y en cuanto estuvo en su presencia, cogió un dátil rojo, lo partió en pedazos, y lo puso en la boca de la princesa. Y en el mismo instante se separó de la pared un tentáculo, y a ojos vistas, se fué encogiendo y acabó por desaparecer enteramente de la cabeza de la joven.
 > 
 > **Referencia:** Historia contada por el octavo capitán de policía (n. 950)
+
+\saltopagina
 
 Estos dátiles rojos y amarillos son indistinguibles de los dátiles normales. Tienen el olor, el sabor, la textura y el color dátiles normales.
 
@@ -1413,6 +1556,8 @@ La droga Liao es tan poderosa que puede hacer retroceder a tu mente tanto en el 
 
 La droga Liao no tiene mecánica de juego, úsala como creas conveniente. Simplemente es un recurso que como Scheherazade puedes usar para dar información a tus schahriars. La toman, tienen las visiones del pasado que te interesan haciendo avanzar la historia y sigues jugando. Tira dados detrás de la pantalla si quieres añadirle tensión a la narración de las visiones.
 
+\saltopagina
+
 ### Espejo de Leng
 
 > y llevaba un espejo en la mano. Y se encaró con Zein, y le dijo: "Debo decirte, ¡oh Zein! que es imposible conocer la verdadera apariencia de un yinn si ha usado su perversa magia para disfrazarse. .... Así es que, como yo no te lo puedo enseñar de otro modo, para darte ese conocimiento te traigo este espejo, cuyo cristal de roca fue extraído en las tierras de Leng, que ha de ser más seguro que todas las conjeturas de los hombres.
@@ -1426,6 +1571,8 @@ Funciona como un espejo normal, pero una persona afín a la magia puede gastar 1
 ### Hidromiel espacial
 
 > El hidromiel de los Reyes Yinns vuelve al bebedor insensible a los efectos del tiempo y el espacio, para que pueda viajar más allá de los astros celestiales. No muchos alquimistas han conseguido destilar este maravilloso líquido dorado y cada uno guarda su propia receta secreta que protege con su vida.
+
+\saltopagina
 
 Este líquido espeso y dorado, de ahí su nombre de hidromiel, se crea alquímicamente de varias formas. La hidromiel pone en éxtasis a la persona que bebe y mientras está en ese estado es inmune a los rigores del viaje espacial. Durante el éxtasis no se tiene mucho control de que sucede a tu alrededor y tu capacidad de reacción es casi nula. Podrías tomarlo e invocar algún tipo de yinn con capacidad de viajar por el espacio, como los Al-Mighos, para que te lleve con él hasta tu destino.
 
@@ -1441,6 +1588,8 @@ Esta llave de gran tamaño, de un material desconocido parecido a la plata y con
 
 > **Semilla de aventura:** Entrar despierto en la tierra de los sueños es el primer paso para llegar a la Última Puerta custodiada por 'Umr-At-Tawil (avatar de Yog-Sothoth) que puede permitirte entrar en la estancia de Yog-Sothoth. Al entrar en la estancia tienes derecho a una audiencia con el mismísimo Yog-Sothoth, que aquí puede manifestarse en todo su esplendor.
 
+\saltopagina
+
 ### Mesa de arena adivinatoria
 
 > como estaba muy versado en la geomancia, cogió su mesa de arena adivinatoria, que hubo de sacar del fondo de un armario, sentóse sobre una estera cuadrada, en medio de un círculo trazado con rojo, alisó la arena, arregló los granos machos y los granos hembras, y las madres y los hijos, murmuró las fórmulas geománticas, y dijo: "Está bien, ¡oh arena! veamos. ¿Qué ha sido de ...  
@@ -1455,6 +1604,8 @@ Esta mesa si se usa adecuadamente al lanzar un hechizo de Geomancia otorga un +2
 ### Polvo de Ibn-Ghazi
 
 > Todos ustedes conocen de sobra la fama de brujos que tenían los Wadi, pues bien, este abominable ser tiene mucho de brujería, y para acabar con él hay que recurrir a los mismos procedimientos que utilizaban ellos. He visto el diario de Hassim Wadí y examinado algunos de los extraños y antiguos libros que acostumbraba a leer, y creo conocer el conjuro que debe pronunciarse para que desaparezca para siempre. Naturalmente, no puede hablarse de una seguridad total, pero vale la pena intentarlo. Es invisible —como me imaginaba—, pero este saco de cuero contiene unos polvos que deben hacerlo visible por unos instantes. Dentro de un rato vamos a verlo.
+
+\saltopagina
 
 Este polvo plateado tiene la capacidad de volver visible por un momento (1d6 turnos) a criaturas invisibles e inmateriales (pueden ser dañados por armas físicas) cuando este se dispersa soplándolo hacia ellos (alcance 2 casillas). El saco tiene 1D6 usos.
 
@@ -1474,21 +1625,7 @@ La gente tiende a ver a las personas aladas como yinns o cheitan yinns renegados
 
 Como consigas los restos humanos es cosa tuya, pero el crecimiento y la posterior amputación de las alas exige unas TPC de 8 para el que la sufre y un TPC d4 para e que la contempla. Los testigos pueden acostumbrarse normalmente a ambos procesos, pero el sujeto que lo sufre siempre debe tirar el TPC. El dolor sigue siendo terrible por más que lo repitas.
 
-### Semilla de Khizr, guardián de los vergeles y los huertos
-
-> ¡Y tú, ¡oh santo hombre! que llevas a la espalda ese manojo de verduras excelentes, eres, sin duda alguna, el gran Khizr, guardián de los vergeles y los huertos, el que reviste de coronas verdes a los árboles, hace correr las aguas fugitivas, despliega la alfombra verdeante de las praderas, y cubierto con su manto verde por la tardes combina las tintas ligeras con que se coloran los cielos en el crepúsculo!
-> 
-> **Referencia:** La malicia de las esposas (n. 848)
-
-Según las leyendas populares, Khizr, un personaje legendario de la cultura islámica, se detuvo a descansar en una tierra desértica, y la misma se volvió exuberante y llena de vegetación.
-
-En realidad, lo que tienes entre las manos es una semilla de Ubbo-Sathla. Ubbo-Sathla es un dios primigenio que vino a nuestro planeta desde el espacio y que se cree que es el origen de la vida en la Tierra. Es una masa informe con un color y una textura parecida al légamo, sin cabeza ni extremidades reconocibles.
-
-Si se planta en la arena del desierto, a la mañana siguiente, en el lugar donde se plantó, habrá crecido un oasis lleno de vegetación (un círculo de 100 metros de radio).
-
-Las plantas y árboles son versiones prehistóricas de las plantas que hay hoy en día en la zona. Es por ello que saldrán palmeras gigantes, flores gigantescas, helechos de varios metros de altura, etc. No habrá agua en este oasis, pero los extraños y desconocidos frutos son tan grandes y tan jugosos que pueden calmar la sed y el hambre de hasta 5 personas durante una semana.
-
-Presenciar en vivo este proceso de crecimiento descontrolado de plantas y árboles es impactante, pero no provoca ninguna perdida cordura.
+\saltopagina
 
 ### Copa talismánica
 
@@ -1508,15 +1645,7 @@ Si se deja sin líquido la taza, está pierde sus propiedades mágicas hasta que
 Esta taza permite a un afín a la magia lanzar un Cambiar Forma. Cada uso supone 1 PP. El objetivo tiene que estar adyacente y la duración del hechizo es hasta que se deshaga el hechizo con la propia taza o hasta la próxima luna llena. El objetivo puede transformarse en animales un nivel de tamaño por arriba o por abajo.  
 El objetivo debe resistirse con una tirada enfrentada de d10 contra el Espíritu del objetivo. Por cada avance extra que saque la taza en la tirada enfrentada, el animal será más horrible (pústulas, llagas, pseudópodos, ampollas, olor fétido, etc.) y, por tanto, tendrá su propia TPC. Con un avance TPC d4, con dos TPC d6, y así sucesivamente. Aparte de eso la transformación, sigue las reglas del poder Cambiar Forma.
 
-### Vasos canopos del Faraón negro
-
-> En lo único que pensaban esas gentes era en la muerte y en los muertos. Imaginaban una resurrección literal del cuerpo que les impulsaba a momificarlo con extremo cuidado, y a conservar los órganos vitales en vasos canopes que depositaban junto al cadáver; pero además de creer en el cuerpo, creían en otros dos elementos: en el alma, que después de pesada y aprobada por Osiris moraba en la tierra de los bienaventurados, y en el oscuro y portentoso ka, o principio vital, que vagaba por los mundos superior e inferior de manera horrible, pidiendo de cuando en cuando que se le permitiese retornar al cuerpo preservado, consumiendo las ofrendas de alimento hechas por los sacerdotes y los piadosos familiares en la capilla mortuoria, y —según murmuraban los hombres— tomando a veces posesión de su cuerpo o de su réplica en madera, siempre enterrada junto a él, para salir, malévolo, a ejecutar ciertas misiones especialmente repugnantes
-> 
-> **Referencia:** Encerrado con los faraones
-
-Estos vasos canopos (recipientes de piedra con tapa de cabeza de animal/dios egipcio que contienen restos extraídos a un cuerpo que se va a momificar como cerebro, entrañas, ...) seguramente fueron sacados de la pirámide acodada de Dashur, donde yace el cuerpo momificado del faraón Nefrén-Ka, conocido como el "Faraón negro". Contienen los restos del Faraón Negro, al que Nyarlathotep le concedió el poder de ver el futuro.
-
-Consumir alguno de los 1d4 órganos guardados en cada uno de ellos permite usar una vez el poder de Adivinación, usando Espíritu como habilidad arcana y sin gastar PP. Si se busca consultar con primigenios o dioses exteriores, la tirada deberá ser con Mitos de Cthulhu.
+***
 
 # Monstruos de los Mitos
 Aquí tienes un bestiario con las criaturas de los Mitos de Cthulhu más comunes que puedes encontrarte en tus viajes por el Caribe. Desde los profundos de las simas abisales hasta la serpigente en sus emplazamientos perdidos en lo profundo de la jungla.
@@ -1532,14 +1661,17 @@ Una cosa importante que debes tener en cuenta con todos estos seres (y que es mu
 
 Si son ingeniosos, pueden tratar de conservar los cuerpos usando todo tipo de trucos. Desde conservarlos en salazón o ahumarlos hasta introducirlos en barriles llenos de alcohol o formol. De hecho, entre el botín que pueden conseguir en sus aventuras hay varios dispositivos que les ayudarán en esas tareas de conservación de cadáveres.
 
-## Antiguos
-[![An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.](./assests/images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.")
 
+## Antiguos
 Según Alhazred, los Antiguos fueron la primera tribu de yinns en aparecer en la tierra. Llegaron miles de siglos antes de que los humanos y en teoría están extintos, pero ya sabemos que no está muerto lo que yace eternamente.
 
 A pesar de que son morfológicamente los yinns más extraños, ya que no se parecen a ningún ser de la naturaleza, eran muy parecidos a los humanos. Ambos tienen una sociedad compleja, con clases sociales, formas de producción avanzadas, donde se cultivaba el arte y la ciencia y en la que sus individuos no solo vivían para sobrevivir, sino que tenían vidas plenas, llenas de todo tipo de relaciones sociales.
 
 Aunque podemos detectar cabeza, cuerpo y extremidades son tan extraños y de tan gran tamaño que los objetos creados por los Antiguos no son usables de forma normal por humanos y habría que adaptarlos.
+
+\saltopagina
+
+[![An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.](./assests/images/antiguos.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Old_One_by_Tom_Ardans.jpg "An Old One. Tom Ardans' artwork based on H. P. Lovecraft's short novel At the Mountains of Madness.")
 
 El cinco es un número importante entre los Antiguos debido a que su torso de tonel tiene 5 lados, tiene 5 tentáculos, etc. La estrella de 5 puntas es también un símbolo importante para los Antiguos.
 
@@ -1558,6 +1690,8 @@ El cinco es un número importante entre los Antiguos debido a que su torso de to
 
 ## Byakhee (secuaz)
 Son seres voladores de apariencia insectoide con grandes alas membranosas y pies palmeados. Viven en el espacio interestelar donde sobreviven sin problemas. Se pueden mover a la velocidad de la luz y suelen bajar a diferentes planetas a alimentarse. Principalmente, se concentran en las Híades cerca de Aldebaran donde está exiliado su señor Hastur. Solo aparecen para acompañar a su señor o si son invocados. Pueden ser usados como monturas voladoras y si se pueden evitar los peligros del vacío especial podría viajarse montado en Byakhee entre galaxias a la velocidad de la luz.
+
+\saltopagina
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d6, Pelear d8, Sigilo d6
@@ -1585,6 +1719,9 @@ En el Caribe sería normal que cayeran en fondos marinos donde pueden sobrevivir
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Pelear d6 (solo esquivar), Sigilo d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Morfología alien:** No tiene puntos débiles como cabeza, cuello, por lo que los golpes apuntados no consiguen extras.
   * **Crecimiento:** El tamaño del color aumenta según va pasando el tiempo, pasando de una casilla a tener areas de 20 casillas de cualquier forma. No tienen bonificadores ni penalizadores por tamaño.
@@ -1604,6 +1741,9 @@ En grupo y coordinados puedes crear terremotos y maremotos, derribar ciudades e 
 * **Habilidades:** Notar d6, Pelear d8, Sigilo d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 16 (2)
 * **Rasgos:** Vulnerables al agua (-4 resister ataques de este tipo).
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Armadura +2:** Estos gusanos están cubiertos por una gruesa piel y un limo pegajoso.
   * **Excavar 12:** Los chthonianos pueden excavar en tierra y piedras suelta y reaparecer en el siguiente turno en cualquier sitio a 12 pasos.
@@ -1624,6 +1764,9 @@ Los dholes devoran todo a su paso, dejando solamente la nada. De hecho, un astro
 * **Atributos:** Agilidad d6, Astucia d12, Espíritu d12+4, Fuerza d12+12, Vigor d12+4
 * **Habilidades:** Disparar d8, Notar d8, Pelear d12+1
 * **Paso:** 20; **Parada:** 10; **Dureza:** 52(12)
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Armadura +12:** La piel de dhol es increíblemente fuerte y resistente.
   * **Gargantuesco:** Puede aplastar casi cualquier objeto de tamaño 15 o menos con un ataque de pisotón que causa d12+22 de daño, menos el propio Tamaño de la víctima. Se considera un arma pesada y para dañar a un dhol hacen falta armas pesadas como catapultas o balistas.
@@ -1643,6 +1786,9 @@ Los gugos son una especie de simios gigantescos (5-6 metros de altura) que habit
 * **Habilidades:** Disparar d6, Notar d6, Pelea d6
 * **Paso:** 8; **Parada:** 5; **Dureza:** 18(2)
 * **Ventajas:** Frenesí Mejorado.
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Armadura +2:** Su pelaje y su gruesa piel les confieren una buena armadura.
   * **Tamaño +7** +1 herida. Hasta 8 metros de alto.
@@ -1666,6 +1812,8 @@ Los gules son unos humanoides desgarbados con rasgos de hiena. Salen de noche de
   * **Garras/Mordisco:** Fue+d6
   * **Infección:** Cualquiera que sufra una herida de un Gul debe hacer una tirada de Vigor al de una semana. El éxito indica que está bien. El fracaso le otorga un nivel inmediato de fatiga debido a las fiebres. Un fallo crítico indica que el personaje está infectado. El infectado tiene un d6 meses antes de que la transformación en Gul esté completa y el personaje se vuelva injugable. Quizás puedas encontrar a alguien con los suficientes conocimientos en Mitos que sepa como curarla, pero seguramente le deberás un gran favor. Los propios gules podrían darte esa información. Si se supera la infección o se pasa la tirada de Vigor, la víctima se vuelve inmune a la infección y la próxima vez ni tendrá el nivel de fatiga.
 * **TPC:** 1d4 (manada).
+
+\saltopagina
 
 ## Habitante de las arenas (secuaz)
 Dentro de las leyendas árabes hay varios seres que viven en cuevas en el desierto, pero la mayoría los llama Sukaan. Son humanoides de grandes ojos y orejas. Su piel parece hecha de arena y es por ello que puede camuflarse fácilmente en el desierto. Son nocturnos, aunque pueden salir a la luz del sol sin problemas.
@@ -1696,6 +1844,8 @@ Sobreviven en los oscuros pasillos subterráneos atrapando a los intrusos y sacr
 
 Parece ser que su evolución y decadencia fue paralela con los de la serpigente y tienen algunos lazos, tanto religiosos como culturales.
 
+\saltopagina
+
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Idioma materno d6, Notar d6, Pelear d6, Sigilo d8
 * **Paso:** 8; **Parada:** 5; **Dureza:** 6(1)
@@ -1723,6 +1873,8 @@ Fueron esclavizados por las bestias lunares y los lengnitas más grandes tambié
 ## Lloigor
 Los lloigors son seres de energía invisibles para los humanos provenientes de Andromeda. Tienen una mente malvada y pesimista, carecen de sentimientos y jamás olvidan. Su mente es tan poderosa que afecta a los humanos cercanos, llevándoles a la depresión y a tener ideas suicidas.
 
+\saltopagina
+
 Llevan miles de años en la Tierra y vinieron con su caudillo Ghatanothoa, el primogénito de Cthulhu, estableciéndose en un continente ya perdido. Cuando su Ghatanothoa fue encerrado en un volcán, entraron en decadencia y ahora solo quedan unos pocos lloigors en la Tierra.
 
 Aun así, son tremendamente poderosos y sus mentes llevan poco a la locura a los humanos. La RCPC ha hecho tratos con los lloigors para provocar la locura y el caos en determinados sitios y hacer que la gente abandone el lugar, el ejemplo más claro es Port Royal.
@@ -1747,6 +1899,9 @@ El lloigor puede hacerse corpóreo adoptando la forma de un reptil alargado y pa
 * **Habilidades:** Mitos de Cthulhu d12, Notar d10, Pelear d10, Sigilo d8
 * **Paso:** 6; **Parada:** 7; **Dureza:** 19(15)
 * **Ventajas:** Puntos de poder, Nuevo poder x2
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Mordisco/Garras:** FUE+d10
   * **Armadura +4:** Su piel dura y escamosa y es muy resistente.
@@ -1769,6 +1924,8 @@ Los noctivagos son unos seres con unas grandes alas de murciélago y colas con p
   * **Cosquillas:** Los noctivagos pueden intentar hacer una acción de Presa con su cola. En caso de conseguir inmovilizarla, como acción gratuita, puede hacer cosquillas con la cola a su presa. Si la presa falla estará aturdido 1d6 turnos debido a que se ríe descontroladamente. Pasado esos turnos la presa puede tratar de escapar y el noctivago volver a hacerle cosquillas. Normalmente, cuando consigue aturdir a la víctima, toman altura y lo dejan caer.
 * **TPC:** 1d6 (manada)
 
+\saltopagina
+
 ## Pólipos volantes (secuaz)
 [![Flying Polyp by Dagonweb (Khannea SunTzu)](./assests/images/polipo.jpg)](https://en.wikipedia.org/wiki/File:Flying_Polyp.jpg "Flying Polyp by Dagonweb (Khannea SunTzu)")
 
@@ -1785,6 +1942,9 @@ Se cree que son inteligentes, pero su forma de pensar es tan extraña que muchas
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d12+6, Vigor d12+2
 * **Habilidades:** Mitos de Cthulhu d8, Notar d8, Pelear d12
 * **Paso:** 4; **Parada:** 8; **Dureza:** 16 (14)
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Armadura +2:** Su gruesa piel les confieren una buena armadura.
   * **Tamaño +5** Los pólipos son del tamaño de un hipopótamo (+5 dureza, +2 bonificación al atacarla, +1 heridas)
@@ -1805,6 +1965,8 @@ Los Profundos son unas criaturas humanoides acuáticas mezcla de pez y rana. Tie
 Solo mueren de forma violenta. Según las leyendas viven eternamente en el fondo del mar en asentamientos submarinos, sirviendo a Dagón e Hydra y esperando el momento adecuado para alzarse de las profundidades y acabar con la raza humana.
 
 Al ser inmortales no paran de crecer y hacerse más poderosos. Esto hace que los individuos más ancianos son los más grandes y poderosos. Cuando esto ocurre es más raro aún que salgan a la superficie. De hecho, se considera que Hydra y Dagón son profundos muy muy antiguos y, por tanto, muy poderosos. Hay teorías que cree que todo profundo es un primigenio en potencia si se le dan eones de tiempo.
+
+\saltopagina
 
 ### Profundo (secuaz)
 
@@ -1837,6 +1999,8 @@ Dentro de cada comunidad profunda, el más viejo y, por tanto, el más poderoso 
   * **Rituales:** Atraer a los peces, Consagrar personas
 * **TPC:** 1d4 (manada).
 
+\saltopagina
+
 ### Cacique profundo (comodín)
 Solo hay 3 caciques profundos en todo el Caribe y son seres de bastante poder, tanto personal como político. Son de mucho más tamaño que el resto de profundos, pero sin llegar al tamaño de profundos míticos como Dagón o Hydra.
 
@@ -1862,6 +2026,9 @@ Para hacer un híbrido añádele estas características a un PNJ.
 
 * **Habilidades:** Cthulhunés d6
 * **Desventajas:** Feo menor si es joven y mayor si es adulto. Suelen tener otras desventajas como Analfabeto, Marginado o Sanguinario.
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Semiacuáticos:** Paso nadando 4. Pueden respirar bajo el agua sin problemas, pero no son tan hábiles nadadores como un profundo completo.
   * **Inmunidad a la edad, el veneno y las enfermedades:** No pueden morir de enfermedad, de viejo o por venenos.
@@ -1884,6 +2051,8 @@ Los retoños oscuros son unas masas informes de tentáculos con varias bocas. Pa
 Los perros o sabuesos de Tíndalos son unos seres inmortales que habitan la época en la que la Tierra cuando la vida solo eran unos pocos seres unicelulares. Se dice que viven entre los ángulos del tiempo, mientras que el resto de seres vivimos en las curvas del tiempo. No se sabe muy bien su forma exacta, ya que nadie ha sobrevivido a su ataque. Cuando alguien viaje a través del tiempo y se acerca a su época, ellos lo notan y van avanzando a través de los ángulos tiempo hasta que lo encuentran y lo destruyen. Fueron creados a partir de restos ADN de dioses y es por ello que tienen formidables poderes.
 
 Los perros de Tíndalos representan todo lo que es impuro y odian todo lo que es puro. Desean corromperlo o destruirlo. Esta naturaleza impura vincula a los perros con las formas angulares, pues estas carecen de la pureza que poseen las formas curvas.
+
+\saltopagina
 
 Como ya hemos dicho, pueden moverse por los ángulos del tiempo y el espacio y la forma más segura de protegerse sería en una habitación sin ángulos, por ejemplo, una habitación donde las juntas entre paredes, techo y suelo hayan sido rellenadas de cemento, de forma que haya ángulos rectos.
 
@@ -1910,6 +2079,8 @@ La serpigente son humanoides escamosos de rostro y cola reptiliano. Dominaron la
 Suelen infiltrarse en las comunidades humanas, haciéndose pasar por humanos para investigarnos y aprender como exterminarnos o para probar sus experimentos genéticos.
 
 Adoran a Yig el dios serpiente como su padre y creador, aunque pequeñísimos grupos le rezan a Tsathoggua, el Durmiente de N'kai.
+
+\saltopagina
 
 Como curiosidad diremos que la serpigente no es una creación de Lovecraft, sino de su amigo Robert E. Howard. Antes que tu mesa, Conan ya machacaba serpigente en sus relatos.
 
@@ -1941,6 +2112,8 @@ Son las fuerzas de choque de la serpigente, crueles y brutales con los humanos. 
   * **Hechizos:** 8 PP, Conoce 1 hechizos al azar y Disfraz para poder moverse dentro de la sociedad humana.
 * **TPC:** 1d6
 
+\saltopagina
+
 ## Shantak (comodín)
 Los shantak son unos enormes reptiles alados (o pájaros escamosos según se vea) cuya cabeza tiene apariencia de equino. Son igual de grandes que un elefante africano. Aunque son criaturas de la Tierra de los Sueños, pueden ser invocados en nuestro mundo para servir a la persona que los llame.
 
@@ -1966,6 +2139,8 @@ Sirven a los Dioses Exteriores, en especial al gran Azathoth y en menor medida a
 Los shoggoths son masas informes y burbujeantes de protoplasma. Tiene un tamaño de unos 6 metros de diámetro y unos 3 de altura. Pueden generar ojos y tentáculos en cualquier parte de su estructura. Fueron creados por Los Antiguos como mulas de carga en la construcción de sus ciudades acuáticas. No quedan muchos, pero aún se pueden encontrar en oscuras fosas marinas sirviendo a los profundos.
 
 A lo largo de los milenios han ido evolucionando, haciéndose anfibios y aumentando su inteligencia hasta tener una inteligencia humana, aunque tampoco es que sean muy inteligentes. Se conocen casos en los que han desarrollado la capacidad de habla.
+
+\saltopagina
 
 * **Atributos:** Agilidad d4, Astucia d4, Espíritu d6, Fuerza d12+6, Vigor d12
 * **Habilidades:** Pelear d4, Notar d6
@@ -1993,6 +2168,9 @@ Como seres de fuego que son se les puede atacar con agua o arena y para proteger
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Notar d8, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 4
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Invulnerables:** Son gaseosos y solo pueden ser atacados con agua o con magia (que no tenga ornamentos de fuego).
   * **Lenguas de fuego:** Pueden hacer ataques cuerpo a cuerpo (tirada Pelear) con sus lenguas de fuego de 2d6 de daño.
@@ -2010,6 +2188,8 @@ Los yithianos es una raza extraterrestre que no tiene forma corpórea. Vinieron 
 Se caracterizan por su control del viaje a través del tiempo. De hecho, se les conoce como Gran raza, ya que han sido capaces de controlar los viajes temporales. Cuando te encuentres con un yithiano debe tener en cuenta que igual estás hablando con alguien de tu pasado o de tu futuro con todas las implicaciones que tiene eso.
 
 Pueden mandar su mente a través del tiempo y ocupar los cuerpos de seres inteligentes de diferentes épocas. Las mentes de los cuerpos ocupados pasan al cuerpo del yithiano y este puede usarlo para interactuar con otros yithianos. Cuando la mente yithiana vuelve a su cuerpo, la mente del huésped vuelve a su cuerpo tras ser borrada su memoria.
+
+\saltopagina
 
 ### Yithiano científico (secuaz)
 Los yithianos son grandes científicos, como demuestra su capacidad de viajar en el tiempo o sus armas de rayos. El más simple de los yithianos está al nivel de grandes nombres de la ciencia como Isaac Newton o Émilie du Châtelet.
@@ -2031,6 +2211,9 @@ Los yithianos combatieron y derrotaron a un gran enemigo, los pólipos volantes,
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d12+2, Vigor d12+2
 * **Habilidades:** Ciencias d60, Disparar d10, Mitos de Cthulhu d6, Notar d8, Pelear d8, Notar
 * **Paso:** 6; **Parada:** 5; **Dureza:** 18 (4)
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Armadura quitinosa +4:** Como los moluscos, poseen un exoesqueleto quitinoso que les protege de ataques.
   * **Tecnología yithiana:** Puedes asignarle a un yithiano hasta 2 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Los yithianos pueden usar cualquier poder del manual básico, no tienen las limitaciones de esta ambientación, pero suelen ser de orientados al combate.
@@ -2047,6 +2230,8 @@ Su capacidad de viajar en el tiempo no tiene reglas, ya que creemos que es más 
 Los yuggothianos, hongos de Yuggoth o Mi-Go tienes aspecto de crustáceos, aunque en realidad son parte animal, parte hongo. Tienen varios pares de extremidades terminadas en pinzas y alas membranosas funcionales. Se comunican mediante patrones de color en sus cabezas.
 
 Los Yuggothianos son una raza que se dedica a moverse por el espacio e ir conquistando planetas de los que explotan sus recursos minerales. Su asentamiento más cercano a la Tierra se encuentra ahora mismo en Plutón (que no será descubierto hasta 1930). Suelen buscarse aliados indígenas en los planetas que quieren conquistar para que les ayuden en sus planes. Adoran a varios dioses primigenios como difundiendo Nyarlathotep y Shub-Niggurath y en sus planes de colonización siempre está difundir el culto a estos primigenios.
+
+\saltopagina
 
 Los yuggothianos son famosos por sus conocimientos en cirugía cerebral que les permite extraer un cerebro de un cuerpo humano y mantenerlo conservados en unos tubos metálicos llenos de líquido llamados cilindros cerebrales. Estos tubos pueden conectarse a diferentes aparatos que le permiten al cerebro, ver, oír, hablar, etc. Esta tecnología les permite a los Mi-Go llevarse con ellos en sus viajes especiales a los humanos con los mínimos riesgos para los cerebros. También saben como conservar los cuerpos y si es necesario, pueden devolver al cerebro a su cuerpo sin ningún tipo de problema.
 
@@ -2076,6 +2261,9 @@ Sobre ellos recae todo el desarrollo tecnológico de su raza. No son tan fuertes
   * **Volar:** Paso volando 8. Los yuggothianos tienen unas alas con las que vuelan.
   * **Viaje espacial:** Pueden viajar por el espacio sin sufrir ningún tipo de daño.
   * **Tecnología Yuggoth:** Puedes asignarle a un científico hasta 3 aparatos tecnológicos con diferentes funciones que emulen diferentes poderes/hechizos. A nivel de juego, tienen 8 PP que pueden gastar para hacer funcionar esos 3 aparatos como si fueran hechizos usando Astucia como habilidad de lanzamiento. Recuperan esos 8 puntos en la siguiente escena. Uno de esos aparatos puede ser uno que se injerta en su "garganta" y que les permite comunicarse con los humanos. En ese caso, podrán hablar 1 idioma a d6.
+
+\saltopagina
+
 * **TPC:** 1d6
 
 Con el material adecuado, un Mi-go científico puede extraer el cerebro de un humano y meterlo en un cilindro cerebral en dos horas pasando una tirada de Medicina. El mismo tiempo para el proceso a la inversa. La extracción de un cerebro supone una tirada de TPC d8 al sujeto que sufra la operación siempre que no la haya permitido.
@@ -2107,6 +2295,7 @@ Serían cultistas de alto nivel que se dedican a planear y tomar decisiones a pi
 * **Hechizos:** 16 PP. Manipulación elemental adaptado a su entorno, Impacto sónico, Emponzoñar arma, Oscuridad
 
 ***
+
 # Cultos salvajes
 
 xxx
@@ -2126,6 +2315,8 @@ Cuando una célula es descubierta o destruida o incluso sus proyectos apocalípt
 Como secta es muy poco personalista. Cada célula es semi-autónoma y puede tener su jefe, elegido entre todas las personas de la célula, pero la secta como tal no tiene un líder que la dirija con mano de hierro. Los líderes de las diferentes células se comunican entre ellos y están organizados para llevar a cabo sus planes de destrucción mundial.
 
 Lo curioso de las células es que cada una es muy diferente de las otras, una puede ser ricos comerciantes, otra de criminales y otra de gente del mar. Normalmente cada culto tiene un público objetivo de donde saca militantes, pero esta secta literalmente tiene sectarios de cualquier extracto y condición social. Podemos considerar que los 40 ladrones de Alí Babá eran una célula de la secta que se dedica a robar para sustentar las actividades de otras células.
+
+\saltopagina
 
 ### Lugares de culto y refugios
 
@@ -2147,6 +2338,8 @@ Una célula de los 40 encontró un antiguo asentamiento acuático de los Antiguo
 ## La Mano Dorada de Suc'Naath
 
 > ... y tras alabar el innombrable nombre de su dios, Suc'Naath, pero solo nuestro Creador es más grande, empezaron a bailar girando como hacen los mevlevíes durante sus danzas. Pero de entre sus ropajes, sus giros y sus contorsiones empezaron a formarse figuras extrañas y sombras deformes que fueron tomando cada vez una forma más clara para mí, hasta poder ver la cara de mi jeiquesa Mariam llena de dolor y terror. Y sin previo aviso, uno a uno, los danzantes fue cayendo dejando grabado en mi alma la cara abotargada de la luz de mis mañanas y mis ocasos.
+
+\saltopagina
 
 La Mano Dorada de Suc'Naath reúne a intelectuales trastornados, poderosos taumaturgos perturbados y asesinos fanáticos bien entrenados. Su misión es adorar y liberar a Suc'Naath de la maldición que le tiene atado a su señor Azathoth. A cambio recibirán de su dios grandes poderosos y la vida eterna.
 
@@ -2173,7 +2366,10 @@ Siguiendo el destino de su amo y compartiendo su maldición, el principal ritual
 
 Fuera de los bailes que les ponen en comunión con su dios, son más de reuniones donde compartir secretos mágicos, hablar del arte profano que tanto les gusta y comentar sus trucos de asesino.
 
+
 Los adeptos y adeptas se suelen marcar el cuerpo con escarificaciones en forma de un triángulo invertido, simulando el cono que genera el huracán y que representa a Suc'Naath.
+
+\saltopagina
 
 ### Situación actual
 
@@ -2194,6 +2390,8 @@ Esta secta sirve como agentes humanos a los yuggothianos evitando principalmente
 Con los años se han radicalizado, convirtiendo el asesinato su principal forma de interactuar con los problemas y los posibles intrusos.
 
 La secta está también muy militarizada y ha conseguido meter agentes en el ejército del Califa de Bagdad, incluso en sus altas esferas. De hecho, el sumo sacerdote del culto es uno de los generales más condecorados del Califa de Bagdad.
+
+\saltopagina
 
 ### Personas destacadas que forman parte del culto
 
@@ -2223,6 +2421,8 @@ Dentro de los planes de mejoras públicas del califato está crear nuevas rutas 
 
 Estas noticias no agradan a los amos yuggothianos y esto ha hecho que los adeptos de la secta estén buscando modos de boicotear los planes del califato.
 
+\saltopagina
+
 ## Seguidores del Fuego y de la Luz
 
 > “Sabe, ¡oh mi honorable amo! que esta ciudad era de mi padre. Y la habitaban todos sus parientes y súbditos. Mi padre es el rey que habrás visto en su trono, transformado en estatua de piedra. Y la reina, que también habrás visto, es mi madre. Ambos profesaban la religión de los magos adoradores del terrible Nardún. Juraban por el fuego y la luz, por la sombra y el calor, y por los astros que giran.
@@ -2248,6 +2448,9 @@ No suelen tener sitios fijos de culto, pero cuando se reúnen suelen hacerlo en 
 
 * Damavand (5.610 m). Montes Elburz, cordillera del Cáucaso. Es una zona conocida por ser zona de anidación de Rokhs.
 * Kuh-i-Taftán (3.941 m). Es un volcán solitario y casi apagado al sureste del actual Irán.
+
+\saltopagina
+
 * Erta Ale (613 m). Se encuentra al noroeste de la actual Etiopía, cerca del Mar rojo. Es una montaña solitaria en mitad de un erial al que los locales no se acercan por temer a los espíritus que lo habitan. Tiene dos lagos de lava que a veces desbordan por la ladera.
 
 Aparte de los volcanes al sur de Bagdad, a un día de camino, Bahram el Gauro tiene una guarida secreta. Tiene una llama eterna sobre un altar de sacrificios parecido a una parrilla donde asa a sus víctimas en sacrificios a Nardún. Además, esta equipada con todo tipo de objetos y componentes mágicos y provisiones para varios días.
@@ -2275,6 +2478,10 @@ La organización en sí no es ni muy grande, ni muy poderosa, ni tiene grandes r
 Bahram lleva años sacrificando jovencitos (99 exactamente) a Nardún y ha conseguido suficiente poder para ser un contrincante muy peligroso. Si objetivo es encontrar la esfera celeste de Al-Schamardal, que cree que contiene parte de la esencia de su reverenciada deidad. Ha puesto al resto de la secta en su búsqueda y están empezando las primeras pistas de su localización.
 
 ***
+
+# Epílogo
+
+## Atribuciones
 
 Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Widener%204#page/418/mode/2up
 
