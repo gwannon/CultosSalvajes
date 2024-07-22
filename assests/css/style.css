@@ -58,17 +58,7 @@ h1, h2, h3, h4 {
 blockquote {
   background-color: #fff;
   border-radius: 10px;
-  padding-top: var(--padding);
-  padding-bottom: var(--padding);
-}
-
-blockquote:nth-of-type(even) {
-  rotate: 1deg;
-}
-
-
-blockquote:nth-of-type(5n) {
-  rotate: -1deg;
+  padding: calc(var(--padding) / 2);
 }
 
 blockquote > p {
@@ -80,11 +70,6 @@ blockquote > p {
   line-height: 120%;
   margin: 0;
   padding: 0;
-  rotate: 0deg;
-}
-
-blockquote:nth-of-type(odd) > p {
-  rotate: -1deg;
 }
 
 pre {
@@ -99,12 +84,7 @@ pre code {
   background-color: #fffcfa;
   border-radius: 5px;
   padding: calc(var(--padding) / 2);
-  rotate: -1deg;
   margin-bottom: 30px;
-}
-
-pre:nth-of-type(odd) code {
- rotate: 0.5deg;
 }
 
 section:not(section:first-of-type, section:last-of-type) > h1 {
@@ -171,6 +151,11 @@ section p img:not(section:first-of-type img, section:nth-of-type(2) img, section
   margin: 0px 0px 10px 20px;
 }
 
+section:nth-of-type(10) p a img {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
 a:has(img) {
   position: relative;
   display: block;
@@ -181,6 +166,7 @@ a:has(img) {
 table {
   box-sizing: border-box;
   margin-bottom: 20px;
+  border-collapse: collapse;
 }
 
 div:has(table){
@@ -190,6 +176,7 @@ table tr td,
 table tr th {
   font-family: "GlassAntiqua", cursive;
   padding: 10px;
+  border: 1px solid #000;
 }
 
 /* secciones */

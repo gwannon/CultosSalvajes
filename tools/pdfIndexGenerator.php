@@ -12,7 +12,7 @@ $html = explode("\n", removeHtmlComments($doc->savehtml($body)));
 $lines = [];
 foreach($html as $line) {
   $line = cleanLine($line);
-  if(preg_match("/(<h1>|<h2>|<h3>|<h4>|saltopagina)/", $line)) $lines[] = $line;
+  if(preg_match("/(<h1>|<h2>|<h3>|<h4>|saltopagina|minisalto)/", $line)) $lines[] = $line;
 }
 $counter = 1;
 echo "BookmarkBegin\n";
@@ -49,9 +49,9 @@ foreach($lines as $line) {
     echo "BookmarkLevel: 4\n";
     echo "BookmarkPageNumber: {$counter}\n";
     $json[] = ["title" => $line,"page" => $counter];
-  } else if(preg_match("/saltopagina/", $line)) {
+  } else if(preg_match("/(saltopagina|minisalto)/", $line)) {
     $counter++;
-  }
+  } 
 }
 
 echo "BookmarkBegin\n";

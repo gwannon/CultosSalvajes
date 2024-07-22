@@ -2487,6 +2487,25 @@ Portada y contraportada https://bibliophilly.library.upenn.edu/viewer.php?id=Wid
 
 Fondo interior https://pixabay.com/es/illustrations/viejo-textura-papel-papel-arrugado-2012064/
 
+\saltopagina
+
+## Otros proyectos que te pueden interesar 
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
+
+[![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')](https://arrrcthulhu.com/pdf/ 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')
+
+&nbsp;
+
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)** 
+
+&nbsp;
+
+[![Mil y Un Ghūles](./assests/images/1001ghules.jpg 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')](https://1001ghules.gwannon.com/pdf/ 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')
+
+&nbsp;
+
+**[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)** 
+
 ***
 
 #### Cultos Salvajes
