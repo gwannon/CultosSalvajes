@@ -12,9 +12,14 @@ Este libro contiene:
 
 [Página web](https://gwannon.itch.io/cultos-salvajes)
 
+## Referencias
+* https://roleplus.app/publicaciones/reglas-para-jugar-a-los-mitos-de-cthulhu-con-savage-worlds-edicion-aventura
+* https://www.youtube.com/watch?v=ZEZfEVUEFbQ&t=1134s
+* https://www.youtube.com/watch?v=VT8QnciZ9zQ&t=360s
+
 # Changelog
 
 ## Versión 0.1 En desarrollo
 * Configurado script para nuevo desarrollo.
-* Compilación básicas de reglas realiazada en otros proyectos.
+* Compilación básicas de reglas realizadas en otros proyectos.
 * Maquetación básica.
