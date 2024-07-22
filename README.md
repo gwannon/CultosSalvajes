@@ -21,5 +21,5 @@ Este libro contiene:
 
 ## Versión 0.1 En desarrollo
 * Configurado script para nuevo desarrollo.
-* Compilación básicas de reglas realizadas en otros proyectos.
+* Compilación básica de reglas realizadas en otros proyectos.
 * Maquetación básica.
