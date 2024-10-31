@@ -38,16 +38,12 @@ $json[] = ["title" => "Índice","page" => $counter];
 $counter = 1;
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
-
-    $line = str_replace(" <strong>" , "____", $line);
-    $line = str_replace("</strong>" , "", $line);
     $line = strip_tags($line);
-    $temp = explode("____", $line);
     echo "BookmarkBegin\n";
-    echo "BookmarkTitle: ".$temp[1]."\n";
+    echo "BookmarkTitle: ".$line."\n";
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
-    $json[] = ["title" => $temp[1],"page" => $counter];
+    $json[] = ["title" => $line,"page" => $counter];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
