@@ -143,12 +143,10 @@ section > ul > li > ul > li:before {
 }
 
 section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
-  max-width: 50%;
-  width: 50%;
   border: 15px solid #fff;
   box-shadow: -12px 17px 22px -8px #000;
-  float: right;
-  margin: 0px 0px 10px 20px;
+  box-sizing: border-box;
+  width: 100%;
 }
 
 section:nth-of-type(10) p a img {

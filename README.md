@@ -5,7 +5,7 @@ Este libro contiene:
 
 1. Nuevas reglas de creación de personajes, ventajas y desventajas y habilidades relacionadas con los Mitos.
 2. Reglas específicas para representar el Horror y la Cordura.
-3. Todo un sistema de Hechicería Primigenia para representar la magia de los Mitos, así como grimorios y libros malditos y reglas de creación..
+3. Todo un sistema de Hechicería Primigenia para representar la magia de los Mitos, así como grimorios y libros malditos y reglas de creación.
 4. Un completo bestiario con los seres más importantes de los Mitos.
 5. Una gran colección de objetos mágicos, algunos de ellos malditos.
 6. Para usar estas reglas en tus aventuras solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
@@ -19,7 +19,10 @@ Este libro contiene:
 
 # Changelog
 
-## Versión 0.1 En desarrollo
+## Versión 0.1.1 En desarrollo
+* Maquetación en dos columnas.
+
+## Versión 0.1 31/10/2024
 * Configurado script para nuevo desarrollo.
 * Compilación básica de reglas realizadas en otros proyectos.
 * Maquetación básica.

@@ -16,6 +16,10 @@ body {
 
 @media print {
 
+  @page {
+    size: A4;
+    margin: 0;
+  }
   
   .saltocolumna {
     break-before: column;
@@ -27,12 +31,6 @@ body {
   .saltopagina + .columns > *:first-child {
     margin-top: 0;
     padding-top: 0;
-  }
-
-
-  @page {
-    size: A4;
-    margin: 0;
   }
 
   .saltopagina {
@@ -51,10 +49,6 @@ body {
   .likeH2 span,
   .likeH3 span {
     display: block;
-  }
-
-  section#anchorindice div {
-    page-break-before: always;
   }
 }
 

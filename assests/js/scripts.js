@@ -11,9 +11,7 @@ $(document).ready(function () {
   .each(function () {
     var label;
     var pageNumber = 0;
-    /*if($(this).prop("tagName") == 'H1') {
-      label = $(this).children("strong").text();
-    } else */ label = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
+    label = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
 
     $.each(indice, function(i, item) {
       if (label == item.title) {

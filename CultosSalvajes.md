@@ -1,6 +1,10 @@
 # Reglas de ambientación
 
+\sincolumna
+
 ## Creación de personajes
+
+\concolumna
 
 Hay una serie de reglas en esta ambientación que modifican las normas generales de creación de personajes. No son muchas ni muy complicadas, pero tienen su sentido. Veámoslas:
 
@@ -10,10 +14,20 @@ Hay una serie de reglas en esta ambientación que modifican las normas generales
 * Ocultismo desaparece como habilidad. Los conocimientos sobre magia están recogidos por la nueva habilidad de Mitos de Cthulhu. Los conocimientos básicos de Ocultismo, como formas de matar a un zombi o cómo quitar un mal de ojo, puedes integrarlos dentro de Conocimientos Generales. La mitología, las religiones, etc. puedes integrarlos en Humanidades.
 * La desventaja Analfabeto pasa a ser mayor. Aunque la mayoría de la gente no sabe ni leer ni escribir, para una persona que va a estar rodeado de libros y que los necesita para enfrentarse a seres muy poderosos, ser analfabeto es un problema serio.
 
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
 ## Nuevas habilidades
+
+\concolumna
+
 En Cultos Salvajes puedes hacer uso de todas las habilidades básicas de SWEA. Por otro lado, hay una serie de nuevas habilidades:
 
 ### Mitos de Cthulhu
+
 Mitos de Cthulhu representa los conocimientos que tiene tu personaje sobre los Mitos de Cthulhu, los monstruos, los hechizos, ritos, objetos, etc. y la historia que hay detrás de ellos. También puede servirte para identificar maldiciones y quitarlas o para identificar puntos débiles de seres de los Mitos.
 
 Esta habilidad no se puede escoger en la creación del personaje. Solo mediante el estudio de libros prohibidos y enfrentándote a los horrores de los mitos podrás subir esta habilidad. Reglas especiales:
@@ -23,12 +37,13 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 * Para poder subir esta habilidad, tu personaje ha debido enfrentarse a, al menos, una TPC o haber leído un libro prohibido durante las sesiones de juego de ese rango.
 * No tiene límites, cuando se llega a d12 continuamos con +1, +2, +3, ...
 
-\saltopagina
-
 ### Idioma cthulhunés (Astucia)
+
 El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
 La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como mglw'naph o fhtagn.
+
+\saltocolumna
 
 _ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn_  
 _En la Ciudad de R'lyeh, el difunto Cthulhu, espera soñando_
@@ -42,15 +57,20 @@ El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es p
 ### Idioma Naacal (Astucia)
 El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años. Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
 
+\saltopagina
+
+\sincolumna
+
 ## Nuevas desventajas
+
+\concolumna
+
 La mayoría de las desventajas que hay en esta ambientación están relacionadas con la locura y el horror. Pueden ser bastante limitantes, así que ve con cuidado a la hora de escogerlas y trata consensuarlas con tu director de juego. Con una sola persona sentada a la mesa con "La llamada de Cthulhu" es más que suficiente.
 
 ### Débil de mente (mayor)
 Hay personas que no están preparadas para enfrentarse al horror y esta desventaja lo refleja. No estás preparado para todas las terribles visiones que vas a presenciar y las horribles situaciones que vas a experimentar. Pero por todo eso, enfrentarte al horror como vas a hacerlo es una señal de tu valor.
 
 Todas las TPC tiene un nivel más. Es decir, una TPC de d8 será de d10 para alguien con una mente débil. Este nivel extra se aplica al final, después de hacer todas las cuentas. Si sale que no hay tirar TPC, en realidad, tira una TPC de d4. Si hay un mínimo de d4, para esta persona sería de d6.
-
-\saltopagina
 
 ### Más cerca de la locura (mayor)
 Te encuentras más cerca de la locura que el resto del mundo. Tu equilibrio mental es más frágil que el común de los mortales. Puede ser por muchas razones: genética, infancia traumática, etc. Sea como sea, tu psique es más débil de lo normal y estás más cerca de la locura que el resto de tu equipo.
@@ -71,6 +91,8 @@ Además, de las desventajas listadas a continuación puedes usar como trastornos
 
 ### Amnesia y flashbacks (menor/mayor)
 El cerebro de tu personaje, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció como un vampiro de fuego quemaba a toda su familia, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles. Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, ...
+
+\saltopagina
 
 En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
 
@@ -104,8 +126,6 @@ Deberás elegir una fobia menor y un hábito menor relacionado para formar el TO
 
 ### Paranoia (mayor/menor)
 Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
-
-\saltopagina
 
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor.
 
@@ -158,7 +178,14 @@ No has llegado a desarrollar tus dotes de hechicería, pero si controlas una ser
 
 Empiezas con 4 rituales, puedes elegirlos tú mismo, pero debe tener cierta coherencia con tu historia. Si tienes "Brindar al mar" porque vienes de un pueblo de pescadores, no tiene mucho sentido que sepas "Protección de la cosecha" que sería más de campesinos de interior. Además, tienes un +2 a las tiradas de Conocimientos generales relacionados con magia y hechicería.
 
+\saltopagina
+
+\sincolumna
+
 ## Benis
+
+\concolumna
+
 Hay nuevos usos para los benis en tres apartados muy importantes de este juego, la magia, la cordura y la navegación. Debes hacer comprender a tu mesa que estos usos normalmente deben ser reservados para momentos épicos, cuando la situación es a vida o muerte y sobre todo "queda bien" en la historia.
 
 \saltopagina
@@ -167,7 +194,14 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 * Gastando todos tus benis (mínimo 1) puedes hacer un golpe de timón en tus viajes por mar y negar un resultado en la tirada de encuentros en el mar. Se acerca una tormenta y antes de verse rodeada por ella, el piloto del barco hace girar el timón 180º y busca una ruta alternativa.
 * Como se ve más adelante, se pueden gastar benis para que los trastornos mentales no sean permanentes.
 
+\saltopagina
+
+\sincolumna
+
 ## Horror y cordura
+
+\concolumna
+
 El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
 
 Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
@@ -181,6 +215,8 @@ Los trastornos mentales son un tipo de desventaja y siguen sus mismas reglas. Pa
 Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no adquieres el trastorno, sino que recuperas un punto de cordura.
 
 \saltopagina
+
+\sincolumna
 
 **Tabla de Trastornos**
 
@@ -205,6 +241,8 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 | Q   | 12 turnos | 12 minutos | 12 horas | 12 días |
 | K   | 14 turnos | 14 minutos | 14 horas | 14 días |
 | As  | 20 turnos | 20 minutos | 20 horas | 20 días |
+
+\concolumna
 
 La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tirada con cada tipo de monstruo, aunque la cantidad sí puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos y una docena de gules. Cada jugador deberá hacer una tirada enfrentada contra los profundos y otra contra los gules.
 
@@ -264,7 +302,13 @@ En los relatos de Lovecraft todas las personas pueden llevar a cabo rituales y h
 
 Es por ello que todo comodín en esta ambientación tiene capacidades mágicas, pero debe saber las fórmulas, los rituales y las recetas para poder activar las fuerzas oscuras y enfocarlas de la manera que le interesa. Y la única forma de conocer nuevos hechizos es estudiar tomos de los mitos Cthulhu. A nivel de juego, podríamos decir que todo personaje tiene la ventaja Trasfondo arcano (Hechicería primigenia).
 
+\saltopagina
+
+\sincolumna
+
 ## Ventajas de Hechicería primigenia
+
+\concolumna
 
 ### Trasfondo arcano (Hechicería primigenia)
 
@@ -298,14 +342,27 @@ Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, func
 * La adquisición de ventajas que den (como Nuevos poderes) o mejoren poderes debe estar asociadas al estudio de libros de los Mitos.
 * Los ornamentos siempre deberían tener un toque nigromántico, oscuro, extradimensional y elemental.
 
+\saltopagina
+
+\sincolumna
+
 ## Ornamentos
+
+\concolumna
+
 Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftsiana, deberán tener un toque oscuro, nigromántico muchas veces y rozando la locura y el horror.
 
 * Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
 * Invocar aliados debería traer aliados de entre los muertos o de otras dimensiones.
 
+\saltopagina
+
+\sincolumna
+
 ## Nuevos poderes
+
+\concolumna
 
 En Cultos Salvajes hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWADE.
 
@@ -474,11 +531,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Captura | 11  | Aferrar | El taumaturgo dirige su mano hacia su objetivo y hace como que lo agarra. |
 | Captura | 12  | Invocar avatar de Atlach-Nacha | El hechicero invoca al Dios-araña Atlach-Nacha que captura a su objetivo con su tela de araña. |
 
-
-
 \saltopagina
-
-
 
 | Poder | d100 | Hechizo | Ornamento |
 | --- | --- | --- | --- |
@@ -921,7 +974,14 @@ Puede ser que en algún momento los héroes sean absorbidos por un agujero dimen
 | 11  | R'lyeh | Ya hemos hablado de R'lyeh mucho en esta ambientación, así que ya sabes qué van a encontrar. |
 | 12  | El vacío | Este gran espacio vació, es la nada, el fin del tiempo y el espacio sin origen y sin final. Igual es el centro de un agujero negro o lo que queda de una dimensión devorada por dholes. Pero desde luego mejor no tener que entrar nunca. |
 
+\saltopagina
+
+\sincolumna
+
 ## Maldiciones
+
+\concolumna
+
 Las maldiciones son algo común en los relatos de las 1001 Noches y en los del escritor de Providence. Las hay desde muy clásicas como transformar a la víctima en animal o en piedra como o extrañas y bizarras como lepra, llagas supurantes, ceguera o hambre de carne o sangre humana.
 
 Las maldiciones son hechizos que se lanzan buscando hacer daño físico y emocional al objetivo y sus seres queridos y amistades cercanas. Pero lo que lo convierte en maldición es su carácter permanente y que haya algún tipo de acción, objeto, ritual o contra-hechizo que la rompa.
@@ -1088,10 +1148,16 @@ Las condiciones pueden ser variadas según el animal, por ejemplo, un animal de 
 
 \saltopagina
 
+\sincolumna
+
 ## Grimorios y libros de hechizos
+
+
 > Y sacó del bolsillo un libro antiguo, en el cual había trazados al revés caracteres desconocidos, semejantes a patas de hormigas, y se puso a leer en voz alta ante la montaña, moviendo la cabeza, unos versículos en lengua incomprensible. Y al punto, girando sobre sí misma por ambos lados a la vez, se separó en dos partes la montaña, dejando junto al suelo un espacio lo bastante ancho para permitir pasar a un solo hombre.
 > 
 > **Referencia:** Historia maravillosa del espejo de las vírgenes (n. 723)
+
+\concolumna
 
 El libro de hechizos o grimorio mágico es un elemento fundamental que necesita toda aquella persona que practique la magia. Su estudio permite aprender nuevos hechizos y mejorar tus capacidades mágicas, aumentando tu control sobre las energías mágicas y el poder de tus hechizos y maldiciones.
 
@@ -1236,7 +1302,12 @@ Aprender de un maestro exige el mismo tiempo que leer el libro, pero en este cas
 # Lugares de los Mitos
 xxx
 
+\sincolumna
+
 ## R'lyeh
+
+\concolumna
+
 Explorar R'lyeh y encontrar al durmiente Cthulhu es una tarea solo para los más valientes o los más locos o ambas cosas.
 
 R'lyeh está rodeado de una especie de esfera de entropía que la oculta, que no deja entrar el agua y que hace que esté fuera del tiempo. En R'lyeh no ha pasado ni un segundo desde que se sumergió en las aguas y lo mismo para sus edificios, sus selvas y los terribles animales prehistóricos que se hundieron con la ciudad. De hecho, si consiguen salir lo hará un segundo después de haber entrado. Mientras que para ellos habrán pasado horas o días, para el resto del mundo no habrá pasado ni un minuto.
@@ -1287,7 +1358,11 @@ Una vez que compruebe que están R'lyeh y que Cthulhu existe, déjales volver si
 
 xxx
 
+\sincolumna
+
 ## Objetos especiales
+
+\concolumna
 
 **Anestésico natural:** Este bebedizo hecho con extractos de misteriosas plantas de la jungla quita un nivel de penalización por daño durante una escena. El recipiente tiene 1d6 usos.
 
