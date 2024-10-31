@@ -2489,6 +2489,8 @@ Fondo interior https://pixabay.com/es/illustrations/viejo-textura-papel-papel-ar
 
 \saltopagina
 
+\sincolumna
+
 ## Otros proyectos que te pueden interesar 
 Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
 
@@ -2505,6 +2507,8 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 &nbsp;
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)** 
+
+\concolumna
 
 ***
 

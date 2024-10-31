@@ -1,42 +1,28 @@
 $(document).ready(function () {
-  var counter = 0;
-  let step = 40;
-  var currentDiv = 1;
 
-  $("body>section h1, body>section h2, body>section h3")
+  var currentPageNumber = 1;
+  $(".saltopagina").each(function () {
+    currentPageNumber++
+    $(this).attr('id', 'anchor' + currentPageNumber);
+  });
+
+  $("body>section h1, body>section h2")
   .not(".noindex, section:last-of-type *")
   .each(function () {
-    counter++;    
-    if($(this).attr('id')) {
+    var label;
+    var pageNumber = 0;
+    if($(this).prop("tagName") == 'H1') {
+      label = $(this).children("strong").text();
+    } else label = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
 
-      var pageNumber = 0;
-      var currentTitle = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
-      $.each(indice, function(i, item) {
-        if (currentTitle == item.title) {
-          pageNumber = item.page;
-          indice[i].title = "";
-        }
-      });
-
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#' + $(this).attr('id') + '" class="like' + $(this).prop("tagName") +
-      '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
-    } else {
-
-      $(this).attr('id', 'anchor' + counter);
-      var pageNumber = 0;
-      var currentTitle = this.innerHTML.replace(/(<([^>]+)>)/gi, "");
-      $.each(indice, function(i, item) {
-        if (currentTitle == item.title) {
-          pageNumber = item.page;
-          indice[i].title = "";
-        }
-      });
-
-      
-      $("body>section:nth-of-type(3) div:nth-of-type("+currentDiv+")").append('<a href="#anchor' + counter + '" class="like' + $(this).prop("tagName") +
-        '"><span>'+pageNumber+'</span>' + this.innerHTML.replace(/(<([^>]+)>)/gi, "") + '</a>');
-    }
-    currentDiv = Math.floor(counter / step) + 1;
+    $.each(indice, function(i, item) {
+      if (label == item.title) {
+        pageNumber = item.page;
+        indice[i].title = "";
+      }
+    });
+  
+    $("body>section:nth-of-type(3) div").append('<a href="#anchor' + pageNumber + '" class="like' + $(this).prop("tagName") + '"><span>'+pageNumber+'</span>' + label + '</a>');
   });
 
   //WordCount

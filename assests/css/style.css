@@ -265,20 +265,6 @@ section:first-of-type img {
   margin-right: 5px;
 }
 
-#anchorindice {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  padding: var(--padding);
-  gap: 10px;
-}
-
-#anchorindice > div {
-  width: calc(50% - 10px);
-  margin: 0;
-  padding: 0;
-}
-
 /* Contraportada */
 section:last-of-type {
   max-height: 3507px;
