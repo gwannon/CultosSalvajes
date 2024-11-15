@@ -10,9 +10,7 @@ Hay una serie de reglas en esta ambientación que modifican las normas generales
 
 * Tu PJ empieza con la ventaja Trasfondo arcano (Hechicería primigenia).
 * Las ventajas de Nuevos poderes y Puntos de poder no pueden cogerse en la creación de personaje, a no ser que se tenga la ventaja Experiencia con los Mitos.
-* Tu PJ empieza con un d4 gratis en Criollo. Esto le permite comunicarse mínimamente con cualquier persona en el Caribe. Puedes adquirir a d6 Taíno, Arahuaco, Castellano, Francés o Inglés en vez del Criollo, pero solo será útil en las áreas de influencia de los respectivos idiomas.
 * Ocultismo desaparece como habilidad. Los conocimientos sobre magia están recogidos por la nueva habilidad de Mitos de Cthulhu. Los conocimientos básicos de Ocultismo, como formas de matar a un zombi o cómo quitar un mal de ojo, puedes integrarlos dentro de Conocimientos Generales. La mitología, las religiones, etc. puedes integrarlos en Humanidades.
-* La desventaja Analfabeto pasa a ser mayor. Aunque la mayoría de la gente no sabe ni leer ni escribir, para una persona que va a estar rodeado de libros y que los necesita para enfrentarse a seres muy poderosos, ser analfabeto es un problema serio.
 
 \saltocolumna
 

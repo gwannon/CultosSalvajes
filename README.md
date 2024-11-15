@@ -21,6 +21,7 @@ Este libro contiene:
 
 ## Versión 0.1.1 En desarrollo
 * Maquetación en dos columnas.
+* Mejorar paginación
 
 ## Versión 0.1 31/10/2024
 * Configurado script para nuevo desarrollo.
