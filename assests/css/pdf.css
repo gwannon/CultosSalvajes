@@ -1,6 +1,48 @@
+body {
+  counter-reset: primary 1;
+}
+
 .saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+section:first-of-type > div.saltopagina {
   display: none;
 }
+
+@media screen {
+  .saltopagina { display: block; height: 0; overflow: hidden; }
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: 'VT323';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--neon-color);
+  position: absolute;
+  bottom: 11px;
+  /*left: calc(50% - (var(--size) / 2));*/
+  left: 10px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 45;
+  opacity: 1;
+}
+
+/*section .saltopagina:first-of-type:after,*/
+section h1 + .saltopagina:after {
+  opacity: 0;
+}
+
+.saltopagina.even:after {
+  left: auto;
+  right: 10px;
+}
+
 
 body {
   background: #fff url(../images/bg.jpg) repeat-y top center;
@@ -37,9 +79,12 @@ body {
     display: block;
     page-break-before: always;
     height: 1px;
-    background-color: transparent;
-    opacity: o;
+    padding: 0;
+    margin: 0px;
+    opacity: 1; 
+    position: relative;
   }
+
 
   section .saltopagina + * {
     padding-top: var(--padding);
