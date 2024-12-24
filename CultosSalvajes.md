@@ -39,7 +39,7 @@ Esta habilidad no se puede escoger en la creación del personaje. Solo mediante 
 
 El cthulhunés (o r'lyehiano) es la lengua hablada por Cthulhu, los habitantes R'lyeh y sus servidores, por ejemplo, los profundos. Los que lo han oído lo describen como extraño y gutural (seguramente para usarse bajo el agua) y muy difícil de pronunciar para las gargantas humanas.
 
-La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del Cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como mglw'naph o fhtagn.
+La Orden del Gran Cthulhu ha conseguido transcribir el idioma a caracteres latinos, ya que los caracteres escritos del cthulhunés no han podido ser descifrados. Eso ha llevado a que parezca formado por grupos de consonantes que suenan relativamente extraños para el oído, como mglw'naph o fhtagn.
 
 \saltocolumna
 
@@ -48,9 +48,9 @@ _En la Ciudad de R'lyeh, el difunto Cthulhu, espera soñando_
 
 Durante la creación de personaje no puedes ponerle puntos a Idioma Cthulhunés a no ser que tengas la ventaja Experiencia con los Mitos.
 
-El Cthulhunés puede ser entendido y leído (si está escrito en caracteres latinos) pero el usuario tiene dos niveles menos a la hora de hablarlo. Si no llega a d4 no podrá pronunciarlo. Es decir, con Cthulhunés d8, podrá hablarlo a d4. Con un d6 no podrá hablarlo, pero si leerlo y entenderlo.
+El cthulhunés puede ser entendido y leído (si está escrito en caracteres latinos) pero el usuario tiene dos niveles menos a la hora de hablarlo. Si no llega a d4 no podrá pronunciarlo. Es decir, con Idioma Cthulhunés d8, podrá hablarlo a d4. Con un d6 no podrá hablarlo, pero si leerlo y entenderlo.
 
-El Cthulhunés es una lengua creada para pronunciar cosas impronunciables y es por ello que afecta a la cordura del hablante. Así pues, cada vez que se suba este idioma, deberá hacerse una TPC (tirada de perdida de cordura) igual al nivel que se quiere conseguir.
+El cthulhunés es una lengua creada para pronunciar cosas impronunciables y es por ello que afecta a la cordura del hablante. Así pues, cada vez que se suba este idioma, deberá hacerse una TPC (tirada de perdida de cordura) igual al nivel que se quiere conseguir.
 
 ### Idioma Naacal (Astucia)
 El naacal es el idioma que habla la serpigente. Era el idioma que se hablaba en el continente perdido de Mu hace más de 173.000 años. Las letras son ligeramente similares en apariencia a lenguajes mesoamericanos como el maya. Su pronunciación es complicada para los humanos debido a que está pensada para la lengua y las cuerdas vocales de la serpigente.
@@ -159,7 +159,7 @@ _Prerrequisitos: Novato_
 
 Has tenido experiencias con los Mitos, quizás en tu niñez o adolescencia. Puede ser que vengas de un linaje de adoradores de Primigenios o que la sangre de profundo corra por sus venas. Puede ser que te enfrentaras a un monstruo de los Mitos y consiguieras sobrevivir o que tu abuela te transmitiera parte de los conocimientos prohibidos de su akelarre de brujas.
 
-A nivel de juego, podrás empezar con las ventajas "Nuevos poderes" y "Puntos de poder". Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad idioma Cthulhunés.
+A nivel de juego, podrás empezar con las ventajas "Nuevos poderes" y "Puntos de poder". Es decir, podrás empezar tus aventuras con la capacidad de hacer hechizos. Además, podrás adquirir con puntos de creación la habilidad Mitos de Cthulhu a d4 y dispondrás de un libro de los Mitos generado aleatoriamente. También podrás gastar puntos hasta d4 para la habilidad Idioma Cthulhunés.
 
 \saltocolumna
 
@@ -203,7 +203,7 @@ Hay nuevos usos para los benis en tres apartados muy importantes de este juego, 
 
 \concolumna
 
-El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJs al servicio del DJ.
+El horror y la cordura sustituyen a las reglas de miedo de SWEA. Las ventajas y desventajas que afectan al miedo (como Osado o Cobarde) no son válidas en esta ambientación y no pueden ser adquiridas por los héroes. Todo personaje tiene 4 puntos de cordura y si pierde todos caerá en la locura y pasará a ser un PNJ al servicio del DJ.
 
 Cada vez que un personaje se enfrente a un ser de los Mitos deberá hacer una tirada de enfrentada de Astucia contra la tirada de pérdida de cordura (TPC) del monstruo. Si pasa la tirada no ocurre nada, el personaje ha racionalizado correctamente lo que ha ocurrido y puede actuar con normalidad.
 
@@ -243,21 +243,21 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 | 4-5 | Envidioso (menor) | Hábito (menor) | Fobia (menor) | Trastorno de ansiedad generalizada (menor) |
 | 6-7 | Fobia (menor) | Manía (menor) | Delirio (menor) | Fobia (menor) |
 | 8-9 | Amnesia y flashbacks (menor) | Ataques de pánico (menor) | Fobia (menor) | Arrogante (mayor) |
-| 10  | Avaricioso (menor) | Megalomanía (menor) | Envidioso (mayor) | Arrogante (mayor) |
-| J   | Ataques de pánico (menor) | Megalomanía (mayor) | Avaricioso (menor) | Fobia (mayor) |
-| Q   | Trastorno de ansiedad generalizada (mayor) | Avaricioso (mayor) | Exceso de Confianza (mayor) | Sanguinario |
-| K   | Trastorno obsesivo-compulsivo (mayor) | Amnesia y flashbacks (mayor) | Ataques de pánico (mayor) | Delirio (mayor) |
-| A   | Fobia (mayor) | Paranoia (Mayor) | Hábito (mayor) | Depresión (mayor) |
+| 10 | Avaricioso (menor) | Megalomanía (menor) | Envidioso (mayor) | Arrogante (mayor) |
+| J | Ataques de pánico (menor) | Megalomanía (mayor) | Avaricioso (menor) | Fobia (mayor) |
+| Q | Trastorno de ansiedad generalizada (mayor) | Avaricioso (mayor) | Exceso de Confianza (mayor) | Sanguinario |
+| K | Trastorno obsesivo-compulsivo (mayor) | Amnesia y flashbacks (mayor) | Ataques de pánico (mayor) | Delirio (mayor) |
+| A | Fobia (mayor) | Paranoia (Mayor) | Hábito (mayor) | Depresión (mayor) |
 
 &nbsp;
 
 **Tabla de Modificación del TPC por grandes grupos**
 
-| Tamaño de la manada | d4  | d6  | d8  | d10 | d12 |
+| Tamaño de la manada | d4 | d6 | d8 | d10 | d12 |
 |--|--|--|--|--|--|
-| hasta tamaño del grupo (0) | d4  | d6  | d8  | d10 | d12 |
-| hasta tamaño del grupo x 2 (+1) | d6  | d8  | d10 | d12 | d12+1 |
-| hasta tamaño del grupo x 5 (+2) | d8  | d10 | d12 | d12+1 | d12+2 |
+| hasta tamaño del grupo (0) | d4 | d6 | d8 | d10 | d12 |
+| hasta tamaño del grupo x 2 (+1) | d6 | d8 | d10 | d12 | d12+1 |
+| hasta tamaño del grupo x 5 (+2) | d8 | d10 | d12 | d12+1 | d12+2 |
 | hasta tamaño del grupo x 10 (+3) | d10 | d12 | d12+1 | d12+2 | d12+3 |
 | hasta tamaño del grupo x 20 (+5) | d12 | d12+1 | 12+2 | d12+3 | d12+4 |
 | hasta tamaño del grupo x 50 (+6) | d12+1 | d12+2 | d12+3 | d12+4 | d12+5 |
@@ -269,7 +269,7 @@ Si se saca un Joker en cualquier carta relacionada con trastornos, no solo no ad
 La TPC del monstruo es específica para cada PJ, pero solo debe hacerse una tirada con cada tipo de monstruo, aunque la cantidad sí puede modificar la TPC. Es decir, que si nos encontramos con 4 profundos y una docena de gules. Cada jugador deberá hacer una tirada enfrentada contra los profundos y otra contra los gules.
 
 ### Modificaciones de las TPC
-Las TPCs pueden ser modificadas en determinadas situaciones.
+Las TPC pueden ser modificadas en determinadas situaciones.
 
 #### Grandes grupos
 Normalmente, los monstruos de los Mitos son seres solitarios o como mucho viven en grupos muy pequeños, Sin embargo, hay monstruos que viven en grandes grupos y producen más o menos locura según su número. No es lo mismo encontrarse un profundo solitario en una cueva (TPC d4) que ver como cientos de ellos salen del agua y devoran a toda la tripulación y hunden el barco. (TPC d12). Para los monstruos que tengan manada en su TPC deberás consultar la tabla de Grandes grupos.
@@ -306,7 +306,7 @@ La magia es una parte fundamental de Cultos Salvajes, tan fundamental como en lo
 
 Es por ello que la santería o vudú (o por lo menos el vudú de las películas y series de miedo) casa tan bien con la magia de Cultos Salvajes. Es tenebroso, impuro, con sacrificios y muertos que se levantan. Como podrás ver más adelante, muchos de los poderes de SWEA, toman forma en hechizos de inspiración vudú. Además, como bien nos ha enseñado Monkey Island el vudú y los piratas combinan muy bien.
 
-En los relatos de Lovecraft todas las personas pueden llevar a cabo rituales y hechizos. No necesitas tener sangre de demonio o ser descendiente de magos o ser un elegido de un dios. Solo necesita estudiar el hechizo y hacerlo correctamente usando las formulas mágicas y los ingredientes adecuados.
+En los relatos de Lovecraft todas las personas pueden llevar a cabo rituales y hechizos. No necesitas tener sangre de demonio o ser descendiente de magos o ser un elegido de un dios. Solo necesita estudiar el hechizo y hacerlo correctamente usando las fórmulas mágicas y los ingredientes adecuados.
 
 Es por ello que todo comodín en esta ambientación tiene capacidades mágicas, pero debe saber las fórmulas, los rituales y las recetas para poder activar las fuerzas oscuras y enfocarlas de la manera que le interesa. Y la única forma de conocer nuevos hechizos es estudiar tomos de los mitos Cthulhu. A nivel de juego, podríamos decir que todo personaje tiene la ventaja Trasfondo arcano (Hechicería primigenia).
 
@@ -360,7 +360,7 @@ Otras ventajas asociadas a la ventaja Trasfondo Arcano, como Canalización, func
 
 \concolumna
 
-Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftsiana, deberán tener un toque oscuro, nigromántico muchas veces y rozando la locura y el horror.
+Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lovecraftiana, deberán tener un toque oscuro, nigromántico muchas veces y rozando la locura y el horror.
 
 * Un objeto maldito que provoque ceguera, debería dejar los ojos del objetivo como cuencas vacías o hacer que los párpados parezcan cosidos.
 * Protección recubrirá al hechicero de grandes escamas reptilianas o de una estructura quitinosa que le haga parecer un insecto.
@@ -376,7 +376,7 @@ Los ornamentos de todos los hechizos deben tratar de seguir la ambientación lov
 
 \concolumna
 
-En Cultos Salvajes hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWADE.
+En Cultos Salvajes hay nuevos poderes disponibles, aparte de los que puedas encontrar en el Manual Básico de SWEA.
 
 ### Abrir puertas
 
@@ -463,7 +463,7 @@ No se puede usar en combate más que como forma de huida. Durante el turno de su
 ### Transmutación
 
 * **Rango:** Especial
-* **Puntos de poder:** 3PP x nivel de dificultad
+* **Puntos de poder:** 3 PP x nivel de dificultad
 * **Distancia:** Toque
 * **Duración:** 1 hora
 
@@ -479,7 +479,7 @@ A la hora de calcular la dificultad y los PP que debes gastar para lanzar una tr
 
  **Cantidad de materia a transmutar:** Cada metro cúbico de materia a transmutar supone 1 nivel, con un mínimo de 1. Un cuerpo humano sería medio metro cúbico, un gran portón de madera reforzada podría ser 3.
 
-La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste. Para que la transmutación se produzca debe pasarse una tirada de Saber de Suleimán contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
+La transmutación es muy complicada y hay muy pocas posibilidades de que salga bien. Hay demasiadas variables en juegos que han de ser modificadas y a la naturaleza no le gustan estos cambios y se resiste. Para que la transmutación se produzca debe pasarse una tirada de Mitos de Cthulhu contra una dificultad de 4 + nivel de dificultad de la transmutación. En el caso de seres vivos o seres mágicos se hace una tirada enfrentada contra Vigor del objetivo + nivel de dificultad.
 
 Según el nivel del lanzador, puede intentar transmutaciones más difíciles.
 
@@ -508,7 +508,7 @@ La transmutación no sirve para crear otra cosa que la propia transformación de
 
 #### Modificadores
 
-**A medías:** Normalmente transformas todo el objeto, si solo quieres transformar una parte el coste de PP se multiplica por 1,5.
+**A medías:** Normalmente, transformas todo el objeto. Si solo quieres transformar una parte ,el coste de PP se multiplica por 1,5.
 
 ### Modificadores de poder
 
@@ -516,7 +516,7 @@ La transmutación no sirve para crear otra cosa que la propia transformación de
 
 Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Adivinación puede hacerse tan horripilante (sombras aterradoras que rodean al o la vidente, voces graves y terroríficas, ...) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6. Incluso poderes de sanación puede ser horripilantes con esta modificación.
 
-Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmente los malos que realmente para tus PJ y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
+Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para tus PJ y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
 \saltopagina
 
@@ -603,7 +603,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Explosión | No permitido |    |    |
 | Gigantismo Enanismo | No permitido |    |    |
 | Ilusión | 38 | Sombras ilusorias | El brujo empieza a manipular la forma de las sombras hasta que parecen objetos reales. |
-| Ilusión | 39 | Espejismos de Xirdneth | Xirdneth,el hacedor de ilusiones, enseña a sus fieles a crear ilusiones, trampantojos y espejismos mediante pases mágicos con sus manos. |
+| Ilusión | 39 | Espejismos de Xirdneth | Xirdneth, el hacedor de ilusiones, enseña a sus fieles a crear ilusiones, trampantojos y espejismos mediante pases mágicos con sus manos. |
 | Intangibilidad | 40 | Forma astral, Viaje astral | El objetivo pasa a su forma astral. |
 | Intangibilidad | 41 | Forma de sombras | El objetivo se convierte en una sombra. La sombra es mucho más grande y con elementos extras que la real del objetivo. |
 | Invisibilidad | No permitido |    |    |
@@ -653,7 +653,7 @@ No todos los poderes de SWEA son posibles en esta ambientación. Aquí tienes un
 | Protección | 63 | Bendición de Yig, Protección de Yig | El dios-serpiente Yig bendice al hechicero con una piel dura y llena de escamas que le protege del daño. |
 | Protección | 64 | Protección de Dagón, Armadura de Hydra | Dagón otorga su protección haciendo que la piel del hechicero sea gomosa y resistente para bloquear muchos ataques. |
 | Protección arcana | 65 | Signo de Nodens | El brujo dibuja el símbolo del dios Nodens en el aire y su cuerpo empieza a brillar. |
-| Protección arcana | 66 | Muñeco vudú de protección | El brujo saca un muñeco vudú replica de él mismo al que se desviará casi todos los ataques mágicos que se le lancen. |
+| Protección arcana | 66 | Muñeco vudú de protección | El brujo saca un muñeco vudú réplica de él mismo al que se desviará casi todos los ataques mágicos que se le lancen. |
 | Protección ambiental | 67 | Hidromiel espacial | El mago elabora una hidromiel que permite resistir las inclemencias del vacío estelar. Pero también vale para el fondo marino, por ejemplo. |
 | Protección ambiental | 68 | Adaptación | Entre gritos de dolor, el cuerpo del conjurador empieza a modificarse grotescamente para desarrollar órganos que le den posibilidad de sobrevivir y moverse en el ambiente que desee. Por ejemplo, agallas y extremidades palmeadas para poder respirar y moverse debajo del agua y capas de grasa para aguantar las bajas temperaturas del agua. |
 | Proyectil | 69 | Pudrir carne | De las manos del brujo salen unos rayos negros que al impactar sobre su objetivo lo pudre, corrompe u oxida produciéndole mucho daño. |
@@ -716,7 +716,7 @@ Por cada poder tenemos varias opciones de hechizos y rituales que no son más qu
 #### Horror (gasto de poder/2):
 Esta modificación es genérica para la mayoría de poderes. Gastando la mitad de los puntos poder normales que pide el poder se puede hacer que el hechizo infunda terror en los objetivos y los que los presencien. Por ejemplo, Ceguera puede hacerse tan horripilante (ojos derretidos, sangrantes, ...) que los que lo presencien tengan que hacer una TPC de d4, si se gasta la misma cantidad de puntos de poder la TPC es un d6.
 
-Recuerda que este es más un recurso más para que lo usen tus PNJs, especialmente los malos que realmente para los jugadores y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
+Recuerda que este es más un recurso más para que lo usen tus PNJ, especialmente los malos que realmente para los jugadores y deberías dejarles claro que ir sumiendo en la locura a la gente no es cosa de héroes.
 
 Esta modificación solo se puede usar con: Aura dañina, Barrera, Ceguera, Drenaje de puntos de poder, Ilusión, Lectura de mentes, Invocación de aliados, Manipulación de recuerdos, Marioneta, Protección, Oscuridad, Proyectil, Sonido, Sueño y Trepamuros
 
@@ -995,7 +995,7 @@ Mientras la víctima esté encerrada, no necesita, ni comer, ni beber, ni respir
 
 La condición normalmente es tan sencilla como quitar el tapón de la botella, lo difícil es encontrar la botella porque está en el fondo del mar o en algún lugar mágico y perdido lleno de trampas.
 
-Algún schahriar inteligente podría meter a una persona con una enfermedad terminal en una botella esperando encontrar un remedio y sacarla cuando pueda curarla. Como DJ está en tu mano permitirlo o no.
+Algún PJ inteligente podría meter a una persona con una enfermedad terminal en una botella esperando encontrar un remedio y sacarla cuando pueda curarla. Como DJ está en tu mano permitirlo o no.
 
 #### Enfermedad
 * **Resistencia:** VIG
@@ -1018,7 +1018,7 @@ Esta maldición no está ligada a ningún poder, ya que no funciona exactamente 
 
 No hay gasto de PP ni temporales ni permanente, pero hay una tirada enfrentada de ESP para que la maldición surta efecto y ambos tienen que pasar una TPC d8.
 
-Esta maldición se refleja en un Hábito (Mayor) que obliga al schahriar a consumir carne humana o sangre cada 24 horas. La condición puede ser hacer alguna peregrinación a algún lugar sagrado perdido o o conseguir algún tipo de compuesto mágico.
+Esta maldición se refleja en un Hábito (Mayor) que obliga al PJ a consumir carne humana o sangre cada 24 horas. La condición puede ser hacer alguna peregrinación a algún lugar sagrado perdido o o conseguir algún tipo de compuesto mágico.
 
 #### Petrificar
 * **Resistencia:** VIG
@@ -1176,7 +1176,7 @@ Dentro de los grimorios mágicos puede ser el más popular y fácil de encontrar
 
 Está escrita por el Patriarca Adán, al dictado del arcángel Raziel, de ahí su nombre. Esto lo haría la obra más antigua de la Humanidad, que no de la Tierra, ya que tenemos libros más antiguos escritos por yinns anteriores a los hombres.
 
-El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham explicando las leyes de la Creación. Se divide en cinco libros que tratan sobre la angelología, los Nombres divinos, la gematría, la astronomía y la construcción.
+El libro contiene las enseñanzas del arcángel Raziel a Adán y a Abraham explicando las leyes de la Creación. Se divide en cinco libros que tratan sobre la angelología, los Nombres divinos, la geomatría, la astronomía y la construcción.
 
 Puede encontrarse en un único tomo con NP 10 o en tomos separados con NP 2 por cada libro (angelología, nombres, geometría, ...).
 
@@ -1371,7 +1371,7 @@ Si alguna persona abre el cilindro o se rompe y deja ver su contenido, todos los
 
 ### Droga Liao
 
-Esta sustancia, llamada a veces Droga Plutónica, proveniente de Asia, se crea a partir de extracto de loto negro. Esta droga tiene la propiedad de enviar la mente del schahriar afín a la magia que la tome hacia atrás en el tiempo.
+Esta sustancia, llamada a veces Droga Plutónica, proveniente de Asia, se crea a partir de extracto de loto negro. Esta droga tiene la propiedad de enviar la mente del PJ afín a la magia que la tome hacia atrás en el tiempo.
 
 La droga Liao es tan poderosa que puede hacer retroceder a tu mente tanto en el tiempo que atraigas la atención de los sirrush que no dejaran de perseguirte hasta darte caza y destruirte.
 
@@ -1453,7 +1453,7 @@ El polvo tiene la capacidad de volver visible por un momento a criaturas invisib
 
 Este líquido rojo similar a sangre hace crecer unas alas funcionales a los afines a la magia al mezclarse con restos humanos frescos y frotarlo en la espalda y hombros.
 
-Las alas son de gran tamaño y llegan hasta el suelo. Otorgan la capacidad especial de Vuelo 8 indefinidamente. Las alas no pueden ser ocultadas de ninguna manera, como mínimo se notará algo raro en la espalda del schahriar. Para romper el hechizo hay que amputarlas. Luego solo quedará un pequeño muñón donde estaban las alas y donde volverán a crecer si se vuelve a usar la sangre de Fénix.
+Las alas son de gran tamaño y llegan hasta el suelo. Otorgan la capacidad especial de Vuelo 8 indefinidamente. Las alas no pueden ser ocultadas de ninguna manera, como mínimo se notará algo raro en la espalda del PJ. Para romper el hechizo hay que amputarlas. Luego solo quedará un pequeño muñón donde estaban las alas y donde volverán a crecer si se vuelve a usar la sangre de Fénix.
 
 Las alas pueden tener diferente forma según el carácter y karma del PJ. Desde brillantes alas blancas para la gente de buena fe, de águila para personas valientes y heroicas, de murciélago para gente malvada y de mariposa para niños y niñas (aunque no es de buena gente hacer que niños pasen ese terrible trago). Sean como sean las alas, dan Paso volando 12.
 
@@ -2250,7 +2250,7 @@ Con el material adecuado, un Mi-go científico puede extraer el cerebro de un hu
 
 Vas a necesitar llenar tus tabernas de turbios personajes de miradas perdidas, tus mercados de extraños vendedores, tus mares de barcos sin bandera con oscuras velas y tus junglas de animales de grandes dientes y afiladas garras acechando entre la vegetación. Aquí tienes todo lo necesario para que rellenes todos esos huecos en tus historias.
 
-En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJs. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
+En algunos casos te encontrarás algunas opciones de personalización muy simples del PNJ para que tu mesa no termine por aprenderse los PNJ. Por ejemplo, los piratas pueden ser avariciosos, borrachos, cojos, mancos o tuertos y los agricultores puede que lleven cuchillos o machetes.
 
 ### Adepto cultista
 
